@@ -3,14 +3,21 @@ var router = express.Router();
 
 var data = {};
 var watchlist = [];
+var mostRecent = 229407;
 parseCSV(data);
 
 /* GET portfoloi data */
 router.get('/portfolio/:id', function(req, res, next) {
+  mostRecent = req.params.id;
   res.json(data[req.params.id]);
 });
 
-router.get('/watchlist/:id', function(req, res, next) {
+router.get('/watchlist/add', function(req, res, next) {
+  watchlist.push(mostRecent);
+  res.send("added");
+});
+
+router.get('/watchlist/add/:id', function(req, res, next) {
   watchlist.push(req.params.id);
   res.send("added");
 });
