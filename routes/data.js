@@ -16,7 +16,11 @@ router.get('/watchlist/:id', function(req, res, next) {
 });
 
 router.get('/watchlist', function(req, res, next){
-  res.json(watchlist);
+  var obj = [];
+  watchlist.forEach(w => {
+    obj.push(data[w]);
+  })
+  res.json(obj);
 });
 
 
