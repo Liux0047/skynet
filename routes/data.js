@@ -14,18 +14,18 @@ router.get('/portfolio/:id', function(req, res, next) {
 
 router.get('/watchlist/add', function(req, res, next) {
   watchlist.push(mostRecent);
-  res.send("added");
+  res.send("added " + mostRecent);
 });
 
 router.get('/watchlist/add/:id', function(req, res, next) {
   watchlist.push(req.params.id);
-  res.send("added");
+  res.send("added " + req.params.id);
 });
 
 router.get('/watchlist', function(req, res, next){
-  var obj = [];
+  var obj = {};
   watchlist.forEach(w => {
-    obj.push(data[w]);
+    obj[w] = data[w];
   })
   res.json(obj);
 });
