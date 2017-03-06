@@ -40,7 +40,7 @@ module.exports = router;
 
 
 function parseCSV(data) {
-  var columns = ['portfolioId', 'Name', 'Ticker', 'NAV', 'Change', 'YTD', 'currency'];
+  var columns = ['portfolioId', 'Name', 'NAV', 'Change', 'YTD', 'Ticker', 'Currency'];
   ['hk-one', 'sg-one', 'au-one', 'global-products'].forEach(f => {
     require('csv-to-array')({
       file: 'data/' + f + '.csv',
