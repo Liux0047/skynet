@@ -1,4 +1,4 @@
-portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
+portfolioId,Ticker,Name,NAV,ChangePercent,ChangePercentYTD,Ccy,1Y,Incept
 255071,-,BlackRock Australian Equity Absolute Return Fund,0.77,-0.09,1.79,Australian Dollar,-1.57,8.27
 254845,-,BlackRock Australian Equity Opportunities Fund,1,-0.1,0.26,Australian Dollar,12.96,71.17
 254695,-,BlackRock Australian Share Fund,1.65,-0.48,-2.45,Australian Dollar,7.3,234.69

@@ -1,4 +1,4 @@
-portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
+portfolioId,Ticker,Name,NAV,ChangePercent,ChangePercentYTD,Ccy,1Y,Incept
 237595,-,BGF ASEAN Leaders Fund,10.68,0.09,7.89,USD,7.89,1.2
 237593,-,BGF ASEAN Leaders Fund,10.26,0.59,12.1,EUR,12.1,22.35
 237596,-,BGF ASEAN Leaders Fund,11.04,0.09,8.63,USD,8.63,4.5

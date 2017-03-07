@@ -1,4 +1,4 @@
-portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
+portfolioId,Ticker,Name,NAV,ChangePercent,ChangePercentYTD,Ccy,1Y,Incept
 239726,IVV,iShares Core S&P 500 ETF,237.98,-0.25,1.89,U.S. Dollar,19.97,114.96
 239623,EFA,iShares MSCI EAFE ETF,60.46,0.2,2.88,U.S. Dollar,11.95,105.93
 239458,AGG,iShares Core U.S. Aggregate Bond ETF,108.75,0.05,0.19,U.S. Dollar,1.36,69.96
@@ -138,7 +138,7 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 239450,STIP,iShares 0-5 Year TIPS Bond ETF,101.26,-0.03,0.48,U.S. Dollar,2.69,7.05
 239516,IHI,iShares U.S. Medical Devices ETF,149.47,-0.41,6.9,U.S. Dollar,24.28,199.64
 239750,IXN,iShares Global Tech ETF,120.35,-0.32,4.75,U.S. Dollar,25.87,141.59
-251896,EXXT,iShares NASDAQ-100® UCITS ETF (DE),50.83,-0.1,5.18,U.S. Dollar,20.25,217.9
+251896,EXXT,iShares NASDAQ-100ï¿½ UCITS ETF (DE),50.83,-0.1,5.18,U.S. Dollar,20.25,217.9
 251750,SUAG,iShares US Aggregate Bond UCITS ETF,103.51,-0.04,0.14,U.S. Dollar,1.04,11.68
 253721,CSCA,iShares MSCI Canada UCITS ETF,121.97,0.21,3.71,U.S. Dollar,32.26,17.18
 239741,IXC,iShares Global Energy ETF,33.16,-0.27,-2.73,U.S. Dollar,28.44,183.84
@@ -246,16 +246,16 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 239748,MXI,iShares Global Materials ETF,58.8,-0.19,7.22,U.S. Dollar,47.51,46.72
 239585,IYLD,iShares Morningstar Multi-Asset Income ETF,25.02,0.05,1.24,U.S. Dollar,12.6,27.56
 239684,EWD,iShares MSCI Sweden Capped ETF,30.42,0.63,5.8,U.S. Dollar,16.37,419.72
-272342,IBDM,iShares® iBonds® Dec 2021 Term Corporate ETF,24.8,0.02,0.41,U.S. Dollar,4.07,4.32
+272342,IBDM,iSharesï¿½ iBondsï¿½ Dec 2021 Term Corporate ETF,24.8,0.02,0.41,U.S. Dollar,4.07,4.32
 258098,SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,50.38,0.02,0.28,U.S. Dollar,2.13,5.5
 251847,EMCP,iShares $ EM Corp Bond UCITS ETF,100.87,0.15,1.33,U.S. Dollar,12.67,22.15
 283722,IMBS,iShares US Mortgage Backed Securities UCITS ETF,4.9,-0.08,-0.06,U.S. Dollar,-,-0.59
 251766,SEDY,iShares EM Dividend UCITS ETF,21.27,-0.15,5.9,U.S. Dollar,35.53,2.13
 277246,IFSW,iShares Edge MSCI World Multifactor UCITS ETF,5.76,0.46,2.32,U.S. Dollar,15.07,12.89
 251855,IEER,iShares MSCI Eastern Europe Capped UCITS ETF,22.2,1.32,2.28,U.S. Dollar,41.42,21.44
-271056,IBDL,iShares® iBonds® Dec 2020 Term Corporate ETF,25.37,0.01,0.56,U.S. Dollar,3.39,6
+271056,IBDL,iSharesï¿½ iBondsï¿½ Dec 2020 Term Corporate ETF,25.37,0.01,0.56,U.S. Dollar,3.39,6
 251770,EXI3,iShares Dow Jones Industrial Average UCITS ETF (DE),197.7,-0.03,0.54,U.S. Dollar,22.23,175.84
-272341,IBDK,iShares® iBonds® Dec 2019 Term Corporate ETF,24.95,0.01,0.36,U.S. Dollar,3.06,4.17
+272341,IBDK,iSharesï¿½ iBondsï¿½ Dec 2019 Term Corporate ETF,24.95,0.01,0.36,U.S. Dollar,3.06,4.17
 239518,IEZ,iShares U.S. Oil Equipment & Services ETF,43.96,-1.56,0.62,U.S. Dollar,40.23,-3.12
 270054,IWQU,iShares Edge MSCI World Quality Factor UCITS ETF,29.02,0.25,1.48,U.S. Dollar,12.19,12.05
 251465,SIZE,iShares Edge MSCI USA Size Factor ETF,75.93,-0.3,1.9,U.S. Dollar,21.13,54.93
@@ -270,47 +270,47 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 279626,IAGG,iShares Core International Aggregate Bond ETF,51.76,0.07,-1.02,U.S. Dollar,2.29,4.44
 239767,NYF,iShares New York Muni Bond ETF,110.09,0.04,0.43,U.S. Dollar,-0.48,44.99
 239676,EPOL,iShares MSCI Poland Capped ETF,21.14,-0.74,10.79,U.S. Dollar,22.81,4.82
-264507,IBDH,iShares® iBonds® Dec 2018 Term Corporate ETF,25.16,0.02,0.2,U.S. Dollar,2.42,4.34
+264507,IBDH,iSharesï¿½ iBondsï¿½ Dec 2018 Term Corporate ETF,25.16,0.02,0.2,U.S. Dollar,2.42,4.34
 253723,CSEMAS,iShares MSCI EM Asia UCITS ETF,121.53,0.21,5.82,U.S. Dollar,20.42,17.04
 251909,SPOG,iShares Oil & Gas Exploration & Production UCITS ETF,18.67,0.76,-2.53,U.S. Dollar,39.58,-26.81
 239722,IWX,iShares Russell Top 200 Value ETF,49.04,-0.14,0.26,U.S. Dollar,22.35,122.34
 239752,WOOD,iShares Global Timber & Forestry ETF,56.54,-0.32,1.99,U.S. Dollar,30.94,33.88
 239459,CMBS,iShares CMBS ETF,51.25,0.01,0.61,U.S. Dollar,2.18,14.81
-272343,IBDN,iShares® iBonds® Dec 2022 Term Corporate ETF,24.89,0.02,0.53,U.S. Dollar,5.14,5.25
+272343,IBDN,iSharesï¿½ iBondsï¿½ Dec 2022 Term Corporate ETF,24.89,0.02,0.53,U.S. Dollar,5.14,5.25
 264544,HYGH,iShares Interest Rate Hedged High Yield Bond ETF,91.4,-0.07,0.9,U.S. Dollar,17.82,3.39
 239745,EXI,iShares Global Industrials ETF,79.67,-0.01,2.61,U.S. Dollar,23.05,87.59
 272822,INTF,iShares Edge MSCI Multifactor Intl ETF,24.28,0.37,2.75,U.S. Dollar,9.55,-1.51
 239527,EMHY,iShares Emerging Markets High Yield Bond ETF,50.01,0.03,1.96,U.S. Dollar,17.52,31.41
-239430,IBMF,iShares® iBonds® Sep 2017 Term Muni Bond ETF,27.29,0.04,0.11,U.S. Dollar,0.26,20.42
+239430,IBMF,iSharesï¿½ iBondsï¿½ Sep 2017 Term Muni Bond ETF,27.29,0.04,0.11,U.S. Dollar,0.26,20.42
 239583,JKH,iShares Morningstar Mid-Cap Growth ETF,173,-0.87,3.82,U.S. Dollar,20.39,197.34
 239739,RXI,iShares Global Consumer Discretionary ETF,94.39,-0.38,3.19,U.S. Dollar,13.28,115.3
 239551,GHYG,iShares Global High Yield Corporate Bond ETF,49.23,0.12,1.52,U.S. Dollar,15.69,25.24
 239614,BKF,iShares MSCI BRIC ETF,35.39,-0.45,6.35,U.S. Dollar,31.64,-26.38
 270057,IWSZ,iShares Edge MSCI World Size Factor UCITS ETF,29.06,0.26,3.41,U.S. Dollar,20.31,14.06
-254263,IBMG,iShares® iBonds® Sep 2018 Term Muni Bond ETF,25.5,0.06,0.32,U.S. Dollar,0.36,5.31
+254263,IBMG,iSharesï¿½ iBondsï¿½ Sep 2018 Term Muni Bond ETF,25.5,0.06,0.32,U.S. Dollar,0.36,5.31
 239642,EEMS,iShares MSCI Emerging Markets Small-Cap ETF,44.6,-0.03,4.59,U.S. Dollar,15.41,-1.9
 239671,EWN,iShares MSCI Netherlands ETF,25.51,0.29,1.9,U.S. Dollar,9.26,183.35
-272340,IBDJ,iShares® iBonds® Dec 2017 Term Corporate ETF,24.84,0.02,0.16,U.S. Dollar,1.75,2.61
+272340,IBDJ,iSharesï¿½ iBondsï¿½ Dec 2017 Term Corporate ETF,24.84,0.02,0.16,U.S. Dollar,1.75,2.61
 258117,ERND,iShares $ Ultrashort Bond UCITS ETF,100.15,0.01,0.12,U.S. Dollar,1.24,2.12
 239668,TOK,iShares MSCI Kokusai ETF,57.53,-0.19,2.29,U.S. Dollar,17.56,38.59
 270319,COMT,iShares Commodities Select Strategy ETF,34.49,0.29,1.31,U.S. Dollar,30.18,-29.02
 251879,ITKY,iShares MSCI Turkey UCITS ETF,23.14,0.1,3.53,U.S. Dollar,-7.26,-4.5
 239675,EPHE,iShares MSCI Philippines ETF,33.74,-0.18,5.99,U.S. Dollar,6.9,45.35
 239461,GNMA,iShares GNMA Bond ETF,49.85,0.01,-0.12,U.S. Dollar,0,6.46
-269394,IBMI,iShares® iBonds® Sep 2020 Term Muni Bond ETF,25.58,0.09,0.87,U.S. Dollar,-0.31,4.55
+269394,IBMI,iSharesï¿½ iBondsï¿½ Sep 2020 Term Muni Bond ETF,25.58,0.09,0.87,U.S. Dollar,-0.31,4.55
 239424,ILTB,iShares Core 10+ Year USD Bond ETF,61.86,0.24,0.53,U.S. Dollar,6.32,60.49
-258510,IBMH,iShares® iBonds® Sep 2019 Term Muni Bond ETF,25.52,0.03,0.63,U.S. Dollar,0.09,4.8
+258510,IBMH,iSharesï¿½ iBondsï¿½ Sep 2019 Term Muni Bond ETF,25.52,0.03,0.63,U.S. Dollar,0.09,4.8
 239515,IAK,iShares U.S. Insurance ETF,61.54,-0.04,0.07,U.S. Dollar,26.48,42.69
 284219,RBOT,iShares Automation & Robotics UCITS ETF,5.7,0.38,6.87,U.S. Dollar,-,10.52
 239462,GBF,iShares Government/Credit Bond ETF,113.2,0.06,0.28,U.S. Dollar,1.66,51.61
-272346,IBDQ,iShares® iBonds® Dec 2025 Term Corporate ETF,24.63,0.13,0.16,U.S. Dollar,5.29,4.55
+272346,IBDQ,iSharesï¿½ iBondsï¿½ Dec 2025 Term Corporate ETF,24.63,0.13,0.16,U.S. Dollar,5.29,4.55
 239672,ENZL,iShares MSCI New Zealand Capped ETF,43.31,1.48,7.95,U.S. Dollar,30.03,133.13
 239654,RING,iShares MSCI Global Gold Miners ETF,18.96,-1.35,12.83,U.S. Dollar,68.15,-58.56
 251394,ISWD,iShares MSCI World Islamic UCITS ETF,29.27,0.38,1.58,U.S. Dollar,15.38,28.43
 272124,IDTL,iShares $ Treasury Bond 20+yr UCITS ETF,4.52,-0.04,0.36,U.S. Dollar,-3.41,-6.44
 239666,SCJ,iShares MSCI Japan Small-Cap ETF,66.15,0.56,3.73,U.S. Dollar,19.28,59.55
 239753,JXI,iShares Global Utilities ETF,47.19,0.62,0.96,U.S. Dollar,5.37,33.97
-272344,IBDO,iShares® iBonds® Dec 2023 Term Corporate ETF,24.89,0.03,0.69,U.S. Dollar,6.07,5.51
+272344,IBDO,iSharesï¿½ iBondsï¿½ Dec 2023 Term Corporate ETF,24.89,0.03,0.69,U.S. Dollar,6.07,5.51
 239734,WPS,iShares International Developed Property ETF,35.51,-0.02,2.03,U.S. Dollar,9.09,6.01
 239693,EUSA,iShares MSCI USA Equal Weighted ETF,50.01,-0.48,2.45,U.S. Dollar,24.91,121.69
 251911,INRG,iShares Global Clean Energy UCITS ETF,5.14,1.13,4.26,U.S. Dollar,-1.16,-78.76
@@ -325,24 +325,24 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 239721,IWL,iShares Russell Top 200 ETF,54.05,-0.19,1.85,U.S. Dollar,19.02,141.67
 280510,IUIT,iShares S&P 500 Information Technology Sector UCITS ETF,6.12,0.52,4.39,U.S. Dollar,24.34,15.83
 239609,EWO,iShares MSCI Austria Capped ETF,17.49,0.3,5.07,U.S. Dollar,25.09,147.25
-254551,IBDB,iShares® iBonds® Mar 2018 Term Corporate ETF,25.64,0.03,0.2,U.S. Dollar,2.05,8.46
+254551,IBDB,iSharesï¿½ iBondsï¿½ Mar 2018 Term Corporate ETF,25.64,0.03,0.2,U.S. Dollar,2.05,8.46
 239431,QLTA,iShares Aaa - A Rated Corporate Bond ETF,51.87,0.1,0.1,U.S. Dollar,3.62,15.77
-276546,IBMJ,iShares® iBonds® Dec 2021 Term Muni Bond ETF,25.67,0.1,0.99,U.S. Dollar,-0.64,3.52
+276546,IBMJ,iSharesï¿½ iBondsï¿½ Dec 2021 Term Muni Bond ETF,25.67,0.1,0.99,U.S. Dollar,-0.64,3.52
 251875,SPOL,iShares MSCI Poland UCITS ETF,18.5,2.15,10.41,U.S. Dollar,18.9,-31.16
-276544,IBMK,iShares® iBonds® Dec 2022 Term Muni Bond ETF,25.74,0.03,1.07,U.S. Dollar,-0.79,4.13
-272345,IBDP,iShares® iBonds® Dec 2024 Term Corporate ETF,24.72,0.1,0.33,U.S. Dollar,5.93,4.77
+276544,IBMK,iSharesï¿½ iBondsï¿½ Dec 2022 Term Muni Bond ETF,25.74,0.03,1.07,U.S. Dollar,-0.79,4.13
+272345,IBDP,iSharesï¿½ iBondsï¿½ Dec 2024 Term Corporate ETF,24.72,0.1,0.33,U.S. Dollar,5.93,4.77
 239660,SMIN,iShares MSCI India Small-Cap ETF,38.51,0.72,6.9,U.S. Dollar,18.96,47.98
 251910,IEMI,iShares EM Infrastructure UCITS ETF,21.48,0.06,2.46,U.S. Dollar,13.14,-0.09
-251474,IBCC,iShares® iBonds® Mar 2018 Term Corporate ex-Financials ETF,24.65,0.02,0.16,U.S. Dollar,1.62,4.1
-251476,IBCD,iShares® iBonds® Mar 2020 Term Corporate ex-Financials ETF,24.63,0.01,0.37,U.S. Dollar,2.91,6.64
-254553,IBDC,iShares® iBonds® Mar 2020 Term Corporate ETF,26.2,0.02,0.42,U.S. Dollar,3.42,13.83
+251474,IBCC,iSharesï¿½ iBondsï¿½ Mar 2018 Term Corporate ex-Financials ETF,24.65,0.02,0.16,U.S. Dollar,1.62,4.1
+251476,IBCD,iSharesï¿½ iBondsï¿½ Mar 2020 Term Corporate ex-Financials ETF,24.63,0.01,0.37,U.S. Dollar,2.91,6.64
+254553,IBDC,iSharesï¿½ iBondsï¿½ Mar 2020 Term Corporate ETF,26.2,0.02,0.42,U.S. Dollar,3.42,13.83
 280507,IUHC,iShares S&P 500 Health Care Sector UCITS ETF,5.22,0.47,2.22,U.S. Dollar,7.24,1.01
 251912,WOOD,iShares Global Timber & Forestry UCITS ETF,21.17,1.26,1.98,U.S. Dollar,30.24,-0.48
 239831,JPXN,iShares JPX-Nikkei 400 ETF,55.96,0.25,3.8,U.S. Dollar,15.2,72.29
 239544,USRT,iShares Core U.S. REIT ETF,50.53,-0.71,0.12,U.S. Dollar,12.18,49.18
 239610,EWK,iShares MSCI Belgium Capped ETF,17.93,0.38,1.02,U.S. Dollar,5.98,202.26
 239537,IEUS,iShares MSCI Europe Small-Cap ETF,45.89,0.45,3.36,U.S. Dollar,10.95,18.57
-254555,IBDD,iShares® iBonds® Mar 2023 Term Corporate ETF,26.39,0.02,0.54,U.S. Dollar,5.31,17.15
+254555,IBDD,iSharesï¿½ iBondsï¿½ Mar 2023 Term Corporate ETF,26.39,0.02,0.54,U.S. Dollar,5.31,17.15
 239770,IGN,iShares North American Tech-Multimedia Networking ETF,46.12,-1.11,1.31,U.S. Dollar,35.68,29.14
 239738,ICLN,iShares Global Clean Energy ETF,8.63,-0.26,4.17,U.S. Dollar,-0.78,-80.17
 273763,HEWU,iShares Currency Hedged MSCI United Kingdom ETF,23.39,0.06,0.49,U.S. Dollar,20.35,13.77
@@ -374,7 +374,7 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 253733,CSKR,iShares MSCI Korea UCITS ETF USD (Acc),133.9,1.02,7.65,U.S. Dollar,23.25,30.43
 251393,ISUS,iShares MSCI USA Islamic UCITS ETF,39.15,0.56,1.04,U.S. Dollar,15.54,65.51
 251825,N6M,iShares J.P. Morgan USD Asia Credit Bond Index ETF,10.6,0.1,1.09,U.S. Dollar,6.25,35.07
-251477,IBCE,iShares® iBonds® Mar 2023 Term Corporate ex-Financials ETF,24.25,0.01,0.5,U.S. Dollar,3.91,7.59
+251477,IBCE,iSharesï¿½ iBondsï¿½ Mar 2023 Term Corporate ex-Financials ETF,24.25,0.01,0.5,U.S. Dollar,3.91,7.59
 239735,EMIF,iShares Emerging Markets Infrastructure ETF,29.99,-0.18,2.42,U.S. Dollar,14.77,44.2
 239443,DVYA,iShares Asia/Pacific Dividend ETF,48.43,0.36,3.97,U.S. Dollar,36.42,17.64
 264275,UAE,iShares MSCI UAE Capped ETF,17.03,-1.33,1.6,U.S. Dollar,24.84,-24.32
@@ -397,7 +397,7 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 264611,EUMV,iShares Edge MSCI Min Vol Europe ETF,22.1,0.27,1.12,U.S. Dollar,-2.23,-7.74
 239673,ENOR,iShares MSCI Norway Capped ETF,22.56,0.28,5.5,U.S. Dollar,32.49,3.42
 285539,IMTB,iShares Core 5-10 Year USD Bond ETF,49.2,0.03,0.31,U.S. Dollar,-,-1.79
-285027,IBDR,iShares iBonds® Dec 2026 Term Corporate ETF,24.11,0.14,0,U.S. Dollar,-,-2.86
+285027,IBDR,iShares iBondsï¿½ Dec 2026 Term Corporate ETF,24.11,0.14,0,U.S. Dollar,-,-2.86
 253433,CMDT,iShares Commodity Optimized Trust,36.88,0.81,1.02,U.S. Dollar,15.91,-26.58
 251392,ISEM,iShares MSCI EM Islamic UCITS ETF,14.87,0.4,5.84,U.S. Dollar,20.93,-34.21
 271540,IQLT,iShares Edge MSCI Intl Quality Factor ETF,25.47,0.01,2.28,U.S. Dollar,9.82,3.19
@@ -467,9 +467,9 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 280051,HEUS,iShares Currency Hedged MSCI Europe Small-Cap ETF,25.71,0.1,1.14,U.S. Dollar,16.6,12.37
 285970,SUJP,iShares MSCI Japan SRI UCITS ETF,-,-,-,U.S. Dollar,-,-
 286082,-,iShares Core S&P 500 UCITS ETF,-,-,-,U.S. Dollar,-,-
-282959,IBML,iShares® iBonds® Dec 2023 Term Muni Bond ETF,-,-,-,U.S. Dollar,-,-
-282961,IBMM,iShares® iBonds® Dec 2024 Term Muni Bond ETF,-,-,-,U.S. Dollar,-,-
-282964,IBMN,iShares® iBonds® Dec 2025 Term Muni Bond ETF,-,-,-,U.S. Dollar,-,-
+282959,IBML,iSharesï¿½ iBondsï¿½ Dec 2023 Term Muni Bond ETF,-,-,-,U.S. Dollar,-,-
+282961,IBMM,iSharesï¿½ iBondsï¿½ Dec 2024 Term Muni Bond ETF,-,-,-,U.S. Dollar,-,-
+282964,IBMN,iSharesï¿½ iBondsï¿½ Dec 2025 Term Muni Bond ETF,-,-,-,U.S. Dollar,-,-
 286021,OMXS,iShares OMX Stockholm Capped UCITS ETF,41.67,0.88,1.19,Swedish Krona,-,0.53
 251895,NAFTRAC,iShares NAFTRAC,46.85,-1.04,2.84,Mexican Peso,7.62,528.75
 269128,MEXRISK,iShares MSCI Mexico Risk TRAC,22.4,-0.46,1.41,Mexican Peso,5.35,14.02
@@ -498,7 +498,7 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 279438,1475,iShares Core TOPIX ETF,"1,556.34",0.1,0.2,Japanese Yen,8.53,4.1
 279435,1476,iShares Japan REIT ETF,"1,826.57",0.19,-0.44,Japanese Yen,6.78,13.13
 253742,CSNKY,iShares Nikkei 225 UCITS ETF,"17,657.24",0.68,-0.43,Japanese Yen,10.02,99.45
-251898,EXX7,iShares Nikkei 225® UCITS ETF (DE),"1,878.26",0.02,-0.44,Japanese Yen,9.95,36.92
+251898,EXX7,iShares Nikkei 225ï¿½ UCITS ETF (DE),"1,878.26",0.02,-0.44,Japanese Yen,9.95,36.92
 269022,1581,iShares MSCI Kokusai ETF,"6,367.17",0.53,4.61,Japanese Yen,4.61,41.39
 279436,1478,iShares MSCI Japan High Dividend ETF,"1,980.61",0.17,-0.3,Japanese Yen,11.4,10.29
 283201,1483,iShares JPX/S&P CAPEX & Human Capital ETF,"1,392.55",0.12,-0.29,Japanese Yen,-,-
@@ -519,18 +519,18 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 251761,3039,iShares CSI A-Share Materials Index ETF* (* This is a synthetic ETF),11.23,0,11.1,Hong Kong Dollar,11.1,-23.06
 251795,ISF,iShares Core FTSE 100 UCITS ETF,7.2,-0.34,-0.57,British Pound,21.38,92.4
 251806,IGLT,iShares Core UK Gilts UCITS ETF,13.09,-0.13,-1.75,British Pound,4.28,71.8
-251839,SLXX,iShares Core £ Corp Bond UCITS ETF,144.06,-0.11,-1.37,British Pound,10.93,92.31
-251840,IS15,iShares £ Corp Bond 0-5yr UCITS ETF,107.21,-0.03,-0.02,British Pound,4.34,27
+251839,SLXX,iShares Core ï¿½ Corp Bond UCITS ETF,144.06,-0.11,-1.37,British Pound,10.93,92.31
+251840,IS15,iShares ï¿½ Corp Bond 0-5yr UCITS ETF,107.21,-0.03,-0.02,British Pound,4.34,27
 251804,IGLS,iShares UK Gilts 0-5yr UCITS ETF,133.78,-0.04,-0.31,British Pound,1.08,16.64
-251717,INXG,iShares £ Index-Linked Gilts UCITS ETF,17.6,-1.02,-0.03,British Pound,19.28,122.65
+251717,INXG,iShares ï¿½ Index-Linked Gilts UCITS ETF,17.6,-1.02,-0.03,British Pound,19.28,122.65
 251796,MIDD,iShares FTSE 250 UCITS ETF,18.06,0.14,0.43,British Pound,12.65,292.43
 251807,IUKD,iShares UK Dividend UCITS ETF,9.06,-0.08,-1.66,British Pound,9.93,57.11
 251802,IUKP,iShares UK Property UCITS ETF,5.85,-0.14,-4.32,British Pound,-7.55,-25.55
 251892,IGWD,iShares MSCI World GBP Hedged UCITS ETF (Acc),46.88,0.53,1.2,British Pound,15.92,82.21
 253716,CSUKX,iShares FTSE 100 UCITS ETF,105.11,-0.34,-0.57,British Pound,21.35,70.28
-251841,ISXF,iShares £ Corp Bond ex-Financials UCITS ETF,126.08,-0.13,-1.47,British Pound,10.99,67.6
+251841,ISXF,iShares ï¿½ Corp Bond ex-Financials UCITS ETF,126.08,-0.13,-1.47,British Pound,10.99,67.6
 251869,IJPH,iShares MSCI Japan GBP Hedged UCITS ETF (Acc),52.25,0.58,0.16,British Pound,4.51,102.35
-258120,ERNS,iShares £ Ultrashort Bond UCITS ETF,100.3,-0.01,0.05,British Pound,0.93,2.49
+258120,ERNS,iShares ï¿½ Ultrashort Bond UCITS ETF,100.3,-0.01,0.05,British Pound,0.93,2.49
 251904,IGUS,iShares S&P 500 GBP Hedged UCITS ETF (Acc),55.09,0.61,1.72,British Pound,18.13,112.59
 253739,CSUK,iShares MSCI UK UCITS ETF,99.23,-0.34,-0.54,British Pound,21.04,60.77
 253488,GHYS,iShares Global High Yield Corp Bond GBP Hedged UCITS ETF (Dist),102.35,0.19,0.85,British Pound,15.5,19.97
@@ -540,38 +540,38 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 272400,UKRE,iShares MSCI Target UK Real Estate UCITS ETF,4.77,-0.16,-3.06,British Pound,-2.86,-5.68
 282425,2847,iShares FTSE 100 Index ETF,0.85,0.36,0.61,British Pound,-,15.17
 286083,-,iShares Core S&P 500 UCITS ETF,-,-,-,British Pound,-,-
-251464,DAXEX,iShares Core DAX® UCITS ETF (DE),101.95,0.2,0.46,Euro,17.6,77.66
-251726,IEAC,iShares Core € Corp Bond UCITS ETF,129.02,-0.05,-0.6,Euro,3.44,60.53
+251464,DAXEX,iShares Core DAXï¿½ UCITS ETF (DE),101.95,0.2,0.46,Euro,17.6,77.66
+251726,IEAC,iShares Core ï¿½ Corp Bond UCITS ETF,129.02,-0.05,-0.6,Euro,3.44,60.53
 251783,EXW1,iShares EURO STOXX 50 UCITS ETF (DE),32.99,0.6,-1.71,Euro,10.12,14.22
-251843,IHYG,iShares € High Yield Corp Bond UCITS ETF,107.36,0.05,0.49,Euro,9.58,50.05
+251843,IHYG,iShares ï¿½ High Yield Corp Bond UCITS ETF,107.36,0.05,0.49,Euro,9.58,50.05
 251860,IMEU,iShares MSCI Europe UCITS ETF EUR (Dist),23.28,0.63,-0.39,Euro,9.07,16.41
 251931,EXSA,iShares STOXX Europe 600 UCITS ETF (DE),36.33,0.58,-0.31,Euro,8.72,120.79
 251781,EUE,iShares EURO STOXX 50 UCITS ETF,33.8,0.81,-1.72,Euro,10.28,2.26
-251565,IBCX,iShares € Corp Bond Large Cap UCITS ETF,135.22,-0.05,-0.83,Euro,2.65,82.53
-251728,SE15,iShares € Corp Bond 1-5yr UCITS ETF,110.35,0,-0.18,Euro,2.02,28.05
+251565,IBCX,iShares ï¿½ Corp Bond Large Cap UCITS ETF,135.22,-0.05,-0.83,Euro,2.65,82.53
+251728,SE15,iShares ï¿½ Corp Bond 1-5yr UCITS ETF,110.35,0,-0.18,Euro,2.02,28.05
 253712,CSSX5E,iShares Core EURO STOXX 50 UCITS ETF,98.35,0.81,-1.7,Euro,9.9,46.19
 251868,IJPE,iShares MSCI Japan EUR Hedged UCITS ETF (Acc),44.58,0.58,0.08,Euro,4.98,77.8
-258114,ERNE,iShares € Ultrashort Bond UCITS ETF,100.44,0,0.02,Euro,0.2,1.01
-251729,EEXF,iShares € Corp Bond ex-Financials UCITS ETF,116.75,-0.04,-0.71,Euro,3.93,39.64
+258114,ERNE,iShares ï¿½ Ultrashort Bond UCITS ETF,100.44,0,0.02,Euro,0.2,1.01
+251729,EEXF,iShares ï¿½ Corp Bond ex-Financials UCITS ETF,116.75,-0.04,-0.71,Euro,3.93,39.64
 251903,IUSE,iShares S&P 500 EUR Hedged UCITS ETF (Acc),53.91,0.65,1.65,Euro,17.37,108.03
-251845,EXS3,iShares MDAX® UCITS ETF (DE),197.89,0.1,1.2,Euro,14.83,356.42
-251730,EEX5,iShares € Corp Bond ex-Financials 1-5yr UCITS ETF,109.99,0.01,-0.22,Euro,2.37,25.99
+251845,EXS3,iShares MDAXï¿½ UCITS ETF (DE),197.89,0.1,1.2,Euro,14.83,356.42
+251730,EEX5,iShares ï¿½ Corp Bond ex-Financials 1-5yr UCITS ETF,109.99,0.01,-0.22,Euro,2.37,25.99
 251863,IEUX,iShares MSCI Europe ex-UK UCITS ETF,30.14,0.72,-0.08,Euro,9.6,50.88
-251725,IEAG,iShares € Aggregate Bond UCITS ETF,120.09,-0.17,-1.5,Euro,0.12,43.64
-251736,IBGX,iShares € Govt Bond 3-5yr UCITS ETF,167.92,-0.18,-0.67,Euro,0.13,49.85
+251725,IEAG,iShares ï¿½ Aggregate Bond UCITS ETF,120.09,-0.17,-1.5,Euro,0.12,43.64
+251736,IBGX,iShares ï¿½ Govt Bond 3-5yr UCITS ETF,167.92,-0.18,-0.67,Euro,0.13,49.85
 251808,IPRP,iShares European Property Yield UCITS ETF,37.79,-0.27,-2.69,Euro,5.05,115.81
 254531,EMBE,iShares J.P. Morgan $ EM Bond EUR Hedged UCITS ETF (Dist),100.24,0.17,1.28,Euro,9.25,19.26
-251733,IBGS,iShares € Govt Bond 1-3yr UCITS ETF,143.97,-0.08,-0.23,Euro,0.01,33.18
+251733,IBGS,iShares ï¿½ Govt Bond 1-3yr UCITS ETF,143.97,-0.08,-0.23,Euro,0.01,33.18
 254572,CRPH,iShares Global Corp Bond EUR Hedged UCITS ETF (Dist),104.93,-0.04,-0.08,Euro,3.98,14.07
 253729,CSEMU,iShares MSCI EMU UCITS ETF,102.65,0.67,-0.99,Euro,10.65,52.8
-251739,IBCI,iShares € Inflation Linked Govt Bond UCITS ETF,202.88,-0.33,-1.72,Euro,1.12,30.45
-251842,ICOV,iShares € Covered Bond UCITS ETF,154.59,-0.05,-0.33,Euro,0.71,49.55
+251739,IBCI,iShares ï¿½ Inflation Linked Govt Bond UCITS ETF,202.88,-0.33,-1.72,Euro,1.12,30.45
+251842,ICOV,iShares ï¿½ Covered Bond UCITS ETF,154.59,-0.05,-0.33,Euro,0.71,49.55
 251784,EXX1,iShares EURO STOXX Banks 30-15 UCITS ETF (DE),12.22,1.13,0.43,Euro,15.61,-41.51
 251780,EXSI,iShares EURO STOXX UCITS ETF (DE),35.24,0.51,-0.99,Euro,11.12,83.44
 251973,ISPA,iShares STOXX Global Select Dividend 100 UCITS ETF (DE),27.83,-0.36,0.09,Euro,17.29,135.49
-251732,IRCP,iShares € Corp Bond Interest Rate Hedged UCITS ETF,97.03,-0.01,0.04,Euro,2.06,4.44
+251732,IRCP,iShares ï¿½ Corp Bond Interest Rate Hedged UCITS ETF,97.03,-0.01,0.04,Euro,2.06,4.44
 251381,MVEU,iShares Edge MSCI Europe Minimum Volatility UCITS ETF,38.81,0.49,-1.03,Euro,-0.25,49.7
-251740,IEGA,iShares Core € Govt Bond UCITS ETF,120.49,-0.24,-2.09,Euro,-1.01,41.73
+251740,IEGA,iShares Core ï¿½ Govt Bond UCITS ETF,120.49,-0.24,-2.09,Euro,-1.01,41.73
 251778,EXHE,iShares Pfandbriefe UCITS ETF (DE),105.18,0.01,-0.49,Euro,-0.16,42.83
 251772,EXXY,iShares Diversified Commodity Swap UCITS ETF (DE),20.51,-0.6,-2.26,Euro,13,-37.61
 251929,EUN,iShares STOXX Europe 50 UCITS ETF,31.34,0.62,-1.02,Euro,6.65,-3.44
@@ -580,40 +580,40 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 272058,IEVL,iShares Edge MSCI Europe Value Factor UCITS ETF,5.62,0.62,-0.25,Euro,14.54,6.85
 251891,IWDE,iShares MSCI World EUR Hedged UCITS ETF (Acc),45.61,0.55,1.11,Euro,15.04,77.33
 251788,EXSG,iShares EURO STOXX Select Dividend 30 UCITS ETF (DE),19.82,0.46,-1.35,Euro,14.29,72.2
-251763,EXSB,iShares DivDAX® UCITS ETF (DE),16.45,0.07,-0.29,Euro,21.43,157.36
+251763,EXSB,iShares DivDAXï¿½ UCITS ETF (DE),16.45,0.07,-0.29,Euro,21.43,157.36
 251934,EXV1,iShares STOXX Europe 600 Banks UCITS ETF (DE),17.75,1.3,1.82,Euro,16.07,-28.68
 251861,SMEA,iShares MSCI Europe UCITS ETF EUR (Acc),46.46,0.63,-0.39,Euro,8.99,80.09
 251954,EXH1,iShares STOXX Europe 600 Oil & Gas UCITS ETF (DE),31.39,1.39,-4.57,Euro,25.45,45.05
 253496,CSEMUS,iShares MSCI EMU Small Cap UCITS ETF,171.99,0.27,1.14,Euro,12.97,155.23
-272249,IEBB,iShares € Corp Bond BBB-BB UCITS ETF,5.04,-0.02,-0.34,Euro,5.15,3.31
+272249,IEBB,iShares ï¿½ Corp Bond BBB-BB UCITS ETF,5.04,-0.02,-0.34,Euro,5.15,3.31
 251747,SITB,iShares Italy Govt Bond UCITS ETF,153.73,-0.3,-2.59,Euro,-3.13,37.52
 251971,EXSH,iShares STOXX Europe Select Dividend 30 UCITS ETF (DE),16.38,0.74,-2.71,Euro,8.71,35.12
 251805,IMIB,iShares FTSE MIB UCITS ETF EUR (Dist),11.41,0.34,-3.17,Euro,3.08,-41.53
-251738,IBGM,iShares € Govt Bond 7-10yr UCITS ETF,205.29,-0.29,-2.15,Euro,-0.73,77.71
+251738,IBGM,iShares ï¿½ Govt Bond 7-10yr UCITS ETF,205.29,-0.29,-2.15,Euro,-0.73,77.71
 251789,DJSC,iShares EURO STOXX Small UCITS ETF,30.91,0.51,0.41,Euro,9.27,127.32
 251972,EXSE,iShares STOXX Europe Small 200 UCITS ETF (DE),25.78,0.59,0.56,Euro,10.19,146.03
-251773,EXHA,iShares eb.rexx® Government Germany UCITS ETF (DE),141.89,0.06,-0.86,Euro,0.14,66.08
+251773,EXHA,iShares eb.rexxï¿½ Government Germany UCITS ETF (DE),141.89,0.06,-0.86,Euro,0.14,66.08
 251786,DJMC,iShares EURO STOXX Mid UCITS ETF,53.72,0.37,1.15,Euro,15.3,151.38
-251735,IBGL,iShares € Govt Bond 15-30yr UCITS ETF,220.91,-0.48,-4.81,Euro,-2.99,88.93
-280851,SUSE,iShares € Corp Bond Sustainability Screened 0-3yr UCITS ETF,5.02,0,-0.05,Euro,0.59,0.64
-251774,EXHB,iShares eb.rexx® Government Germany 1.5-2.5yr UCITS ETF (DE),89.9,0.01,-0.21,Euro,-0.31,27.9
-251975,EXS2,iShares TecDAX® UCITS ETF (DE),17.2,-0.16,1.02,Euro,8.34,25.89
+251735,IBGL,iShares ï¿½ Govt Bond 15-30yr UCITS ETF,220.91,-0.48,-4.81,Euro,-2.99,88.93
+280851,SUSE,iShares ï¿½ Corp Bond Sustainability Screened 0-3yr UCITS ETF,5.02,0,-0.05,Euro,0.59,0.64
+251774,EXHB,iShares eb.rexxï¿½ Government Germany 1.5-2.5yr UCITS ETF (DE),89.9,0.01,-0.21,Euro,-0.31,27.9
+251975,EXS2,iShares TecDAXï¿½ UCITS ETF (DE),17.2,-0.16,1.02,Euro,8.34,25.89
 251936,EXV6,iShares STOXX Europe 600 Basic Resources UCITS ETF (DE),42.5,-2.66,8.48,Euro,103.66,135.58
-253458,CSBGE7,iShares € Govt Bond 3-7yr UCITS ETF,131.83,-0.17,-0.95,Euro,-0.24,31.75
+253458,CSBGE7,iShares ï¿½ Govt Bond 3-7yr UCITS ETF,131.83,-0.17,-0.95,Euro,-0.24,31.75
 251749,SESP,iShares Spain Govt Bond UCITS ETF,159.04,-0.42,-1.31,Euro,1.16,43.37
 251764,EXXW,iShares Dow Jones Asia Pacific Select Dividend 30 UCITS ETF (DE),32.09,0.16,1.48,Euro,36.95,121.01
 251967,EXH9,iShares STOXX Europe 600 Utilities UCITS ETF (DE),26.55,0.4,-3.6,Euro,-6.68,92.1
 251834,EXHF,iShares Euro Government Bond Capped 1.5-10.5yr UCITS ETF (DE),120.13,-0.07,-1.55,Euro,-0.27,60.39
-251779,EXVM,iShares eb.rexx® Money Market UCITS ETF (DE),80.91,0,-0.17,Euro,-0.67,4.15
+251779,EXVM,iShares eb.rexxï¿½ Money Market UCITS ETF (DE),80.91,0,-0.17,Euro,-0.67,4.15
 251963,EXV2,iShares STOXX Europe 600 Telecommunications UCITS ETF (DE),27.03,0.53,-3.49,Euro,-12.83,16.22
-251737,IEGY,iShares € Govt Bond 5-7yr UCITS ETF,153.46,-0.21,-1.23,Euro,-0.47,37.56
+251737,IEGY,iShares ï¿½ Govt Bond 5-7yr UCITS ETF,153.46,-0.21,-1.23,Euro,-0.47,37.56
 251712,IAEX,iShares AEX UCITS ETF,49.97,0.58,-1.36,Euro,14.13,54.93
-251777,EXHD,iShares eb.rexx® Government Germany 5.5-10.5yr UCITS ETF (DE),142.25,0.09,-1.25,Euro,0.09,85.13
+251777,EXHD,iShares eb.rexxï¿½ Government Germany 5.5-10.5yr UCITS ETF (DE),142.25,0.09,-1.25,Euro,0.09,85.13
 251970,EXSD,iShares STOXX Europe Mid 200 UCITS ETF (DE),42.17,0.49,0.94,Euro,10.58,148.64
 251930,EXW3,iShares STOXX Europe 50 UCITS ETF (DE),29.97,0.82,-1.03,Euro,6.8,4.94
 277248,IFSE,iShares Edge MSCI Europe Multifactor UCITS ETF,5.45,0.7,-0.1,Euro,6.6,7.08
 251932,EXV5,iShares STOXX Europe 600 Automobiles & Parts UCITS ETF (DE),52.8,0.42,0.67,Euro,18.76,234.63
-251776,EXHC,iShares eb.rexx® Government Germany 2.5-5.5yr UCITS ETF (DE),108.87,0.05,-0.55,Euro,0.11,49.22
+251776,EXHC,iShares eb.rexxï¿½ Government Germany 2.5-5.5yr UCITS ETF (DE),108.87,0.05,-0.55,Euro,0.11,49.22
 251769,EXI2,iShares Dow Jones Global Titans 50 UCITS ETF (DE),31.7,-0.4,-1,Euro,16.88,37.85
 251944,EXH3,iShares STOXX Europe 600 Food & Beverage UCITS ETF (DE),60.21,1.08,-1.34,Euro,-4.03,232.07
 251767,IESE,iShares MSCI Europe SRI UCITS ETF,37.8,0.83,-1.24,Euro,5.94,44.4
@@ -623,11 +623,11 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 257270,EMUM,iShares MSCI EMU Mid Cap UCITS ETF,34.67,0.44,0.25,Euro,11.5,34.14
 251706,EXXV,iShares Dow Jones Eurozone Sustainability Screened UCITS ETF (DE),11.87,0.66,-1.53,Euro,14.28,32.41
 251938,EXV7,iShares STOXX Europe 600 Chemicals UCITS ETF (DE),85.94,-0.03,0.84,Euro,18.73,301.41
-253455,CSBGE3,iShares € Govt Bond 1-3yr UCITS ETF EUR (Acc),111.82,-0.08,-0.23,Euro,0,11.88
-253273,EUCF,iShares € Corp Bond Financials UCITS ETF,106.11,-0.06,-0.45,Euro,2.79,11.93
+253455,CSBGE3,iShares ï¿½ Govt Bond 1-3yr UCITS ETF EUR (Acc),111.82,-0.08,-0.23,Euro,0,11.88
+253273,EUCF,iShares ï¿½ Corp Bond Financials UCITS ETF,106.11,-0.06,-0.45,Euro,2.79,11.93
 251961,EXV3,iShares STOXX Europe 600 Technology UCITS ETF (DE),36.64,0.15,1.1,Euro,10.11,-15.11
 251791,EXX2,iShares EURO STOXX Telecommunications 30-15 UCITS ETF (DE),33.91,0.58,-0.76,Euro,-1.74,-2.52
-251741,IEGE,iShares € Govt Bond 0-1yr UCITS ETF,100.09,0,-0.13,Euro,-0.51,3.69
+251741,IEGE,iShares ï¿½ Govt Bond 0-1yr UCITS ETF,100.09,0,-0.13,Euro,-0.51,3.69
 253717,CSMIB,iShares FTSE MIB UCITS ETF EUR (Acc),67.41,0.34,-3.18,Euro,3.03,1.25
 261152,CSGLDE,iShares Gold EUR Hedged (CH),77.41,0.28,4.47,Euro,6.57,10.52
 251940,EXV8,iShares STOXX Europe 600 Construction & Materials UCITS ETF (DE),43.28,0.57,0.39,Euro,17.12,206.13
@@ -636,7 +636,7 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 258701,EXFN,iShares EURO STOXX 50 ex-Financials UCITS ETF,32.48,0.97,-1.78,Euro,8.6,24.92
 251793,IDJV,iShares Euro Total Market Value Large UCITS ETF,21.55,0.57,-1.61,Euro,11.66,32.58
 251958,EXI5,iShares STOXX Europe 600 Real Estate UCITS ETF (DE),16.49,0.59,-4.02,Euro,-4.68,-0.33
-251734,IEGZ,iShares € Govt Bond 10-15yr UCITS ETF,168.19,-0.39,-3.36,Euro,-2.15,68.82
+251734,IEGZ,iShares ï¿½ Govt Bond 10-15yr UCITS ETF,168.19,-0.39,-3.36,Euro,-2.15,68.82
 251969,EXSC,iShares STOXX Europe Large 200 UCITS ETF (DE),36.82,0.6,-0.62,Euro,8.28,86.04
 251838,EXHJ,iShares Euro Government Bond Capped 5.5-10.5yr UCITS ETF (DE),126.84,-0.12,-1.84,Euro,-0.24,72.52
 251713,EXXX,iShares ATX UCITS ETF (DE),27.88,0.03,2.2,Euro,26.66,5.51
@@ -647,13 +647,13 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 283568,SUSJ,iShares MSCI Japan SRI EUR Hedged UCITS ETF (Acc),5.57,0.61,-0.12,Euro,-,10.29
 272019,IEMO,iShares Edge MSCI Europe Momentum Factor UCITS ETF,5.94,0.73,0.92,Euro,8,12.66
 251811,IEUT,iShares FTSEurofirst 100 UCITS ETF,27.01,0.57,-1.36,Euro,10.18,54.57
-253461,CSBGE0,iShares € Govt Bond 7-10yr UCITS ETF EUR (Acc),152.66,-0.29,-2.15,Euro,-0.76,52.36
+253461,CSBGE0,iShares ï¿½ Govt Bond 7-10yr UCITS ETF EUR (Acc),152.66,-0.29,-2.15,Euro,-0.76,52.36
 251837,EXHH,iShares Euro Government Bond Capped 2.5-5.5yr UCITS ETF (DE),111.34,0.01,-0.68,Euro,-0.09,42.78
-251775,EXX6,iShares eb.rexx® Government Germany 10.5+yr UCITS ETF (DE),179.37,-0.08,-3.2,Euro,0.01,100.16
+251775,EXX6,iShares eb.rexxï¿½ Government Germany 10.5+yr UCITS ETF (DE),179.37,-0.08,-3.2,Euro,0.01,100.16
 251965,EXV9,iShares STOXX Europe 600 Travel & Leisure UCITS ETF (DE),22.48,0.62,-1.77,Euro,-3.81,136.55
-280074,BBEB,iShares € Corp Bond BB-B UCITS ETF,5.24,0.04,0.4,Euro,9.13,8.84
+280074,BBEB,iShares ï¿½ Corp Bond BB-B UCITS ETF,5.24,0.04,0.4,Euro,9.13,8.84
 251812,IEUR,iShares FTSEurofirst 80 UCITS ETF,11.12,0.72,-1.36,Euro,10.6,20.3
-272122,E20Y,iShares € Govt Bond 20yr Target Duration UCITS ETF,4.88,-0.44,-5.76,Euro,-1.42,-0.57
+272122,E20Y,iShares ï¿½ Govt Bond 20yr Target Duration UCITS ETF,4.88,-0.44,-5.76,Euro,-1.42,-0.57
 251744,SDEU,iShares Germany Govt Bond UCITS ETF,139.49,-0.1,-1.3,Euro,-0.06,12.67
 273016,NK4E,iShares JPX-Nikkei 400 EUR Hedged UCITS ETF (Acc),4.99,0.61,-2.61,Euro,-2.61,-2.6
 251719,SBEL,iShares Belgium Govt Bond UCITS ETF,150.7,-0.15,-2.76,Euro,-0.85,25.48
@@ -668,15 +668,15 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 272016,IESZ,iShares Edge MSCI Europe Size Factor UCITS ETF,5.97,0.62,0.75,Euro,10.98,14.26
 282361,3155,iShares EURO STOXX 50 Index ETF,1.04,0.81,0.46,Euro,-,9.29
 251742,SFIN,iShares Finland Govt Bond UCITS ETF,140.11,-0.12,-1.65,Euro,0.17,14.32
-251708,ICOLCAP,Fondo Bursátil iShares COLCAP,"13,506.35",-0.33,0.23,Colombian Peso,15.6,-18.2
+251708,ICOLCAP,Fondo Bursï¿½til iShares COLCAP,"13,506.35",-0.33,0.23,Colombian Peso,15.6,-18.2
 284578,ICOLRISK,Fondo Bursatil iShares MSCI Colombia Risk Weighted,"13,020.91",-0.26,-0.51,Colombian Peso,-,-1.04
 273830,83162,iShares MSCI China A International Index ETF,6.56,0.23,2.06,Chinese Yuan,16.35,9.03
 251899,83139,iShares RMB Bond Index ETF,33.71,0,-0.01,China OffShore Renminbi,3.4,8.22
-261154,CSSMI,iShares SMI® (CH),88.9,0.22,0.84,Swiss Franc,2.92,69.87
-261155,CSSMIM,iShares SMIM® (CH),224.51,0.18,1.81,Swiss Franc,12.28,193.97
+261154,CSSMI,iShares SMIï¿½ (CH),88.9,0.22,0.84,Swiss Franc,2.92,69.87
+261155,CSSMIM,iShares SMIMï¿½ (CH),224.51,0.18,1.81,Swiss Franc,12.28,193.97
 261150,CHCORP,iShares Core CHF Corporate Bond (CH),100.74,0.08,-0.03,Swiss Franc,0.19,5.24
-264107,CHSPI,iShares Core SPI® (CH),107.02,0.2,1.08,Swiss Franc,5.13,9.49
-261153,CSSLI,iShares SLI® (CH),144.51,0,1.87,Swiss Franc,9.08,17.17
+264107,CHSPI,iShares Core SPIï¿½ (CH),107.02,0.2,1.08,Swiss Franc,5.13,9.49
+261153,CSSLI,iShares SLIï¿½ (CH),144.51,0,1.87,Swiss Franc,9.08,17.17
 251407,IWDC,iShares MSCI World CHF Hedged UCITS ETF (Acc),40.03,0.55,1.03,Swiss Franc,14.4,53.46
 251405,IJPC,iShares MSCI Japan CHF Hedged UCITS ETF (Acc),47.64,0.58,0.01,Swiss Franc,4.67,84.57
 261157,CSBGC7,iShares Swiss Domestic Government Bond 3-7 (CH),91.81,0.07,-0.13,Swiss Franc,-1.48,32.42
@@ -774,7 +774,7 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 239419,CBO.A,iShares 1-5 Year Laddered Corporate Bond Index ETF,18.89,0.07,0.3,Canadian Dollar,1.39,26.2
 275746,XMC,iShares S&P U.S. Mid-Cap Index ETF,17.54,-0.03,-1.13,Canadian Dollar,20.11,14.15
 239833,CDZ.A,iShares S&P/TSX Canadian Dividend Aristocrats Index ETF,26.41,-0.5,-0.01,Canadian Dollar,23.28,83.59
-239449,CBD,iShares Balanced Income CorePortfolio™ Index ETF,22.03,-0.07,0.27,Canadian Dollar,11.38,54.33
+239449,CBD,iShares Balanced Income CorePortfolioï¿½ Index ETF,22.03,-0.07,0.27,Canadian Dollar,11.38,54.33
 239554,CIF,iShares Global Infrastructure Index ETF,26.24,0.6,0.69,Canadian Dollar,17.41,57.95
 239470,CBQ,iShares BRIC Index ETF,21.33,-0.75,9.63,Canadian Dollar,31.78,32.57
 277693,XFA,iShares Edge MSCI Multifactor USA Index ETF (CAD-Hedged),24.52,-0.14,1.65,Canadian Dollar,21.56,20.28
@@ -790,7 +790,7 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 277690,XFI,iShares Edge MSCI Multifactor EAFE Index ETF,21.39,1.54,-0.23,Canadian Dollar,0.26,5.93
 239573,XEB,iShares J.P. Morgan USD Emerging Markets Bond Index ETF (CAD-Hedged),21.4,0.01,1.63,Canadian Dollar,9.59,33.44
 251243,XGI,iShares S&P Global Industrials Index ETF (CAD-Hedged),29.22,-0.22,1.57,Canadian Dollar,21.48,50.77
-239447,CBN,iShares Balanced Growth CorePortfolio™ Index ETF,19.87,0.07,0.49,Canadian Dollar,14.79,24.06
+239447,CBN,iShares Balanced Growth CorePortfolioï¿½ Index ETF,19.87,0.07,0.49,Canadian Dollar,14.79,24.06
 239481,XCH,iShares China Index ETF,24.38,0.84,2.78,Canadian Dollar,11.33,32.64
 239442,XAL,iShares Alternatives Completion Portfolio Builder Fund,28.02,0.18,0.57,Canadian Dollar,9.19,92.58
 239827,CUD.A,iShares US Dividend Growers Index ETF (CAD-Hedged),37.75,-0.45,0.63,Canadian Dollar,20.5,99.95
@@ -813,10 +813,10 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 239861,CLU.B,iShares US Fundamental Index ETF,34.17,0.73,-2.01,Canadian Dollar,13.45,244.58
 239555,CYH.A,iShares Global Monthly Dividend Index ETF (CAD-Hedged),18.82,0.09,0.83,Canadian Dollar,19.05,27.01
 239549,XGC,iShares Global Completion Portfolio Builder Fund,29.97,0.21,0.4,Canadian Dollar,8.73,99.31
-239448,CBD.A,iShares Balanced Income CorePortfolio™ Index ETF,21.91,-0.08,0.17,Canadian Dollar,10.14,38.48
+239448,CBD.A,iShares Balanced Income CorePortfolioï¿½ Index ETF,21.91,-0.08,0.17,Canadian Dollar,10.14,38.48
 283153,XMS,iShares Edge MSCI Min Vol USA Index ETF (CAD-Hedged),21.85,-0.07,-,Canadian Dollar,-,-
 286273,DXO,Dynamic iShares Active Crossover Bond ETF,20.35,0.08,-,Canadian Dollar,-,-
-239446,CBN.A,iShares Balanced Growth CorePortfolio™ Index ETF,20.05,0.07,0.39,Canadian Dollar,13.5,11.74
+239446,CBN.A,iShares Balanced Growth CorePortfolioï¿½ Index ETF,20.05,0.07,0.39,Canadian Dollar,13.5,11.74
 286270,DXU,Dynamic iShares Active U.S. Dividend ETF,20.93,0.69,-,Canadian Dollar,-,-
 286271,DXC,Dynamic iShares Active Canadian Dividend ETF,20.19,-0.16,-,Canadian Dollar,-,-
 283155,XMY,iShares Edge MSCI Min Vol Global Index ETF (CAD-Hedged),21.09,-0.05,-,Canadian Dollar,-,-
@@ -832,11 +832,11 @@ portfolioId,Ticker,Name,NAV,ChangePercent,YTD,Ccy,1Y,Incept
 239553,CIF.A,iShares Global Infrastructure Index ETF,26.21,0.6,0.62,Canadian Dollar,16.41,47.22
 239557,CGR.A,iShares Global Real Estate Index ETF,28.44,0.69,-2.16,Canadian Dollar,-1.72,64.05
 239575,CJP.A,iShares Japan Fundamental Index ETF (CAD-Hedged),13.75,0.15,0.44,Canadian Dollar,8,-26.85
-251816,BOVA11,iShares Ibovespa Fundo de Índice,62.88,0.58,7.33,Brazilian Real,59.6,71.09
-251902,IVVB11,iShares S&P 500 FI em Cotas de Fundo de Índice - Inv. no Exterior,74.51,0.87,-2.72,Brazilian Real,-7.95,75.64
-251711,ECOO11,iShares Índice Carbono Eficiente (ICO2) Brasil Fundo de Índice,71.97,1.44,5.83,Brazilian Real,44.13,42.17
-251752,SMAL11,iShares BM&FBOVESPA Small Cap Fundo de Índice,61.15,0.57,11.41,Brazilian Real,59.12,153.87
-251817,BRAX11,iShares IBrX-Índice Brasil (IBrX-100) Fundo de Índice,52.71,0.62,7.11,Brazilian Real,55.99,23.6
+251816,BOVA11,iShares Ibovespa Fundo de ï¿½ndice,62.88,0.58,7.33,Brazilian Real,59.6,71.09
+251902,IVVB11,iShares S&P 500 FI em Cotas de Fundo de ï¿½ndice - Inv. no Exterior,74.51,0.87,-2.72,Brazilian Real,-7.95,75.64
+251711,ECOO11,iShares ï¿½ndice Carbono Eficiente (ICO2) Brasil Fundo de ï¿½ndice,71.97,1.44,5.83,Brazilian Real,44.13,42.17
+251752,SMAL11,iShares BM&FBOVESPA Small Cap Fundo de ï¿½ndice,61.15,0.57,11.41,Brazilian Real,59.12,153.87
+251817,BRAX11,iShares IBrX-ï¿½ndice Brasil (IBrX-100) Fundo de ï¿½ndice,52.71,0.62,7.11,Brazilian Real,55.99,23.6
 275304,IVV,iShares Core S&P 500 ETF,300.32,0.62,12.43,Australian Dollar,12.43,67
 273432,IVE,iShares MSCI EAFE ETF,78,0.19,1.44,Australian Dollar,1.44,42.83
 275305,IRU,iShares Russell 2000 ETF,178.1,1.38,21.94,Australian Dollar,21.94,181.75
