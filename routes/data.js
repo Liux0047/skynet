@@ -16,6 +16,11 @@ router.post('/portfolio', function(req, res, next){
   res.json(data[req.body.fund]);
 })
 
+router.post('/test', function(req, res, next){
+  res.send('ok');
+})
+
+
 router.get('/watchlist/add', function(req, res, next) {
   watchlist.push(mostRecent);
   res.send("added " + mostRecent);
