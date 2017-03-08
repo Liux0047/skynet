@@ -13,10 +13,10 @@ router.get('/portfolio/:id', function(req, res, next) {
 });
 
 router.post('/portfolio', function(req, res, next){
-  var perfData = data[req.body.result.fund];
-  console.log('data: %o', req.body.result);
+  // console.log('data: %o', req.body.result);
   console.log('Action: (in result)' + req.body.result.action);
   if (req.body.result.action === 'performance'){
+    var perfData = data[req.body.result.parameters.fund];
     var answer = 'The NAV for ' + perfData.Name + ' is ' + perfData.Ccy + ' ' + perfData.NAV + ', with ' + perfData.ChangePercent + '% change from yesterday.';
     res.json({
       'speech': answer,
