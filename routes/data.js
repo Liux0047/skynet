@@ -14,6 +14,7 @@ router.get('/portfolio/:id', function(req, res, next) {
 
 router.post('/portfolio', function(req, res, next){
   var perfData = data[req.body.result.fund];
+  console.log('Port: ' + req.body.result.fund);
   console.log('Action: (in result)' + req.body.result.action);
   if (req.body.result.action === 'performance'){
     var answer = 'The NAV for ' + perfData.Name + ' is ' + perfData.Ccy + ' ' + perfData.NAV + ', with ' + perfData.ChangePercent + '% change from yesterday.';
