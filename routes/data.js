@@ -13,7 +13,15 @@ router.get('/portfolio/:id', function(req, res, next) {
 });
 
 router.post('/portfolio', function(req, res, next){
-  res.json(data[req.body.fund]);
+  if (req.body.action === 'performance'){
+    var perfData = data[req.body.fund];
+    var answer = 'The NAV for ' + perfData.name + ' is ' + perfData.Ccy + perfData.NAV + ', with ' + perfData.ChangePercent + '% from yesterday.'
+    res.json({
+      'speech': answer,
+      'source': 'Allen API',
+      'displayText': answer
+    });
+  }
 })
 
 router.post('/test', function(req, res, next){
