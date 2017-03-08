@@ -13,16 +13,18 @@ router.get('/portfolio/:id', function(req, res, next) {
 });
 
 router.post('/portfolio', function(req, res, next){
-  var perfData = data[req.body.fund];
+  var perfData = data[req.body.result.fund];
   console.log('Action: (in result)' + req.body.result.action);
-  console.log('Action: ' + req.body.action);
-  console.log('Query data for ' + req.body.fund);
-  var answer = 'The NAV for ' + perfData.Name + ' is ' + perfData.Ccy + ' ' + perfData.NAV + ', with ' + perfData.ChangePercent + '% change from yesterday.';
-  res.json({
-    'speech': answer,
-    'source': 'Allen API',
-    'displayText': answer
-  });
+  if (req.body.result.action === 'performance'){
+    var answer = 'The NAV for ' + perfData.Name + ' is ' + perfData.Ccy + ' ' + perfData.NAV + ', with ' + perfData.ChangePercent + '% change from yesterday.';
+    res.json({
+      'speech': answer,
+      'source': 'Allen API',
+      'displayText': answer
+    });
+  } else {
+    res.json({});
+  }   
 })
 
 router.post('/test', function(req, res, next){
