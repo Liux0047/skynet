@@ -17,7 +17,11 @@ router.post('/portfolio', function(req, res, next){
 })
 
 router.post('/test', function(req, res, next){
-  res.send('ok');
+  res.json({
+    'speech': '1',
+    'displayText': 'test',
+    'source': 'hello'
+  });
 })
 
 
