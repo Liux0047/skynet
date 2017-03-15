@@ -4,30 +4,31 @@ var router = express.Router();
 
 router.get('/commentary', function (req, res) {
     var myArray = [];
-    var date = req.params.date;
-    var keyword = req.params.keyword;
+    var date = req.query.date ? new Date(req.query.date) : null;
+    var keyword = req.query.keyword;
+
     if (date && keyword) {
         json_data.forEach(item => {
-            if (item.date.match(date) && item.keyword.match(keyword)) {
+            if (new Date(item.date).getTime() === date.getTime() && item.keyword.toLowerCase().includes(keyword.toLowerCase())) {
                 myArray.push(item);
             }
         });
     } else if (date) {
         json_data.forEach(item => {
-            if (item.date.match(date)) {
+            if (new Date(item.date).getTime() === date.getTime()) {
                 myArray.push(item);
             }
         });
     } else if (keyword) {
         json_data.forEach(item => {
-            if (item.keyword.match(keyword)) {
+            if (item.keyword.toLowerCase().includes(keyword.toLowerCase())) {
                 myArray.push(item);
             }
         });
     } else {
-        myArray = json_data.slice(0,3);
+        myArray = json_data.slice(0, 3);
     }
-    res.json(myArray.slice(0,3));
+    res.json(myArray.slice(0, 3));
 });
 
 module.exports = router;
