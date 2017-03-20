@@ -35,6 +35,21 @@ module.exports = router;
 
 var json_data = [
     {
+        'keyword': 'US real estate',
+        'date': '2017-03-20',
+        'content': 'We believe the U.S. commercial real estate recovery still has room to run amid reflation and resilient rental yields.'
+    },
+    {
+        'keyword': 'Janet Yellen Fed',
+        'date': '2017-03-20',
+        'content': 'The Fed raised rates. Stocks rose, bonds rallied and the U.S. dollar fell on Chair Janet Yellen’s perceived dovish remarks.'
+    },
+    {
+        'keyword': 'US durable goods',
+        'date': '2017-03-20',
+        'content': 'U.S. durable goods orders could provide another sign of the disconnect between sentiment surveys and hard economic data.'
+    },
+    {
         'keyword': 'March, Federal Reserve',
         'date': '2017-03-13',
         'content': 'The Federal Reserve has engineered a turnaround in March rate rise expectations without significantly disturbing markets. This is no easy feat - a quickening pace of interest rate normalization in the past has often led to spikes in volatility'
