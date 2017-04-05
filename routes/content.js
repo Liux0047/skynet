@@ -6,6 +6,7 @@ router.get('/commentary', function (req, res) {
     var myArray = [];
     var date = req.query.date ? new Date(req.query.date) : null;
     var keyword = req.query.keyword;
+    var language = req.query.language;
 
     if (date && keyword) {
         json_data.forEach(item => {
@@ -28,7 +29,12 @@ router.get('/commentary', function (req, res) {
     } else {
         myArray = json_data.slice(0, 3);
     }
-    res.json(myArray.slice(0, 3));
+
+    if (language && myArray.length > 0) {
+        res.json(myArray[0]['translations'][language.toLowerCase()]);
+    } else {
+        res.json(myArray.slice(0, 3));
+    }
 });
 
 module.exports = router;
@@ -42,7 +48,10 @@ var json_data = [
     {
         'keyword': 'Janet Yellen Fed',
         'date': '2017-03-20',
-        'content': 'The Fed raised rates. Stocks rose, bonds rallied and the U.S. dollar fell on Chair Janet Yellen’s perceived dovish remarks.'
+        'content': 'The Fed raised rates. Stocks rose, bonds rallied and the U.S. dollar fell on Chair Janet Yellen’s perceived dovish remarks.',
+        'translations': {
+            'jp': 'https://s3.amazonaws.com/audiophiles/market-brief-janetyellen-jp.mp3'
+        }
     },
     {
         'keyword': 'US durable goods',
