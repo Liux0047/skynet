@@ -41,6 +41,21 @@ module.exports = router;
 
 var json_data = [
     {
+        'keyword': 'Trump reflation',
+        'date': '2017-04-10',
+        'content': 'So-called Trump trades have rolled back on political uncertainty, yet we see the broader reflation trade having room to run.'
+    },
+    {
+        'keyword': 'Fed US tightening',
+        'date': '2017-04-10',
+        'content': 'The Fed’s meeting minutes implied it is still on a gradual tightening path. Value and U.S. small-cap stocks underperformed.'
+    },
+    {
+        'keyword': 'US bank',
+        'date': '2017-04-10',
+        'content': 'Several U.S. banks are scheduled to report earnings this week, and management comments could address the regulatory outlook.'
+    },
+    {
         'keyword': 'US real estate',
         'date': '2017-03-20',
         'content': 'We believe the U.S. commercial real estate recovery still has room to run amid reflation and resilient rental yields.'
