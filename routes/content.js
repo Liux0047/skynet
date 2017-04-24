@@ -39,7 +39,37 @@ router.get('/commentary', function (req, res) {
 
 module.exports = router;
 
-var json_data = [
+var json_data = [    
+    {
+        'keyword': 'Technology auto',
+        'date': '2017-04-24',
+        'content': 'Technological disruption is cutting across sectors, with the auto industry a key example. We see risks for traditional auto players.'
+    },
+    {
+        'keyword': 'Macron French election',
+        'date': '2017-04-24',
+        'content': 'Centrist Emmanuel Macron became the clear front-runner for French president, reducing perceived European political risk.'
+    },
+    {
+        'keyword': 'US Japan',
+        'date': '2017-04-24',
+        'content': 'Earnings season will be well underway in the U.S. and Europe this week. The yen will be a focus for Japanese earnings.'
+    },
+    {
+        'keyword': 'trade US China',
+        'date': '2017-04-17',
+        'content': 'We see a lower risk of trade wars in the near term. The U.S. did not name China a currency manipulator.'
+    },
+    {
+        'keyword': 'bond',
+        'date': '2017-04-17',
+        'content': 'Geopolitical uncertainties boosted safe-haven assets. Global bond fund inflows now exceed equity inflows year to date.'
+    },
+    {
+        'keyword': 'French election',
+        'date': '2017-04-17',
+        'content': 'We see the first round of the French presidential election potentially causing considerable market volatility.'
+    },
     {
         'keyword': 'Trump reflation',
         'date': '2017-04-10',
