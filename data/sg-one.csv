@@ -1,820 +1,803 @@
 portfolioId,Ticker,Name,NAV,ChangePercent,ChangePercentYTD,Ccy,1Y,Incept
-237595,-,BGF ASEAN Leaders Fund,10.7,-0.47,6.52,USD,14.56,7.8
-237593,-,BGF ASEAN Leaders Fund,10.45,-0.85,6.05,EUR,18.49,29.75
-237596,-,BGF ASEAN Leaders Fund,11.07,-0.45,6.7,USD,15.42,11.5
-244083,-,BGF Asia Pacific Equity Income Fund,16.51,-0.9,8.16,GBP,46.28,63.1
-229019,-,BGF Asia Pacific Equity Income Fund,16.55,-0.84,8.72,USD,30.88,67
-260981,-,BGF Asia Pacific Equity Income Fund,10.18,-0.97,8.54,EUR,29.45,11.63
-229020,-,BGF Asia Pacific Equity Income Fund,102.4,-0.87,8.82,HKD,30.69,69.23
-229021,-,BGF Asia Pacific Equity Income Fund,13.19,-0.83,8.74,USD,30.9,67.19
-228311, ,BGF Asia Pacific Equity Income Fund,12.53,-0.87,8.68,SGD,30.52,60.18
-229022,-,BGF Asia Pacific Equity Income Fund,13.8,-0.86,8.67,USD,30.94,34.65
-230090,-,BGF Asia Pacific Equity Income Fund,107.66,-0.87,8.63,HKD,30.28,33.32
-251626,-,BGF Asia Pacific Equity Income Fund,13.46,-0.88,8.78,AUD,31.66,15.93
-277128,-,BGF Asia Pacific Equity Income Fund,109.27,-0.84,-,China OffShore Renminbi,-,-
-270026,-,BGF Asia Pacific Equity Income Fund,96.61,-0.8,9.7,ZAR,37.98,18.51
-283032,-,BGF Asia Pacific Equity Income Fund,13.82,-0.86,8.33,GBP,-,38.99
-228313, ,BGF Asia Pacific Equity Income Fund,17.3,-0.86,8.85,USD,31.87,31.57
-241421,-,BGF Asia Pacific Equity Income Fund,13.77,-0.86,8.86,USD,31.94,43.66
-241420,-,BGF Asia Pacific Equity Income Fund,13.07,-0.83,8.83,SGD,31.48,42.08
-229028,-,BGF Asian Dragon Fund,33.68,-1.69,8.38,EUR,34.44,251.8
-229399,-,BGF Asian Dragon Fund,29.3,-1.38,8.45,GBP,46.23,240.7
-229029,-,BGF Asian Dragon Fund,35.68,-1.33,8.96,USD,30.84,94.27
-260723,-,BGF Asian Dragon Fund,12.29,-1.29,9,AUD,31.68,24.7
-279268,-,BGF Asian Dragon Fund,11.68,-1.35,8.6,CHF,28.46,18.7
-279261,-,BGF Asian Dragon Fund,11.78,-1.34,8.72,EUR,28.99,19.7
-285325,-,BGF Asian Dragon Fund,101.7,-1.32,-,PLN,-,-
-262692,-,BGF Asian Dragon Fund,11.47,-1.38,8.88,SGD,30.31,16.5
-229030,-,BGF Asian Dragon Fund,28.21,-1.36,8.47,GBP,46.23,252.61
-229031,-,BGF Asian Dragon Fund,36.06,-1.69,8.49,EUR,35.41,105.16
-241437,-,BGF Asian Dragon Fund,31.38,-1.35,8.6,GBP,47.35,96.84
-229404,-,BGF Asian Dragon Fund,38.2,-1.32,9.12,USD,31.82,192.46
-279262,-,BGF Asian Dragon Fund,11.81,-1.34,8.7,CHF,29.2,19.9
-279269,-,BGF Asian Dragon Fund,11.93,-1.32,8.81,EUR,30.08,21.1
-241436,-,BGF Asian Dragon Fund,28.47,-1.39,8.56,GBP,47.29,96.79
-244060,-,BGF Asian Growth Leaders Fund,16.64,-0.95,9.74,USD,29.88,67.8
-270819,-,BGF Asian Growth Leaders Fund,12.13,-0.9,9.79,AUD,30.56,22.2
-279263,-,BGF Asian Growth Leaders Fund,11.8,-0.92,9.27,CHF,27.27,19
-279264,-,BGF Asian Growth Leaders Fund,11.92,-1,9.46,EUR,28.12,20.3
-262691,-,BGF Asian Growth Leaders Fund,12.63,-0.94,9.64,SGD,29.34,27.4
-268967,-,BGF Asian Growth Leaders Fund,13.89,-1,9.33,GBP,46.16,69.68
-244938,-,BGF Asian Growth Leaders Fund,16.93,-0.94,9.85,USD,30.83,70.6
-279265,-,BGF Asian Growth Leaders Fund,11.94,-0.91,9.45,CHF,28.22,20.4
-279266,-,BGF Asian Growth Leaders Fund,12.07,-0.9,9.54,EUR,29.06,21.7
-229037,-,BGF Asian Local Bond Fund,9.88,-0.5,3.72,USD,3.3,0.3
-229038,-,BGF Asian Local Bond Fund,8.71,-0.57,3.79,USD,3.23,0.14
-229039,-,BGF Asian Local Bond Fund,8.06,-0.49,3.76,USD,3.26,0.29
-237592,-,BGF Asian Local Bond Fund,9.97,-0.5,3.9,USD,3.79,1.2
-280950,-,BGF Asian Multi-Asset Growth Fund,11.39,-0.44,4,USD,9.39,11.8
-229042,-,BGF Asian Tiger Bond Fund,12.55,-0.24,2.72,USD,7.01,290.58
-229407,-,BGF Asian Tiger Bond Fund,38.75,-0.21,2.76,USD,6.97,291.2
-275884,-,BGF Asian Tiger Bond Fund,10.37,-0.19,2.45,EUR,5.12,4.7
-229412,-,BGF Asian Tiger Bond Fund,12.87,-0.23,2.69,SGD,6.73,30
-228418, ,BGF Asian Tiger Bond Fund,12.57,-0.24,2.72,USD,6.91,112.14
-243968,-,BGF Asian Tiger Bond Fund,10.8,-0.28,2.8,AUD,7.94,26.68
-243967,-,BGF Asian Tiger Bond Fund,9.69,-0.21,2.55,EUR,5.28,13.73
-228417, ,BGF Asian Tiger Bond Fund,11.1,-0.18,2.65,HKD,6.5,42.63
-241417,-,BGF Asian Tiger Bond Fund,11.31,-0.18,2.88,NZD,8.39,33.19
-242994,-,BGF Asian Tiger Bond Fund,10.06,-0.2,2.68,SGD,6.68,18.16
-228329, ,BGF Asian Tiger Bond Fund,11.57,-0.17,2.77,USD,6.98,25.2
-272929,-,BGF Asian Tiger Bond Fund,10.68,-0.19,2.45,EUR,5.17,5.24
-272930,-,BGF Asian Tiger Bond Fund,7.68,-0.26,2.56,GBP,6.33,7.06
-230092,-,BGF Asian Tiger Bond Fund,89.14,-0.22,2.66,HKD,6.43,24.31
-271372,-,BGF Asian Tiger Bond Fund,9.75,-0.2,2.71,SGD,6.82,10.38
-246706,-,BGF Asian Tiger Bond Fund,11.5,-0.26,2.84,AUD,7.99,24.43
-272932,-,BGF Asian Tiger Bond Fund,11.08,-0.18,2.67,CAD,6.66,7.32
-277138,-,BGF Asian Tiger Bond Fund,100.36,-0.19,-,China OffShore Renminbi,-,-
-272931,-,BGF Asian Tiger Bond Fund,12.06,-0.25,2.94,NZD,8.4,11.92
-260724,-,BGF Asian Tiger Bond Fund,104.68,-0.15,3.78,ZAR,14.26,40.75
-229043,-,BGF Asian Tiger Bond Fund,12.72,-0.24,2.8,USD,7.45,28.4
-257466,-,BGF Asian Tiger Bond Fund,11.87,-0.25,2.57,EUR,5.73,19.9
-257467,-,BGF Asian Tiger Bond Fund,12.25,-0.16,2.74,SGD,7.2,23.6
-243810,-,BGF Asian Tiger Bond Fund,12.59,-0.16,2.8,USD,7.45,19.87
-243809,-,BGF Asian Tiger Bond Fund,11.11,-0.18,2.73,HKD,7.02,18.65
-275885,-,BGF Asian Tiger Bond Fund,10.17,-0.29,2.7,GBP,6.79,7.26
-243811,-,BGF Asian Tiger Bond Fund,11.91,-0.17,2.8,USD,7.48,19.93
-273330,-,BGF China Fund,15.64,-1.82,9.99,EUR,39.13,-8.59
-229546,-,BGF China Fund,16.86,-1.46,10.62,HKD,35.19,69.8
-229547,-,BGF China Fund,16.57,-1.49,10.52,USD,35.33,67
-260707,-,BGF China Fund,14.05,-1.54,10.54,AUD,36.02,41.6
-275888,-,BGF China Fund,107.37,-1.43,11.25,China OffShore Renminbi,38.29,-3.01
-229550,-,BGF China Fund,15.09,-1.5,10.29,EUR,33.51,52.2
-229551,-,BGF China Fund,15.25,-1.49,10.49,SGD,34.91,53.8
-229552,-,BGF China Fund,14.97,-1.51,10.38,GBP,34.41,60.8
-241750,-,BGF China Fund,136.03,-1.49,10.79,HKD,36.23,66.51
-229115,-,BGF China Fund,17.52,-1.52,10.65,USD,36.37,62.62
-241426,-,BGF China Fund,15.61,-1.51,10.38,EUR,34.53,63.28
-241424,-,BGF China Fund,10.58,-1.49,10.57,GBP,35.41,65.43
-241423,-,BGF China Fund,15.77,-1.5,10.65,SGD,35.9,64.77
-241425,-,BGF China Fund,15.07,-1.57,10.47,GBP,35.48,65.54
-229558,-,BGF Continental European Flexible Fund,21.71,-0.05,4.15,EUR,10.96,"1,542.44"
-228513, ,BGF Continental European Flexible Fund,23,0.31,4.72,USD,8.03,48.63
-272568,-,BGF Continental European Flexible Fund,10.71,-0.09,4.32,USD,12.01,6.3
-229116,-,BGF Continental European Flexible Fund,21.29,-0.05,4.14,EUR,10.98,74.85
-228352, ,BGF Continental European Flexible Fund,18.39,0.22,4.19,GBP,20.72,301.02
-229561,-,BGF Continental European Flexible Fund,19.99,-0.05,4.2,GBP,10.67,99.53
-228340, ,BGF Continental European Flexible Fund,23.1,-0.04,4.27,EUR,11.8,265.07
-241429,-,BGF Continental European Flexible Fund,20.72,-0.05,4.36,GBP,11.55,77.48
-241428,-,BGF Continental European Flexible Fund,28.82,-0.07,4.49,USD,12.9,77.04
-272984,-,BGF Continental European Flexible Fund,21.27,-0.05,4.3,EUR,11.82,3.29
-241427,-,BGF Continental European Flexible Fund,18.5,0.22,4.35,GBP,21.7,89.19
-241430,-,BGF Continental European Flexible Fund,20.13,-0.05,4.33,GBP,11.53,77.61
-230101,-,BGF Continental European Flexible Fund,31.4,-0.06,4.49,USD,12.87,1.43
-229564,-,BGF Emerging Europe Fund,94.6,-1.9,1.48,EUR,33.14,"1,025.38"
-229565,-,BGF Emerging Europe Fund,100.22,-1.54,2.04,USD,29.63,433.61
-229573,-,BGF Emerging Europe Fund,8.7,-1.92,1.7,SGD,33.98,-10.5
-229566,-,BGF Emerging Europe Fund,90.49,-1.91,1.47,EUR,33.14,146.73
-229118,-,BGF Emerging Europe Fund,78.98,-1.59,1.56,GBP,44.87,994.7
-229570,-,BGF Emerging Europe Fund,103.52,-1.9,1.6,EUR,34.15,14.04
-241438,-,BGF Emerging Europe Fund,109.67,-1.54,2.16,USD,30.59,-11.21
-241678,-,BGF Emerging Europe Fund,77.89,-1.95,1.61,GBP,34.14,9.68
-241439,-,BGF Emerging Europe Fund,79.08,-1.59,1.68,GBP,45.99,14.88
-229123,-,BGF Emerging Markets Bond Fund,9.48,-1.25,3.04,EUR,18.86,174.42
-229577,-,BGF Emerging Markets Bond Fund,10.05,-0.79,3.63,USD,15.72,143.81
-229124,-,BGF Emerging Markets Bond Fund,16.53,-1.2,3.04,EUR,18.87,184.76
-228473, ,BGF Emerging Markets Bond Fund,17.51,-0.85,3.58,USD,15.75,138.7
-229584,-,BGF Emerging Markets Bond Fund,16.7,-0.83,3.31,EUR,14.02,93.45
-264123,-,BGF Emerging Markets Bond Fund,11.55,-0.86,3.47,GBP,15.25,16.4
-229125,-,BGF Emerging Markets Bond Fund,9.81,-1.21,3.07,EUR,18.85,66.91
-229578,-,BGF Emerging Markets Bond Fund,10.39,-0.86,3.63,USD,15.78,80.3
-264649,-,BGF Emerging Markets Bond Fund,13.64,-1.23,3,EUR,18.89,47.02
-228326, ,BGF Emerging Markets Bond Fund,9.51,-0.83,3.62,USD,15.72,26.11
-283769,-,BGF Emerging Markets Bond Fund,10.45,-0.76,3.56,CAD,-,8.86
-283746,-,BGF Emerging Markets Bond Fund,10.35,-0.86,3.5,GBP,-,8.04
-228327, ,BGF Emerging Markets Bond Fund,72.78,-0.82,3.52,HKD,15.19,24.5
-246708,-,BGF Emerging Markets Bond Fund,9.41,-0.84,3.78,AUD,16.79,23.61
-283770,-,BGF Emerging Markets Bond Fund,10.46,-0.85,3.86,NZD,-,9.94
-270028,-,BGF Emerging Markets Bond Fund,102.78,-0.74,4.62,ZAR,23.03,30.72
-241432,-,BGF Emerging Markets Bond Fund,17.5,-1.19,3.1,EUR,19.55,47.36
-229582,-,BGF Emerging Markets Bond Fund,18.55,-0.8,3.72,USD,16.46,91.59
-241435,-,BGF Emerging Markets Bond Fund,17.15,-0.81,3.47,EUR,14.74,17.63
-241433,-,BGF Emerging Markets Bond Fund,9.83,-1.21,3.16,EUR,19.51,47.48
-241434,-,BGF Emerging Markets Bond Fund,10.41,-0.86,3.73,USD,16.43,21.09
-246606,-,BGF Emerging Markets Corporate Bond Fund,11.27,-0.35,2.72,USD,12.5,13.4
-246607,-,BGF Emerging Markets Corporate Bond Fund,10.99,-0.45,2.5,EUR,10.81,10.7
-246648,-,BGF Emerging Markets Corporate Bond Fund,11.65,-0.34,2.9,USD,13.46,17.2
-258853,-,BGF Emerging Markets Corporate Bond Fund,10.37,-0.48,2.75,GBP,12.91,18.75
-229589,-,BGF Emerging Markets Equity Income Fund,12.38,-1.04,10.91,USD,32.6,26.1
-229590,-,BGF Emerging Markets Equity Income Fund,10.3,-1.06,10.88,USD,32.52,26.8
-262190,-,BGF Emerging Markets Equity Income Fund,11.11,-1.07,10.89,USD,32.4,3.4
-286078,-,BGF Emerging Markets Equity Income Fund,11.06,-1.07,-,CAD,-,-
-286068,-,BGF Emerging Markets Equity Income Fund,10.74,-1.1,-,EUR,-,-
-286076,-,BGF Emerging Markets Equity Income Fund,11.04,-1.08,-,GBP,-,-
-262735,-,BGF Emerging Markets Equity Income Fund,85.91,-1.07,10.87,HKD,32.01,2.78
-285746,-,BGF Emerging Markets Equity Income Fund,10.96,-1.08,-,SGD,-,-
-285747,-,BGF Emerging Markets Equity Income Fund,10.95,-1.08,-,AUD,-,-
-285962,-,BGF Emerging Markets Equity Income Fund,109.3,-1.05,-,CNY,-,-
-286077,-,BGF Emerging Markets Equity Income Fund,11.05,-1.07,-,NZD,-,-
-229591,-,BGF Emerging Markets Equity Income Fund,12.89,-1,11.08,USD,33.57,31.96
-229130,-,BGF Emerging Markets Fund,26.11,-1.81,9.32,EUR,31.84,168.76
-229131,-,BGF Emerging Markets Fund,27.66,-1.43,9.98,USD,28.36,181.1
-229596,-,BGF Emerging Markets Fund,28.36,-1.8,9.51,EUR,32.87,72.13
-229132,-,BGF Emerging Markets Fund,30.04,-1.44,10.1,USD,29.32,43.02
-229843,-,BGF Emerging Markets Local Currency Bond Fund,4.01,-0.5,3.4,EUR,19.53,26.42
-229293,-,BGF Emerging Markets Local Currency Bond Fund,4.24,-0.47,3.99,USD,16.45,143.79
-253851,-,BGF Emerging Markets Local Currency Bond Fund,23.49,-0.3,2.72,CHF,16.91,-9.43
-229844,-,BGF Emerging Markets Local Currency Bond Fund,21.88,-0.64,3.48,EUR,19.55,29.17
-229845,-,BGF Emerging Markets Local Currency Bond Fund,23.18,-0.26,4.06,USD,16.4,6.18
-229869,-,BGF Emerging Markets Local Currency Bond Fund,7.84,-0.25,3.67,CHF,13.67,-21
-229296,-,BGF Emerging Markets Local Currency Bond Fund,7.96,-0.25,3.75,EUR,14.41,-19.8
-229866,-,BGF Emerging Markets Local Currency Bond Fund,9.87,-0.2,4.08,PLN,16.39,-0.6
-229297,-,BGF Emerging Markets Local Currency Bond Fund,8.32,-0.24,3.97,SGD,15.59,-16.2
-229846,-,BGF Emerging Markets Local Currency Bond Fund,4.03,-0.74,3.63,EUR,19.72,21.02
-229847,-,BGF Emerging Markets Local Currency Bond Fund,33.19,-0.27,4.16,HKD,16.23,-10.8
-229848,-,BGF Emerging Markets Local Currency Bond Fund,4.27,-0.23,3.97,USD,16.37,-1.03
-229867,-,BGF Emerging Markets Local Currency Bond Fund,7.28,-0.27,4.08,AUD,16.76,-3.46
-229849,-,BGF Emerging Markets Local Currency Bond Fund,16.54,-0.6,3.55,EUR,19.56,20.81
-229850,-,BGF Emerging Markets Local Currency Bond Fund,17.52,-0.23,4.07,USD,16.35,-15.36
-283748,-,BGF Emerging Markets Local Currency Bond Fund,9.97,-0.2,4.04,USD,-,4.89
-283773,-,BGF Emerging Markets Local Currency Bond Fund,10.19,-0.29,3.96,CAD,-,7.04
-283747,-,BGF Emerging Markets Local Currency Bond Fund,9.9,-0.2,3.86,GBP,-,-
-283767,-,BGF Emerging Markets Local Currency Bond Fund,101.98,-0.25,3.97,HKD,-,7.04
-271040,-,BGF Emerging Markets Local Currency Bond Fund,8.21,-0.24,4.03,AUD,16.78,-2.2
-283771,-,BGF Emerging Markets Local Currency Bond Fund,10.2,-0.29,4.17,NZD,-,-
-271041,-,BGF Emerging Markets Local Currency Bond Fund,83.51,-0.19,5.05,ZAR,22.49,7.08
-264333,-,BGF Emerging Markets Local Currency Bond Fund,24.61,-0.32,2.85,CHF,17.51,7.16
-229858,-,BGF Emerging Markets Local Currency Bond Fund,22.92,-0.65,3.59,EUR,20.17,36.29
-229295,-,BGF Emerging Markets Local Currency Bond Fund,24.29,-0.25,4.17,USD,16.98,13.56
-229842,-,BGF Emerging Markets Local Currency Bond Fund,8.02,-0.25,3.86,EUR,14.94,-19.2
-241761,-,BGF Emerging Markets Local Currency Bond Fund,14.58,-0.27,3.96,GBP,16.22,-10.81
-241765,-,BGF Emerging Markets Local Currency Bond Fund,10.09,-0.3,4.21,PLN,16.92,-5.49
-241766,-,BGF Emerging Markets Local Currency Bond Fund,8.52,-0.23,4.13,SGD,16.42,-11.27
-241763,-,BGF Emerging Markets Local Currency Bond Fund,16.69,-0.6,3.62,EUR,20.18,9.92
-241764,-,BGF Emerging Markets Local Currency Bond Fund,137.3,-0.26,4.25,HKD,16.81,-10.1
-229859,-,BGF Emerging Markets Local Currency Bond Fund,17.68,-0.23,4.12,USD,16.97,-7.75
-241762,-,BGF Emerging Markets Local Currency Bond Fund,7.28,-0.27,4.17,AUD,17.34,-4.5
-258851,-,BGF Emerging Markets Local Currency Bond Fund,7.95,-0.25,4.02,GBP,16.44,-5.03
-241767,-,BGF Emerging Markets Local Currency Bond Fund,16.61,-0.6,3.6,EUR,20.14,9.83
-241768,-,BGF Emerging Markets Local Currency Bond Fund,17.59,-0.28,4.17,USD,16.98,-10.19
-228369, ,BGF Euro Bond Fund,19.04,-0.16,-0.5,EUR,1.05,107.07
-228677, ,BGF Euro Bond Fund,20.17,0.2,0.02,USD,-1.63,155.2
-228379, ,BGF Euro Bond Fund,28.04,-0.18,-0.49,EUR,1.04,229.83
-228676, ,BGF Euro Bond Fund,29.71,0.2,0.03,USD,-1.64,149.25
-285320,-,BGF Euro Bond Fund,98.07,-0.15,-,PLN,-,-
-246713,-,BGF Euro Bond Fund,11.96,-0.17,-0.25,USD,2.38,20.6
-228383, ,BGF Euro Bond Fund,19.03,-0.21,-0.55,EUR,1,78.71
-228678, ,BGF Euro Bond Fund,20.16,0.2,0.07,USD,-1.63,67.74
-228378, ,BGF Euro Bond Fund,25.53,-0.2,-0.5,EUR,1.01,36.11
-228675, ,BGF Euro Bond Fund,22.29,0.13,-0.41,GBP,9.98,38.79
-228375, ,BGF Euro Bond Fund,29.05,-0.17,-0.44,EUR,1.42,72.51
-241480,-,BGF Euro Bond Fund,30.78,0.2,0.1,USD,-1.3,1.67
-276344,-,BGF Euro Bond Fund,11.38,-0.18,-0.52,CHF,0.79,2.68
-246712,-,BGF Euro Bond Fund,12.14,-0.16,-0.24,USD,2.68,22.4
-241481,-,BGF Euro Bond Fund,19.06,-0.21,-0.44,EUR,1.4,24.44
-241482,-,BGF Euro Bond Fund,20.19,0.15,0.13,USD,-1.29,1.62
-253916,-,BGF Euro Bond Fund,11.31,-0.18,-0.52,EUR,1.35,18.53
-241483,-,BGF Euro Bond Fund,22.36,0.13,-0.41,GBP,10.33,32.65
-283030,-,BGF Euro Bond Fund,10.08,-0.2,-0.39,GBP,-,1.7
-228242, ,BGF Euro Corporate Bond Fund,13.28,-0.23,0.37,EUR,5.07,58.32
-229601,-,BGF Euro Corporate Bond Fund,16.15,-0.25,0.37,EUR,5.05,50.93
-284350,-,BGF Euro Corporate Bond Fund,9.9,-0.3,0.3,CHF,-,-0.6
-284345,-,BGF Euro Corporate Bond Fund,9.98,-0.2,0.5,GBP,-,0.2
-284344,-,BGF Euro Corporate Bond Fund,10.03,-0.2,0.6,USD,-,0.6
-229134,-,BGF Euro Corporate Bond Fund,13.04,-0.23,0.37,EUR,5.08,60.8
-229135,-,BGF Euro Corporate Bond Fund,16.71,-0.24,0.42,EUR,5.46,58.49
-284349,-,BGF Euro Corporate Bond Fund,9.93,-0.2,0.4,CHF,-,-0.3
-284347,-,BGF Euro Corporate Bond Fund,10.01,-0.2,0.5,GBP,-,0.4
-284346,-,BGF Euro Corporate Bond Fund,10.06,-0.2,0.7,USD,-,0.9
-241479,-,BGF Euro Corporate Bond Fund,13.04,-0.23,0.43,EUR,5.41,21.63
-229607,-,BGF Euro Reserve Fund,73.61,0,-0.07,EUR,-0.35,0.34
-229610,-,BGF Euro Reserve Fund,74.11,0,-0.07,EUR,-0.34,0.95
-228429, ,BGF Euro Short Duration Bond Fund,12.26,0,0.02,EUR,0.95,54.92
-228419, ,BGF Euro Short Duration Bond Fund,15.94,0,-0.06,EUR,0.89,59.78
-228427, ,BGF Euro Short Duration Bond Fund,10.9,0,-0.18,CHF,0.28,8.9
-228425, ,BGF Euro Short Duration Bond Fund,11.65,0,0.17,USD,2.19,16.4
-228435, ,BGF Euro Short Duration Bond Fund,12.28,0.08,0.02,EUR,0.95,36.03
-228422, ,BGF Euro Short Duration Bond Fund,14.97,0,-0.07,EUR,0.86,13.64
-228423, ,BGF Euro Short Duration Bond Fund,10.93,0,0.09,GBP,1.77,18.05
-228426, ,BGF Euro Short Duration Bond Fund,10.94,0,0.18,USD,2.24,15.48
-228421, ,BGF Euro Short Duration Bond Fund,16.46,0,0,EUR,1.23,36.63
-241493,-,BGF Euro Short Duration Bond Fund,11.07,0,-0.09,CHF,0.64,5.84
-272985,-,BGF Euro Short Duration Bond Fund,10.29,0,0.29,USD,2.59,2.8
-241751,-,BGF Euro Short Duration Bond Fund,12.29,0,0.08,EUR,1.39,8.47
-241495,-,BGF Euro Short Duration Bond Fund,10.02,0,0.07,GBP,2.11,10.45
-241752,-,BGF Euro Short Duration Bond Fund,15.02,0.07,0.07,EUR,1.27,8.5
-228428, ,BGF Euro Short Duration Bond Fund,11.01,0,0.09,GBP,2.12,18.32
-250680,-,BGF Euro Short Duration Bond Fund,10.54,0,0.29,USD,2.58,8.56
-229611,-,BGF Euro-Markets Fund,27.35,0.26,2.09,EUR,11.73,168.6
-229136,-,BGF Euro-Markets Fund,28.97,0.63,2.67,USD,8.78,-
-229617,-,BGF Euro-Markets Fund,16.52,0.24,2.01,CHF,11.16,62.3
-258499,-,BGF Euro-Markets Fund,12.48,0.24,2.25,GBP,11.56,22.6
-277129,-,BGF Euro-Markets Fund,18.19,0.28,2.29,SGD,12.75,1.53
-257477,-,BGF Euro-Markets Fund,12.87,0.23,2.27,USD,12.86,26.4
-229612,-,BGF Euro-Markets Fund,24.15,0.25,2.11,EUR,11.74,227.08
-229613,-,BGF Euro-Markets Fund,22.63,0.58,2.16,GBP,21.55,76.82
-228693, ,BGF Euro-Markets Fund,29.73,0.24,2.24,EUR,12.57,92.49
-243805,-,BGF Euro-Markets Fund,31.5,0.64,2.75,USD,9.55,32.88
-250730,-,BGF Euro-Markets Fund,14.14,0.28,2.21,CHF,12.02,38.9
-272305,-,BGF Euro-Markets Fund,11.52,0.26,2.45,USD,13.67,13.1
-243807,-,BGF Euro-Markets Fund,24.25,0.29,2.23,EUR,12.6,62.13
-243799,-,BGF Euro-Markets Fund,21.1,0.57,2.32,GBP,22.53,71.49
-229638,-,BGF European Equity Income Fund,18.2,0.11,2.67,EUR,6.04,80.7
-271486,-,BGF European Equity Income Fund,11.54,0.09,2.88,USD,7.11,14.5
-229636,-,BGF European Equity Income Fund,14.9,0.13,2.64,EUR,6.05,74.39
-229639,-,BGF European Equity Income Fund,14.1,0.07,2.71,EUR,6.08,80.95
-259265,-,BGF European Equity Income Fund,19.47,0.1,2.93,USD,7.19,28.52
-262188,-,BGF European Equity Income Fund,10.5,0.1,2.78,EUR,6.07,17.67
-262734,-,BGF European Equity Income Fund,13.14,0.08,2.76,GBP,5.72,20.13
-262732,-,BGF European Equity Income Fund,172.1,0.11,2.85,HKD,6.67,20.2
-260610,-,BGF European Equity Income Fund,10.92,0.09,2.89,SGD,7.07,23.42
-260611,-,BGF European Equity Income Fund,10.86,0.09,2.9,USD,7.11,22.81
-260612,-,BGF European Equity Income Fund,11.01,0.09,3.01,AUD,8.45,29.09
-273472,-,BGF European Equity Income Fund,8.85,0.11,2.83,CAD,7,-6.12
-275801,-,BGF European Equity Income Fund,92.89,0.14,3.98,China OffShore Renminbi,10.01,3
-273473,-,BGF European Equity Income Fund,8.89,0.11,3.03,NZD,9.19,-1.59
-229640,-,BGF European Equity Income Fund,18.92,0.11,2.85,EUR,6.88,82.07
-272438,-,BGF European Equity Income Fund,9.97,0.1,3.02,USD,7.85,-1.1
-247323,-,BGF European Equity Income Fund,13.53,0.07,2.83,EUR,6.87,56.66
-246660,-,BGF European Equity Income Fund,13.48,0.07,2.84,EUR,6.9,56.21
-256031,-,BGF European Equity Income Fund,12.24,0.16,2.88,GBP,6.57,37.55
-272927,-,BGF European Equity Income Fund,8.86,0.11,3.07,USD,7.94,-4.84
-229642,-,BGF European Focus Fund,22.76,-0.22,2.2,EUR,6.11,127.5
-229141,-,BGF European Focus Fund,24.11,0.12,2.77,USD,3.3,99.92
-277130,-,BGF European Focus Fund,16.74,-0.24,2.39,SGD,7.11,-7.57
-257476,-,BGF European Focus Fund,11.86,-0.17,2.42,USD,7.24,18.5
-229644,-,BGF European Focus Fund,24.29,-0.25,2.36,EUR,6.91,91.03
-243806,-,BGF European Focus Fund,25.74,0.16,2.92,USD,4.08,20.5
-229648,-,BGF European Fund,108.93,-0.04,2.5,EUR,7.18,369.21
-229649,-,BGF European Fund,115.41,0.34,3.05,USD,4.35,336.66
-260719,-,BGF European Fund,11.21,0,2.85,AUD,9.3,11.7
-260708,-,BGF European Fund,10.76,0,2.58,CAD,8.06,7.2
-273333,-,BGF European Fund,92.97,0,3.79,China OffShore Renminbi,11.1,-7.41
-260729,-,BGF European Fund,10.64,0,2.51,GBP,6.64,6
-230105,-,BGF European Fund,15.42,0,2.6,HKD,7.71,53.7
-260709,-,BGF European Fund,11.55,0,2.95,NZD,10.14,15.1
-257101,-,BGF European Fund,12.09,-0.08,2.64,SGD,8.07,20.5
-229656,-,BGF European Fund,15.54,0,2.72,USD,8.25,54.9
-229650,-,BGF European Fund,103.85,-0.04,2.49,EUR,7.18,136.28
-229651,-,BGF European Fund,90.78,0.28,2.57,GBP,16.62,60.05
-229653,-,BGF European Fund,118.45,-0.03,2.62,EUR,7.98,74.16
-229654,-,BGF European Fund,125.48,0.34,3.17,USD,5.13,123.78
-244372,-,BGF European Fund,14.16,0,2.84,USD,9.04,41.1
-243800,-,BGF European Fund,91.1,0.29,2.69,GBP,17.5,50.67
-276251,-,BGF European High Yield Bond Fund,10.58,-0.19,1.73,EUR,12.55,5.8
-276250,-,BGF European High Yield Bond Fund,10.46,-0.19,1.75,CHF,11.98,4.7
-276249,-,BGF European High Yield Bond Fund,105.1,-0.21,1.7,SEK,12.23,5.16
-276252,-,BGF European High Yield Bond Fund,10.68,-0.28,1.91,EUR,13.24,6.9
-276253,-,BGF European High Yield Bond Fund,10.19,-0.29,1.9,EUR,13.32,6.86
-276254,-,BGF European High Yield Bond Fund,10.29,-0.19,1.98,GBP,14.15,7.88
-229661,-,BGF European Special Situations Fund,37.98,0.05,4.23,EUR,6.99,276.7
-229662,-,BGF European Special Situations Fund,40.23,0.4,4.8,USD,4.14,303.94
-260716,-,BGF European Special Situations Fund,13.23,0,4.54,AUD,9.42,31.2
-260727,-,BGF European Special Situations Fund,12.69,0,4.39,CAD,7.98,25.9
-275889,-,BGF European Special Situations Fund,277.64,0.08,5.51,China OffShore Renminbi,11,2.41
-260717,-,BGF European Special Situations Fund,12.45,0,4.31,GBP,6.56,23.5
-257475,-,BGF European Special Situations Fund,13.89,0.07,4.4,USD,8.08,37.7
-229665,-,BGF European Special Situations Fund,41.28,0.05,4.33,EUR,7.77,139.36
-243801,-,BGF European Special Situations Fund,43.73,0.41,4.91,USD,4.93,37.37
-268588,-,BGF European Special Situations Fund,12.81,0.08,4.61,USD,8.92,27
-229673,-,BGF European Value Fund,66.66,0.03,1.15,EUR,10.62,321.09
-229674,-,BGF European Value Fund,58,0.36,1.22,GBP,20.36,220.61
-229158,-,BGF European Value Fund,70.62,0.4,1.69,USD,7.7,258.73
-260730,-,BGF European Value Fund,12.19,0,1.53,AUD,12.96,19.4
-281113,-,BGF European Value Fund,111.26,0.33,0.93,China OffShore Renminbi,10.81,7.39
-260720,-,BGF European Value Fund,115.66,0.04,1.26,HKD,11.08,13.3
-260710,-,BGF European Value Fund,11.66,0.09,1.33,USD,11.74,14.2
-229159,-,BGF European Value Fund,52.93,0.02,1.15,EUR,10.61,160.01
-229160,-,BGF European Value Fund,49.2,0.35,1.2,GBP,20.35,157.93
-229677,-,BGF European Value Fund,71.48,0.04,1.27,EUR,11.46,54.09
-243856,-,BGF European Value Fund,62.19,0.36,1.34,GBP,21.27,75.02
-243870,-,BGF European Value Fund,75.73,0.41,1.82,USD,8.5,34.9
-271610,-,BGF European Value Fund,12.11,0,1.45,USD,12.63,18.6
-243857,-,BGF European Value Fund,49.4,0.37,1.35,GBP,21.26,75.02
-259391,-,BGF Fixed Income Global Opportunities Fund,9.5,-0.52,0.56,EUR,8.19,36.54
-259260,-,BGF Fixed Income Global Opportunities Fund,10.06,-0.2,1.15,USD,5.41,6.91
-259394,-,BGF Fixed Income Global Opportunities Fund,12.86,-0.54,0.55,EUR,8.19,38.74
-228362, ,BGF Fixed Income Global Opportunities Fund,13.63,-0.15,1.12,USD,5.34,36
-270554,-,BGF Fixed Income Global Opportunities Fund,10.06,-0.1,0.7,CHF,3.29,0.4
-228366, ,BGF Fixed Income Global Opportunities Fund,9.95,-0.2,0.91,EUR,3.87,28.59
-272437,-,BGF Fixed Income Global Opportunities Fund,10.18,-0.1,0.99,GBP,4.85,1.6
-259488,-,BGF Fixed Income Global Opportunities Fund,"1,037.00",-0.19,0.97,JPY,3.91,3.6
-228367, ,BGF Fixed Income Global Opportunities Fund,15.06,-0.13,1.21,PLN,5.92,50.2
-270555,-,BGF Fixed Income Global Opportunities Fund,101.33,-0.15,0.87,SEK,3.67,1.19
-228356, ,BGF Fixed Income Global Opportunities Fund,19.97,-0.1,1.12,SGD,5.28,29.67
-259388,-,BGF Fixed Income Global Opportunities Fund,9.49,-0.52,0.56,EUR,8.19,36.57
-259261,-,BGF Fixed Income Global Opportunities Fund,10.06,-0.1,1.15,USD,5.41,6.82
-271487,-,BGF Fixed Income Global Opportunities Fund,10.01,-0.1,1.11,USD,5.33,3.12
-257611,-,BGF Fixed Income Global Opportunities Fund,10.08,-0.2,0.9,EUR,3.95,6.38
-228357, ,BGF Fixed Income Global Opportunities Fund,10.09,-0.1,1.1,USD,5.36,35.93
-228360, ,BGF Fixed Income Global Opportunities Fund,7.34,-0.14,0.96,EUR,3.92,28.56
-228361, ,BGF Fixed Income Global Opportunities Fund,14.76,-0.14,1.1,SGD,5.27,28.36
-262189,-,BGF Fixed Income Global Opportunities Fund,12.39,-0.16,1.19,USD,5.38,4
-262733,-,BGF Fixed Income Global Opportunities Fund,95.89,-0.12,1.05,HKD,4.86,3.77
-271738,-,BGF Fixed Income Global Opportunities Fund,9.64,-0.1,1.33,AUD,6.51,6.12
-272435,-,BGF Fixed Income Global Opportunities Fund,98.78,-0.09,2.19,China OffShore Renminbi,8.24,9.09
-259393,-,BGF Fixed Income Global Opportunities Fund,13.13,-0.53,0.69,EUR,8.72,41.06
-243879,-,BGF Fixed Income Global Opportunities Fund,13.91,-0.14,1.17,USD,5.87,12.48
-257613,-,BGF Fixed Income Global Opportunities Fund,10.66,-0.09,0.85,CHF,3.8,6.4
-228354, ,BGF Fixed Income Global Opportunities Fund,10.42,-0.19,0.97,EUR,4.41,34.67
-250931,-,BGF Fixed Income Global Opportunities Fund,10.87,-0.18,1.12,GBP,5.34,8.5
-243858,-,BGF Fixed Income Global Opportunities Fund,15.39,-0.13,1.32,PLN,6.59,20.94
-243894,-,BGF Fixed Income Global Opportunities Fund,20.4,-0.15,1.19,SGD,5.82,13.17
-268964,-,BGF Fixed Income Global Opportunities Fund,12.83,-0.47,0.71,EUR,8.78,34.44
-277139,-,BGF Fixed Income Global Opportunities Fund,10.07,-0.1,1.11,CAD,5.56,3.19
-281109,-,BGF Fixed Income Global Opportunities Fund,10.1,-0.2,0.4,EUR,3.02,2.09
-279364,-,BGF Fixed Income Global Opportunities Fund,4.96,0,1.23,GBP,5.49,3.55
-228368, ,BGF Fixed Income Global Opportunities Fund,10.61,-0.09,1.24,USD,5.94,19.07
-243878,-,BGF Fixed Income Global Opportunities Fund,7.36,-0.14,0.96,EUR,4.43,9.76
-229682,-,BGF Flexible Multi-Asset Fund,14.33,-0.21,2.51,EUR,9.06,40.67
-229685,-,BGF Flexible Multi-Asset Fund,34.38,-0.23,2.72,USD,10.13,32.08
-229684,-,BGF Flexible Multi-Asset Fund,15.12,-0.2,2.72,EUR,9.89,54.03
-243859,-,BGF Flexible Multi-Asset Fund,35.49,-0.25,2.84,USD,10.99,27.79
-228272, ,BGF Global Allocation Fund,49.31,-0.4,2.87,EUR,15.09,154.04
-228299, ,BGF Global Allocation Fund,"15,352.07",-0.35,2.63,HUF,14.09,76.69
-228333, ,BGF Global Allocation Fund,52.24,-0.04,3.43,USD,12.06,278.78
-228294, ,BGF Global Allocation Fund,15.76,-0.06,3.6,AUD,13.17,61.49
-228289, ,BGF Global Allocation Fund,11.63,-0.09,3.18,CHF,10.08,17.15
-264292,-,BGF Global Allocation Fund,114.75,-0.02,4.49,China OffShore Renminbi,15.09,15.02
-228273, ,BGF Global Allocation Fund,35.24,-0.06,3.21,EUR,10.63,62.85
-228274, ,BGF Global Allocation Fund,28.17,-0.04,3.33,GBP,11.26,59.81
-230109,-,BGF Global Allocation Fund,12.78,-0.08,3.38,HKD,11.57,28.3
-228295, ,BGF Global Allocation Fund,15.35,-0.07,3.49,PLN,12.41,54
-228280, ,BGF Global Allocation Fund,12.58,-0.08,3.44,SGD,11.97,26.3
-228291, ,BGF Global Allocation Fund,48.34,-0.41,2.87,EUR,15.09,110.08
-228310, ,BGF Global Allocation Fund,51.22,-0.04,3.44,USD,12.06,30.53
-228275, ,BGF Global Allocation Fund,33.02,-0.06,3.21,EUR,10.64,42.34
-228296, ,BGF Global Allocation Fund,52.88,-0.41,3.01,EUR,15.98,76.72
-228283, ,BGF Global Allocation Fund,56.02,-0.04,3.58,USD,12.9,38.74
-241486,-,BGF Global Allocation Fund,16.3,0,3.68,AUD,13.95,35.49
-241487,-,BGF Global Allocation Fund,12.04,-0.08,3.25,CHF,10.93,19.84
-228282, ,BGF Global Allocation Fund,37.79,-0.05,3.32,EUR,11.46,27.72
-241488,-,BGF Global Allocation Fund,29.1,-0.07,3.44,GBP,12.09,24.41
-241489,-,BGF Global Allocation Fund,15.88,-0.06,3.65,PLN,13.23,33.78
-241490,-,BGF Global Allocation Fund,13.01,-0.08,3.49,SGD,12.79,25.12
-241491,-,BGF Global Allocation Fund,48.54,-0.41,3.01,EUR,15.94,52.84
-241492,-,BGF Global Allocation Fund,33.16,-0.06,3.32,EUR,11.47,22.11
-228652, ,BGF Global Corporate Bond Fund,12.96,-0.46,1.31,USD,5.14,31
-228651, ,BGF Global Corporate Bond Fund,12.46,-0.48,1.12,EUR,3.53,25.62
-271741,-,BGF Global Corporate Bond Fund,99.07,-0.47,1.04,SEK,3.25,0.16
-283768,-,BGF Global Corporate Bond Fund,10.08,-0.4,1.29,SGD,-,1.8
-241456,-,BGF Global Corporate Bond Fund,11.32,-0.44,1.43,AUD,6.16,26.73
-241457,-,BGF Global Corporate Bond Fund,10.51,-0.47,1.24,CAD,4.75,17.74
-241458,-,BGF Global Corporate Bond Fund,10.33,-0.48,1.25,GBP,4.6,15.76
-241415,-,BGF Global Corporate Bond Fund,11.41,-0.44,1.6,NZD,6.6,28.65
-228653, ,BGF Global Corporate Bond Fund,9.15,-0.44,0.98,EUR,3.45,26.12
-241416,-,BGF Global Corporate Bond Fund,10.34,-0.48,1.36,USD,5.16,14.71
-230111,-,BGF Global Corporate Bond Fund,10.73,-0.46,1.32,USD,5.09,20.75
-230112,-,BGF Global Corporate Bond Fund,82.21,-0.46,1.22,HKD,4.61,19.4
-284106,-,BGF Global Corporate Bond Fund,9.74,-0.41,1.27,SGD,-,0.55
-246686,-,BGF Global Corporate Bond Fund,10.84,-0.46,1.42,AUD,6.15,21.61
-273474,-,BGF Global Corporate Bond Fund,97.42,-0.43,2.33,China OffShore Renminbi,7.9,8.71
-271373,-,BGF Global Corporate Bond Fund,9.54,-0.52,1.52,NZD,6.55,9.57
-228655, ,BGF Global Corporate Bond Fund,13.46,-0.44,1.34,USD,5.51,63.73
-228657, ,BGF Global Corporate Bond Fund,12.92,-0.46,1.16,EUR,3.98,58.11
-273475,-,BGF Global Corporate Bond Fund,9.43,-0.42,1.28,GBP,5.07,3.03
-229693,-,BGF Global Dynamic Equity Fund,16.99,-0.35,4,EUR,24.45,100.71
-229698,-,BGF Global Dynamic Equity Fund,18,0.06,4.55,USD,21.16,79.2
-276186,-,BGF Global Dynamic Equity Fund,108.26,0.06,5.62,China OffShore Renminbi,24.53,7.71
-229694,-,BGF Global Dynamic Equity Fund,12.44,0,4.29,EUR,19.94,21.35
-229690,-,BGF Global Dynamic Equity Fund,16.98,-0.35,4,EUR,24.51,176.03
-241484,-,BGF Global Dynamic Equity Fund,18.15,-0.33,4.09,EUR,25.43,76.44
-229692,-,BGF Global Dynamic Equity Fund,19.23,0.05,4.65,USD,22.07,50.83
-241485,-,BGF Global Dynamic Equity Fund,12.86,0,4.4,EUR,20.85,42.33
-253848,-,BGF Global Dynamic Equity Fund,15.36,-0.32,4.09,EUR,25.39,55.7
-229706,-,BGF Global Enhanced Equity Yield Fund,12.32,-0.08,4.04,USD,12.16,23.6
-229703,-,BGF Global Enhanced Equity Yield Fund,8.19,-0.12,3.79,EUR,10.63,2.88
-229171,-,BGF Global Enhanced Equity Yield Fund,10.34,-0.1,4,SGD,11.96,0.39
-229707,-,BGF Global Enhanced Equity Yield Fund,5.28,0,4.13,USD,12.26,22.93
-229704,-,BGF Global Enhanced Equity Yield Fund,4.06,0,3.82,EUR,10.78,4.72
-270404,-,BGF Global Enhanced Equity Yield Fund,8.93,-0.11,4.19,USD,12.25,7.03
-270402,-,BGF Global Enhanced Equity Yield Fund,8.87,-0.11,3.98,GBP,11.35,6.29
-270403,-,BGF Global Enhanced Equity Yield Fund,88.77,-0.09,4.03,HKD,11.65,6.3
-270405,-,BGF Global Enhanced Equity Yield Fund,8.85,-0.11,4.24,AUD,13.17,9.89
-270406,-,BGF Global Enhanced Equity Yield Fund,8.81,-0.11,4.04,CAD,11.59,6.16
-271612,-,BGF Global Enhanced Equity Yield Fund,90.65,-0.07,5.15,China OffShore Renminbi,15.16,13.91
-270407,-,BGF Global Enhanced Equity Yield Fund,8.85,-0.11,4.34,NZD,13.66,11.75
-229712,-,BGF Global Enhanced Equity Yield Fund,13.16,-0.08,4.26,USD,13.1,28.63
-241498,-,BGF Global Enhanced Equity Yield Fund,8.45,-0.12,3.92,EUR,11.56,19.91
-241497,-,BGF Global Enhanced Equity Yield Fund,5.57,0,4.1,USD,12.82,22.95
-249552,-,BGF Global Equity Income Fund,14.55,-0.34,4.07,EUR,15.36,58.71
-229725,-,BGF Global Equity Income Fund,15.42,0.06,4.67,USD,12.35,54.6
-270121,-,BGF Global Equity Income Fund,10.52,0.1,4.35,CHF,10.36,5.5
-229731,-,BGF Global Equity Income Fund,13.79,0.07,4.38,EUR,10.91,38.3
-229724,-,BGF Global Equity Income Fund,16.33,0.06,4.74,PLN,12.44,63.6
-229732,-,BGF Global Equity Income Fund,14.32,0.07,4.59,SGD,12.1,43.6
-229726,-,BGF Global Equity Income Fund,12.14,-0.25,4.02,EUR,15.33,77.4
-286067,-,BGF Global Equity Income Fund,10.65,0.09,-,EUR,-,-
-229175,-,BGF Global Equity Income Fund,10.46,0.1,4.16,GBP,25.43,99.14
-228639, ,BGF Global Equity Income Fund,12.74,0.08,4.59,USD,12.26,54.44
-229733,-,BGF Global Equity Income Fund,11.67,0.09,4.37,EUR,10.82,36.82
-229734,-,BGF Global Equity Income Fund,12.29,0.08,4.58,SGD,12.13,43.61
-229727,-,BGF Global Equity Income Fund,13.05,0.08,4.67,USD,12.24,42.3
-268485,-,BGF Global Equity Income Fund,96.69,0.09,5.69,China OffShore Renminbi,15.32,14.14
-259500,-,BGF Global Equity Income Fund,102.09,0.07,4.56,HKD,11.79,12.97
-256059,-,BGF Global Equity Income Fund,10.54,0,4.57,SGD,12.07,18.71
-256057,-,BGF Global Equity Income Fund,10.52,0.1,4.77,AUD,13.3,25.54
-273396,-,BGF Global Equity Income Fund,102.09,0.1,5.69,China OffShore Renminbi,15.31,13.04
-260711,-,BGF Global Equity Income Fund,105.55,0.12,5.62,ZAR,19.32,32.85
-229728,-,BGF Global Equity Income Fund,16.16,0.06,4.79,USD,13.21,65.89
-245707,-,BGF Global Equity Income Fund,12.82,0.08,4.39,CHF,11.16,28.5
-241665,-,BGF Global Equity Income Fund,14.25,0.07,4.54,EUR,11.73,33.05
-241666,-,BGF Global Equity Income Fund,16.88,0.12,4.84,PLN,13.34,45.52
-241667,-,BGF Global Equity Income Fund,14.8,0.07,4.73,SGD,12.95,36.18
-253850,-,BGF Global Equity Income Fund,13.54,-0.29,4.23,EUR,16.27,49.3
-241670,-,BGF Global Equity Income Fund,10.83,0,4.32,GBP,26.5,78.59
-241671,-,BGF Global Equity Income Fund,13.18,0.08,4.76,USD,13.14,36.69
-241753,-,BGF Global Equity Income Fund,12.06,0,4.58,EUR,11.73,33.29
-241669,-,BGF Global Equity Income Fund,8.06,0,4.66,GBP,12.11,35.78
-229738,-,BGF Global Government Bond Fund,20.02,-0.15,0.21,USD,0.71,80.79
-229181,-,BGF Global Government Bond Fund,18.73,-0.16,-0.05,EUR,-0.85,68.86
-229178,-,BGF Global Government Bond Fund,27.79,-0.11,0.21,USD,0.72,348.76
-229744,-,BGF Global Government Bond Fund,25.57,-0.16,-0.04,EUR,-0.85,-
-229179,-,BGF Global Government Bond Fund,20.06,-0.1,0.26,USD,0.76,59.04
-229182,-,BGF Global Government Bond Fund,18.57,-0.16,0,EUR,-0.81,43.7
-284719,-,BGF Global Government Bond Fund,9.66,-0.1,0.09,GBP,-,-
-284720,-,BGF Global Government Bond Fund,96.73,-0.13,0.14,HKD,-,-
-229742,-,BGF Global Government Bond Fund,28.45,-0.14,0.28,USD,1.09,24.07
-229747,-,BGF Global Government Bond Fund,26.51,-0.15,0.04,EUR,-0.48,38.16
-243860,-,BGF Global Government Bond Fund,20.08,-0.15,0.31,USD,1.1,15.58
-243880,-,BGF Global Government Bond Fund,18.59,-0.16,0.06,EUR,-0.46,12.48
-229185,-,BGF Global High Yield Bond Fund,7.9,-0.38,2.56,USD,16.69,66.05
-229190,-,BGF Global High Yield Bond Fund,5.54,-0.36,2.4,EUR,15.04,119.78
-229755,-,BGF Global High Yield Bond Fund,23.11,-0.43,2.56,USD,16.59,67.82
-229191,-,BGF Global High Yield Bond Fund,16.15,-0.43,2.33,EUR,15.07,118.55
-229758,-,BGF Global High Yield Bond Fund,17.21,-0.46,2.42,GBP,16,42.99
-244124,-,BGF Global High Yield Bond Fund,13,-0.38,2.67,PLN,17.2,30.8
-230114,-,BGF Global High Yield Bond Fund,12.78,-0.39,2.31,SEK,14.81,28.7
-229756,-,BGF Global High Yield Bond Fund,7.94,-0.5,2.55,USD,16.46,65.76
-229759,-,BGF Global High Yield Bond Fund,5.48,-0.54,2.23,EUR,15.12,94.96
-270728,-,BGF Global High Yield Bond Fund,11.65,-0.85,2,EUR,19.79,29.49
-228328, ,BGF Global High Yield Bond Fund,7.19,-0.42,2.56,USD,16.69,29.92
-230113,-,BGF Global High Yield Bond Fund,55.53,-0.41,2.48,HKD,16.05,32.97
-246684,-,BGF Global High Yield Bond Fund,7.11,-0.42,2.63,AUD,17.77,27.18
-260725,-,BGF Global High Yield Bond Fund,92.8,-0.35,3.61,ZAR,24.48,30.74
-229189,-,BGF Global High Yield Bond Fund,24.22,-0.37,2.7,USD,17.33,106.18
-229194,-,BGF Global High Yield Bond Fund,16.86,-0.41,2.41,EUR,15.76,99.88
-229762,-,BGF Global High Yield Bond Fund,17.84,-0.45,2.57,GBP,16.7,79.6
-241677,-,BGF Global High Yield Bond Fund,7.99,-0.37,2.76,USD,17.39,27.85
-241675,-,BGF Global High Yield Bond Fund,5.51,-0.54,2.32,EUR,15.75,23.98
-264650,-,BGF Global High Yield Bond Fund,9.47,-0.42,2.58,GBP,16.69,8.89
-228341, ,BGF Global Inflation Linked Bond Fund,14.13,-0.07,0.78,USD,7.61,42.8
-228342, ,BGF Global Inflation Linked Bond Fund,13.53,-0.07,0.51,EUR,5.97,36.7
-228343, ,BGF Global Inflation Linked Bond Fund,13.72,-0.07,0.8,USD,7.61,41.17
-228348, ,BGF Global Inflation Linked Bond Fund,14.52,-0.07,0.89,USD,8.03,34.59
-228347, ,BGF Global Inflation Linked Bond Fund,13.89,-0.07,0.57,EUR,6.44,36.31
-241681,-,BGF Global Inflation Linked Bond Fund,13.73,-0.07,0.84,USD,8.03,13.65
-271614,-,BGF Global Multi-Asset Income Fund,11.8,-0.34,4.03,EUR,3.93,11.32
-230304,-,BGF Global Multi-Asset Income Fund,12.5,0,2.29,USD,10.89,25.2
-283038,-,BGF Global Multi-Asset Income Fund,10.66,-0.09,2,CHF,-,6.9
-264288,-,BGF Global Multi-Asset Income Fund,10.34,0,2.07,EUR,9.28,3.6
-275467,-,BGF Global Multi-Asset Income Fund,9.68,-0.41,4.05,EUR,3.83,-0.62
-279636,-,BGF Global Multi-Asset Income Fund,10.21,0,2.3,USD,10.98,7.21
-283039,-,BGF Global Multi-Asset Income Fund,10.39,0,1.96,CHF,-,6.78
-261608,-,BGF Global Multi-Asset Income Fund,9.27,0,1.98,EUR,9.33,5.79
-284105,-,BGF Global Multi-Asset Income Fund,10.3,0,2.28,USD,-,5.83
-256060,-,BGF Global Multi-Asset Income Fund,10.11,0,2.43,AUD,11.99,21.01
-251179,-,BGF Global Multi-Asset Income Fund,9.2,0,2.22,SGD,10.89,12.11
-230305,-,BGF Global Multi-Asset Income Fund,9.66,-0.1,2.3,USD,10.91,25.21
-271076,-,BGF Global Multi-Asset Income Fund,9.04,0,2.06,EUR,9.5,3.12
-230306,-,BGF Global Multi-Asset Income Fund,95.66,-0.02,2.23,HKD,10.44,23.84
-256058,-,BGF Global Multi-Asset Income Fund,9.3,0,2.25,SGD,10.77,14.51
-246685,-,BGF Global Multi-Asset Income Fund,9.74,0,2.45,AUD,12.09,20.94
-259502,-,BGF Global Multi-Asset Income Fund,9.08,0,2.2,CAD,10.47,10.09
-277140,-,BGF Global Multi-Asset Income Fund,98.66,0.01,3.33,China OffShore Renminbi,13.92,11.08
-259501,-,BGF Global Multi-Asset Income Fund,9.12,-0.11,2.08,GBP,10.27,9.27
-256061,-,BGF Global Multi-Asset Income Fund,9.32,0,2.47,NZD,12.61,23.65
-237604,-,BGF Global Multi-Asset Income Fund,12.53,0,2.45,USD,11.75,25.5
-283036,-,BGF Global Multi-Asset Income Fund,10.74,0,2.09,CHF,-,7.6
-264285,-,BGF Global Multi-Asset Income Fund,10.57,0,2.12,EUR,10.2,5.9
-283031,-,BGF Global Multi-Asset Income Fund,10.46,0,2.14,CHF,-,7.6
-255662,-,BGF Global Multi-Asset Income Fund,9.86,-0.1,2.17,EUR,10.21,16.61
-259503,-,BGF Global Multi-Asset Income Fund,9.96,0,2.46,USD,11.78,12.52
-229197,-,BGF Global Opportunities Fund,42.66,-0.61,4.95,EUR,22.66,74.23
-229769,-,BGF Global Opportunities Fund,45.19,-0.24,5.49,USD,19.37,349.01
-271618,-,BGF Global Opportunities Fund,11.1,-0.27,5.51,SGD,19.23,11
-271620,-,BGF Global Opportunities Fund,13.7,-0.29,5.01,GBP,33.43,34.1
-271619,-,BGF Global Opportunities Fund,11.06,-0.27,5.53,USD,19.44,10.6
-243869,-,BGF Global Opportunities Fund,44.31,-0.61,5.06,EUR,23.54,70.61
-229199,-,BGF Global Opportunities Fund,46.95,-0.23,5.63,USD,20.28,62.07
-271621,-,BGF Global Opportunities Fund,13.78,-0.29,5.07,GBP,34.39,36.23
-229772,-,BGF Global SmallCap Fund,84.99,-0.99,3.06,EUR,27.96,257
-229773,-,BGF Global SmallCap Fund,90.04,-0.63,3.63,USD,24.58,841.06
-260712,-,BGF Global SmallCap Fund,10.36,-0.67,3.73,AUD,25.56,5.6
-229777,-,BGF Global SmallCap Fund,90.67,-0.98,3.19,EUR,28.93,143.3
-229202,-,BGF India Fund,29.84,-0.4,11,EUR,36.89,291.9
-229782,-,BGF India Fund,31.61,-0.03,11.58,USD,33.33,74.15
-229203,-,BGF India Fund,26.1,-0.11,11.06,GBP,49.04,152.31
-228323, ,BGF India Fund,32.18,-0.4,11.13,EUR,37.97,118.51
-229783,-,BGF India Fund,34.1,-0.03,11.73,USD,34.31,87.48
-243861,-,BGF India Fund,26.95,-0.07,11.14,GBP,50.06,102.36
-229280,-,BGF Japan Flexible Equity Fund,11.19,-0.44,5.12,EUR,24.61,49.73
-229814,-,BGF Japan Flexible Equity Fund,"1,361.00",0.22,2.36,JPY,20.58,28.79
-229815,-,BGF Japan Flexible Equity Fund,11.85,-0.08,6.49,USD,21.28,19.7
-229283,-,BGF Japan Flexible Equity Fund,8.53,0.24,2.07,EUR,19.15,-19.77
-254578,-,BGF Japan Flexible Equity Fund,13.03,0.31,2.31,USD,20.47,28.3
-229281,-,BGF Japan Flexible Equity Fund,9.62,-0.1,4.74,GBP,35.47,84.5
-241686,-,BGF Japan Flexible Equity Fund,12.03,-0.41,5.2,EUR,25.44,81.88
-229821,-,BGF Japan Flexible Equity Fund,"1,463.00",0.21,2.42,JPY,21.4,2.93
-241687,-,BGF Japan Flexible Equity Fund,12.74,-0.08,6.63,USD,22.13,48.82
-241688,-,BGF Japan Flexible Equity Fund,8.82,0.23,2.24,EUR,20.19,104.46
-241689,-,BGF Japan Flexible Equity Fund,9.76,-0.1,4.89,GBP,36.62,94.74
-229802,-,BGF Japan Small & MidCap Opportunities Fund,53.04,-0.19,4.94,EUR,25.02,88.08
-229803,-,BGF Japan Small & MidCap Opportunities Fund,"6,454.00",0.48,2.18,JPY,20.98,352
-229277,-,BGF Japan Small & MidCap Opportunities Fund,56.2,0.2,6.44,USD,21.69,465.5
-229800,-,BGF Japan Small & MidCap Opportunities Fund,42.08,0.48,2.02,EUR,19.87,-10.5
-253389,-,BGF Japan Small & MidCap Opportunities Fund,12.12,0.41,2.15,USD,21.3,19
-229804,-,BGF Japan Small & MidCap Opportunities Fund,46.09,0.15,4.66,GBP,36.01,659.09
-229279,-,BGF Japan Small & MidCap Opportunities Fund,56.86,-0.18,5.09,EUR,25.96,40.76
-229808,-,BGF Japan Small & MidCap Opportunities Fund,"6,918.00",0.49,2.3,JPY,21.88,111.16
-241684,-,BGF Japan Small & MidCap Opportunities Fund,60.24,0.2,6.58,USD,22.62,67.71
-241683,-,BGF Japan Small & MidCap Opportunities Fund,43.49,0.46,2.15,EUR,20.76,131.93
-241685,-,BGF Japan Small & MidCap Opportunities Fund,47.02,0.15,4.8,GBP,37.09,119.62
-229826,-,BGF Latin American Fund,56.93,-2.22,11.7,EUR,46.18,359.78
-229285,-,BGF Latin American Fund,49.53,-1.9,11.78,GBP,59.05,590.32
-229286,-,BGF Latin American Fund,60.32,-1.84,12.3,USD,42.3,349.46
-260713,-,BGF Latin American Fund,9.36,-1.89,12.22,AUD,41.97,-3.6
-229834,-,BGF Latin American Fund,5.97,-1.97,12,CHF,39.68,-38.4
-230117,-,BGF Latin American Fund,8.27,-1.9,12.25,HKD,41.76,-14.8
-229835,-,BGF Latin American Fund,8.04,-1.83,12.35,PLN,41.54,-17.2
-229836,-,BGF Latin American Fund,5.92,-1.99,12.34,SGD,41.2,-39
-229827,-,BGF Latin American Fund,54.46,-2.21,11.69,EUR,46.18,95.88
-229829,-,BGF Latin American Fund,46.64,-1.89,11.77,GBP,59.02,244.75
-229289,-,BGF Latin American Fund,61.51,-2.21,11.85,EUR,47.29,37.76
-241759,-,BGF Latin American Fund,53.52,-1.89,11.92,GBP,60.21,6.67
-229832,-,BGF Latin American Fund,65.17,-1.84,12.44,USD,43.36,34.5
-241755,-,BGF Latin American Fund,6.17,-1.75,11.99,CHF,40.8,-22.37
-241754,-,BGF Latin American Fund,49.22,-1.83,12.2,EUR,42.89,-19.34
-241758,-,BGF Latin American Fund,39.98,-1.91,12.26,GBP,42.69,-18.46
-241756,-,BGF Latin American Fund,8.31,-1.89,12.48,PLN,42.43,-14.57
-242995,-,BGF Latin American Fund,6.12,-1.92,12.3,SGD,42.21,-19.75
-241760,-,BGF Latin American Fund,54.63,-2.2,11.81,EUR,47.23,0.72
-241757,-,BGF Latin American Fund,46.77,-1.89,11.9,GBP,60.23,6.66
-230004,-,BGF Natural Resources Growth & Income Fund,7.87,-1.63,1.24,USD,33.55,-18.4
-284015,-,BGF Natural Resources Growth & Income Fund,10.61,-1.58,1.3,USD,-,11.79
-230002,-,BGF Natural Resources Growth & Income Fund,6.59,-1.64,1.19,USD,33.53,-15.44
-271262,-,BGF Natural Resources Growth & Income Fund,6.02,-1.95,0.81,EUR,37.35,11.33
-230003,-,BGF Natural Resources Growth & Income Fund,6.38,-1.54,1.38,USD,33.67,-19.22
-229298,-,BGF New Energy Fund,7.58,-0.52,4.54,EUR,14.46,-31.9
-229299,-,BGF New Energy Fund,8.03,-0.25,5.08,USD,11.48,-28.92
-229871,-,BGF New Energy Fund,7.56,-0.53,4.55,EUR,14.5,40.86
-229300,-,BGF New Energy Fund,6.6,-0.15,4.68,GBP,24.81,12.88
-229877,-,BGF New Energy Fund,8.25,-0.6,4.81,EUR,15.48,7.81
-229878,-,BGF New Energy Fund,8.74,-0.23,5.28,USD,12.42,-10.5
-243863,-,BGF New Energy Fund,7.69,-0.52,4.76,EUR,15.24,61.91
-229879,-,BGF New Energy Fund,6.8,-0.29,4.7,GBP,25.61,39.36
-228493, ,BGF North American Equity Income Fund,15.92,-0.31,3.31,USD,24.02,59
-228490, ,BGF North American Equity Income Fund,14.48,-0.34,3.36,USD,24,58.2
-228492, ,BGF North American Equity Income Fund,16.53,-0.3,3.45,USD,24.89,65.1
-246661,-,BGF North American Equity Income Fund,18.81,-0.37,2.97,GBP,39.63,98.01
-244013,-,BGF North American Equity Income Fund,9.25,-0.32,3.35,GBP,23.87,56.85
-229883,-,BGF Pacific Equity Fund,32.98,-0.81,7.93,EUR,29.06,-
-229303,-,BGF Pacific Equity Fund,28.69,-0.49,8.04,GBP,40.47,188.84
-229884,-,BGF Pacific Equity Fund,34.93,-0.46,8.53,USD,25.67,251
-229306,-,BGF Pacific Equity Fund,35.76,-0.8,8.07,EUR,30.05,73.75
-229307,-,BGF Pacific Equity Fund,37.89,-0.45,8.68,USD,26.61,44.39
-257308,-,BGF Renminbi Bond Fund,11.87,0,2.24,CHF,2.95,12.74
-228558, ,BGF Renminbi Bond Fund,-,-,1.81,China OffShore Renminbi,7.17,27.26
-228559, ,BGF Renminbi Bond Fund,11.72,0.17,3.6,USD,2.52,18.1
-250691,-,BGF Renminbi Bond Fund,-,-,1.81,China OffShore Renminbi,7.16,16.46
-250692,-,BGF Renminbi Bond Fund,75.98,0.11,3.61,HKD,2.31,5.41
-228560, ,BGF Renminbi Bond Fund,9.78,0.1,3.49,USD,2.45,18.09
-243867,-,BGF Renminbi Bond Fund,79.92,-0.1,1.86,China OffShore Renminbi,7.55,22.72
-228438, ,BGF Renminbi Bond Fund,11.58,0.09,3.64,USD,2.82,16.7
-228315, ,BGF Renminbi Bond Fund,9.83,0.2,3.54,USD,2.83,20.32
-228528, ,BGF Swiss Small & MidCap Opportunities Fund,385.85,-0.45,8.15,CHF,27.59,159.27
-228529, ,BGF Swiss Small & MidCap Opportunities Fund,411.48,-0.45,8.28,CHF,28.55,176.44
-277132,-,BGF Swiss Small & MidCap Opportunities Fund,13.09,-0.46,8.31,CHF,28.59,29.1
-228530, ,BGF United Kingdom Fund,110.53,-0.71,1.85,EUR,7.51,81.32
-228539, ,BGF United Kingdom Fund,96.17,-0.39,1.92,GBP,16.97,"1,297.09"
-228540, ,BGF United Kingdom Fund,117.1,-0.34,2.4,USD,4.67,126.67
-228532, ,BGF United Kingdom Fund,82.63,-0.39,1.92,GBP,16.97,"1,292.91"
-228538, ,BGF United Kingdom Fund,118.5,-0.7,1.98,EUR,8.33,77.4
-228534, ,BGF United Kingdom Fund,103.1,-0.4,2.05,GBP,17.88,74.72
-241769,-,BGF United Kingdom Fund,99.41,-0.39,2.05,GBP,17.85,52.15
-241783,-,BGF United Kingdom Fund,125.54,-0.34,2.53,USD,5.46,17.36
-241770,-,BGF United Kingdom Fund,83.04,-0.4,2.05,GBP,17.86,52.16
-228550, ,BGF US Basic Value Fund,76.74,-0.94,1.1,EUR,31.23,135.71
-228566, ,BGF US Basic Value Fund,66.77,-0.63,1.17,GBP,42.77,155.26
-228551, ,BGF US Basic Value Fund,81.3,-0.57,1.65,USD,27.75,262.51
-281111,-,BGF US Basic Value Fund,121.04,0.4,-0.54,China OffShore Renminbi,29.2,22.42
-228576, ,BGF US Basic Value Fund,56.36,-0.58,1.44,EUR,26.59,74.43
-228581, ,BGF US Basic Value Fund,16,-0.56,1.57,SGD,27.49,61.4
-228640, ,BGF US Basic Value Fund,76.32,-0.93,1.09,EUR,31.23,132.63
-228552, ,BGF US Basic Value Fund,66.31,-0.61,1.16,GBP,42.77,193.08
-229309,-,BGF US Basic Value Fund,80.86,-0.57,1.64,USD,27.74,167.54
-243881,-,BGF US Basic Value Fund,83.14,-0.93,1.22,EUR,32.2,98.55
-243882,-,BGF US Basic Value Fund,72.34,-0.62,1.29,GBP,43.85,108.43
-228578, ,BGF US Basic Value Fund,88.08,-0.56,1.76,USD,28.71,70.43
-243866,-,BGF US Basic Value Fund,58.23,-0.6,1.57,EUR,27.58,58.42
-243864,-,BGF US Basic Value Fund,77.11,-0.94,1.22,EUR,32.19,98.55
-243865,-,BGF US Basic Value Fund,66.97,-0.62,1.3,GBP,43.84,108.4
-243889,-,BGF US Basic Value Fund,81.7,-0.56,1.78,USD,28.7,60.67
-228565, ,BGF US Dollar Core Bond Fund,16.68,-0.06,1.21,USD,1.8,57.85
-228548, ,BGF US Dollar Core Bond Fund,30.98,-0.06,1.2,USD,1.76,288.11
-228571, ,BGF US Dollar Core Bond Fund,16.69,-0.06,1.15,USD,1.73,60.43
-284725,-,BGF US Dollar Core Bond Fund,9.57,0,1.14,GBP,-,-
-284726,-,BGF US Dollar Core Bond Fund,96.66,-0.08,1.09,HKD,-,-
-228557, ,BGF US Dollar Core Bond Fund,31.83,-0.06,1.26,USD,2.2,22.84
-280500,-,BGF US Dollar Core Bond Fund,10.2,-0.1,1.08,GBP,1.68,2.7
-228401, ,BGF US Dollar Core Bond Fund,16.69,-0.06,1.28,USD,2.2,21.76
-228563, ,BGF US Dollar High Yield Bond Fund,5.79,-0.52,2.57,USD,17.19,144.84
-228564, ,BGF US Dollar High Yield Bond Fund,30.69,-0.39,2.62,USD,17.17,209.2
-228400, ,BGF US Dollar High Yield Bond Fund,15.53,-0.38,2.69,AUD,18.31,56.4
-269096,-,BGF US Dollar High Yield Bond Fund,10.4,-0.38,2.24,CHF,15.04,4.8
-228556, ,BGF US Dollar High Yield Bond Fund,200.5,-0.43,2.37,EUR,15.75,66.71
-228399, ,BGF US Dollar High Yield Bond Fund,13.51,-0.37,2.56,SGD,17.02,36.1
-228409, ,BGF US Dollar High Yield Bond Fund,5.85,-0.51,2.73,USD,17.26,109.77
-228398, ,BGF US Dollar High Yield Bond Fund,11.5,-0.43,2.76,AUD,18.33,55.66
-235473,-,BGF US Dollar High Yield Bond Fund,10.31,-0.48,2.49,CAD,16.62,29.13
-230310,-,BGF US Dollar High Yield Bond Fund,9.94,-0.4,2.35,EUR,15.73,24.44
-230311,-,BGF US Dollar High Yield Bond Fund,10.17,-0.49,2.51,GBP,16.55,27.65
-241418,-,BGF US Dollar High Yield Bond Fund,11.19,-0.44,2.82,NZD,18.83,39.27
-228397, ,BGF US Dollar High Yield Bond Fund,10,-0.4,2.54,SGD,17.16,35.43
-228404, ,BGF US Dollar High Yield Bond Fund,11.3,-0.44,2.43,GBP,16.56,43.8
-228393, ,BGF US Dollar High Yield Bond Fund,5.29,-0.38,2.64,USD,17.03,33.35
-228410, ,BGF US Dollar High Yield Bond Fund,40.68,-0.42,2.52,HKD,16.61,27.55
-280499,-,BGF US Dollar High Yield Bond Fund,10.03,-0.4,2.5,SGD,17,10.38
-246709,-,BGF US Dollar High Yield Bond Fund,9.85,-0.4,2.7,AUD,18.38,27.76
-260726,-,BGF US Dollar High Yield Bond Fund,93.47,-0.35,3.65,ZAR,25.12,31.43
-228396, ,BGF US Dollar High Yield Bond Fund,31.88,-0.41,2.72,USD,17.87,47
-244007,-,BGF US Dollar High Yield Bond Fund,15.98,-0.44,2.81,AUD,19.01,37.05
-269097,-,BGF US Dollar High Yield Bond Fund,10.55,-0.47,2.41,CHF,15.78,6.4
-228395, ,BGF US Dollar High Yield Bond Fund,208.38,-0.42,2.47,EUR,16.41,52.27
-244029,-,BGF US Dollar High Yield Bond Fund,13.85,-0.43,2.72,SGD,17.81,26.45
-228402, ,BGF US Dollar High Yield Bond Fund,10.03,-0.4,2.75,USD,17.82,39.93
-244030,-,BGF US Dollar High Yield Bond Fund,10.04,-0.4,2.63,SGD,17.71,26.4
-228403, ,BGF US Dollar High Yield Bond Fund,11.29,-0.44,2.61,GBP,17.36,48.6
-228335, ,BGF US Dollar Reserve Fund,151.26,0,0.07,USD,0.27,61.92
-228334, ,BGF US Dollar Reserve Fund,189.91,-0.01,-0.05,GBP,-0.29,89.94
-244026,-,BGF US Dollar Reserve Fund,190.28,-0.01,-0.02,GBP,-0.12,0.34
-228579, ,BGF US Dollar Short Duration Bond Fund,8.55,0,0.62,USD,1.82,30.48
-228575, ,BGF US Dollar Short Duration Bond Fund,13.04,-0.08,0.62,USD,1.79,30.6
-244102,-,BGF US Dollar Short Duration Bond Fund,10.16,-0.1,0.3,EUR,0.2,1.8
-228589, ,BGF US Dollar Short Duration Bond Fund,8.07,-0.37,0.01,EUR,4.55,23.11
-228337, ,BGF US Dollar Short Duration Bond Fund,8.55,0,0.62,USD,1.82,10.78
-264287,-,BGF US Dollar Short Duration Bond Fund,9.83,-0.1,0.58,SGD,1.62,2.79
-244014,-,BGF US Dollar Short Duration Bond Fund,13.24,0,0.61,USD,2.08,6.17
-283924,-,BGF US Dollar Short Duration Bond Fund,10.01,-0.1,0.4,EUR,-,0.3
-229892,-,BGF US Dollar Short Duration Bond Fund,9.81,0,0.64,USD,2.05,11.58
-228607, ,BGF US Flexible Equity Fund,27.84,-0.57,5.85,EUR,28.39,173.25
-228610, ,BGF US Flexible Equity Fund,29.49,-0.2,6.45,USD,24.99,193.6
-281112,-,BGF US Flexible Equity Fund,112.58,-0.19,2.44,China OffShore Renminbi,24.53,17.88
-228608, ,BGF US Flexible Equity Fund,20.33,-0.25,6.24,EUR,23.78,86.29
-228613, ,BGF US Flexible Equity Fund,27.86,-0.54,5.89,EUR,28.36,208.46
-228609, ,BGF US Flexible Equity Fund,24.21,-0.25,5.93,GBP,39.67,208.1
-228614, ,BGF US Flexible Equity Fund,20.4,-0.24,6.22,EUR,23.75,135.19
-228620, ,BGF US Flexible Equity Fund,30.26,-0.56,5.99,EUR,29.32,127.02
-228619, ,BGF US Flexible Equity Fund,32.05,-0.22,6.58,USD,25.89,88.65
-228621, ,BGF US Flexible Equity Fund,22.08,-0.23,6.39,EUR,24.73,65.84
-244023,-,BGF US Flexible Equity Fund,28.59,-0.59,6,EUR,29.35,111.76
-244024,-,BGF US Flexible Equity Fund,24.86,-0.24,6.09,GBP,40.7,124.61
-228597, ,BGF US Government Mortgage Fund,9.43,-0.21,0.5,USD,-0.11,424.68
-228598, ,BGF US Government Mortgage Fund,18.53,-0.22,0.59,USD,0,430.44
-228603, ,BGF US Government Mortgage Fund,9.44,-0.21,0.5,USD,-0.11,54.02
-228596, ,BGF US Government Mortgage Fund,19.03,-0.21,0.63,USD,0.37,23.9
-229896,-,BGF US Government Mortgage Fund,9.46,-0.21,0.66,USD,0.25,15.89
-228606, ,BGF US Growth Fund,15.22,-0.52,7.92,EUR,22.51,146.02
-228593, ,BGF US Growth Fund,16.13,-0.12,8.52,USD,19.24,60.5
-255011,-,BGF US Growth Fund,14.98,-0.2,8.28,EUR,17.68,49.1
-249678,-,BGF US Growth Fund,19.05,-0.52,7.98,EUR,22.51,93.71
-244008,-,BGF US Growth Fund,16.31,-0.49,8.14,EUR,23.46,107.82
-228595, ,BGF US Growth Fund,17.28,-0.12,8.66,USD,20.13,72.59
-253849,-,BGF US Growth Fund,18.37,-0.54,8.05,EUR,23.38,82.6
-228543, ,BGF US Small & MidCap Opportunities Fund,192.23,-0.83,4.51,EUR,26.16,116.72
-228531, ,BGF US Small & MidCap Opportunities Fund,203.65,-0.46,5.08,USD,22.81,"1,980.07"
-260714,-,BGF US Small & MidCap Opportunities Fund,12.2,-0.41,5.23,AUD,24.06,22.7
-244015,-,BGF US Small & MidCap Opportunities Fund,205.95,-0.82,4.64,EUR,27.11,116.12
-228536, ,BGF US Small & MidCap Opportunities Fund,218.19,-0.46,5.21,USD,23.75,104.87
-229903,-,BGF World Agriculture Fund,12.7,0.47,2.4,HKD,15.76,27.8
-229904,-,BGF World Agriculture Fund,12.7,0.47,2.32,USD,15.96,27.9
-228321, ,BGF World Agriculture Fund,11.88,0.59,2.05,EUR,14.78,19.6
-229910,-,BGF World Agriculture Fund,10.46,0.58,2.43,PLN,16.35,5.3
-229911,-,BGF World Agriculture Fund,12.23,0.49,2.24,SGD,15.91,23.1
-229912,-,BGF World Agriculture Fund,11.77,0.51,2.07,EUR,14.81,13.09
-229913,-,BGF World Agriculture Fund,11.67,0.52,2.26,GBP,14.84,18.53
-229906,-,BGF World Agriculture Fund,12.63,0.16,1.93,EUR,19.92,61.99
-243783,-,BGF World Agriculture Fund,103.94,0.52,2.54,HKD,16.62,12.85
-229907,-,BGF World Agriculture Fund,13.38,0.53,2.43,USD,16.83,8.28
-229914,-,BGF World Agriculture Fund,12.44,0.48,2.2,EUR,15.7,-7.89
-241773,-,BGF World Agriculture Fund,8.07,0.5,2.39,GBP,15.81,11.83
-241772,-,BGF World Agriculture Fund,12.64,0.56,2.42,SGD,16.8,12.37
-241774,-,BGF World Agriculture Fund,11.96,0.5,2.12,EUR,15.57,9.9
-241784,-,BGF World Agriculture Fund,11.85,0.51,2.31,GBP,15.73,11.8
-228498, ,BGF World Bond Fund,55.05,-0.29,0.59,USD,1.61,52.42
-228497, ,BGF World Bond Fund,72.94,-0.27,0.6,USD,1.62,729.42
-228502, ,BGF World Bond Fund,186.57,-0.29,0.35,EUR,0.04,39.11
-240293,-,BGF World Bond Fund,11.27,-0.27,0.44,GBP,1.07,13.6
-228499, ,BGF World Bond Fund,54.93,-0.27,0.59,USD,1.62,51.41
-284724,-,BGF World Bond Fund,9.54,-0.31,0.5,GBP,-,-
-284723,-,BGF World Bond Fund,96.46,-0.28,0.51,HKD,-,-
-286066,-,BGF World Bond Fund,100.82,-0.18,-,CNY,-,-
-228501, ,BGF World Bond Fund,75.87,-0.28,0.67,USD,2.03,49.7
-250981,-,BGF World Bond Fund,10.12,-0.39,0.29,CHF,-0.1,2.1
-244025,-,BGF World Bond Fund,189.7,-0.29,0.42,EUR,0.44,10.92
-246653,-,BGF World Bond Fund,11.18,-0.36,0.62,GBP,1.53,12.8
-244009,-,BGF World Bond Fund,55,-0.27,0.65,USD,2.03,14.27
-229319,-,BGF World Energy Fund,16.05,-3.49,-6.57,EUR,28.47,49.19
-229918,-,BGF World Energy Fund,17,-3.19,-6.01,USD,25.07,76.6
-260721,-,BGF World Energy Fund,7.09,-3.27,-5.87,AUD,25.98,-26.3
-229925,-,BGF World Energy Fund,5.33,-3.27,-6.26,CHF,23.11,-44.6
-229926,-,BGF World Energy Fund,4.99,-3.29,-6.32,EUR,23.87,-48.1
-230129,-,BGF World Energy Fund,8.17,-3.31,-6.08,HKD,24.63,-15
-229927,-,BGF World Energy Fund,4.96,-3.31,-6.01,SGD,24.94,-48.4
-228339, ,BGF World Energy Fund,15.92,-3.52,-6.56,EUR,28.49,34.15
-229320,-,BGF World Energy Fund,13.8,-3.23,-6.46,GBP,39.83,96.87
-229321,-,BGF World Energy Fund,17.43,-3.54,-6.41,EUR,29.4,2.15
-229924,-,BGF World Energy Fund,18.47,-3.2,-5.89,USD,26,-15.09
-244011,-,BGF World Energy Fund,5.5,-3.17,-6.08,CHF,24.08,-21.1
-229325,-,BGF World Energy Fund,5.33,-3.27,-6.1,EUR,24.77,-51.19
-244010,-,BGF World Energy Fund,5.13,-3.21,-6,SGD,25.71,-17.87
-244019,-,BGF World Energy Fund,16.03,-3.55,-6.42,EUR,29.46,1.53
-229322,-,BGF World Energy Fund,13.99,-3.25,-6.32,GBP,40.91,-14.15
-244031,-,BGF World Energy Fund,16.98,-3.19,-5.92,USD,25.98,-16.96
-229935,-,BGF World Financials Fund,21.84,-0.23,4.68,EUR,40.5,88.64
-229936,-,BGF World Financials Fund,23.14,0.17,5.28,USD,36.82,125.2
-244016,-,BGF World Financials Fund,23.45,-0.26,4.83,EUR,41.53,74.98
-229939,-,BGF World Financials Fund,24.85,0.16,5.41,USD,37.78,-8.48
-229332,-,BGF World Gold Fund,27.49,-0.18,6.15,EUR,26.64,343.43
-229941,-,BGF World Gold Fund,29.13,0.21,6.74,USD,23.28,215.1
-260722,-,BGF World Gold Fund,9.25,0.22,6.72,AUD,22.67,0.1
-229949,-,BGF World Gold Fund,5.01,0.2,6.05,CHF,19.34,-45.7
-229950,-,BGF World Gold Fund,4.75,0.21,6.2,EUR,20.09,-48.6
-230130,-,BGF World Gold Fund,5.79,0.17,6.63,HKD,22.46,-37.3
-285323,-,BGF World Gold Fund,87.02,0.2,-,PLN,-,-
-229951,-,BGF World Gold Fund,5.16,0.19,6.48,SGD,21,-44.1
-228338, ,BGF World Gold Fund,27.49,-0.18,6.15,EUR,26.64,25.2
-229942,-,BGF World Gold Fund,29.12,0.17,6.74,USD,23.33,-43.09
-229947,-,BGF World Gold Fund,29.87,-0.17,6.29,EUR,27.59,14.71
-229333,-,BGF World Gold Fund,31.65,0.22,6.87,USD,24.2,-4.7
-229953,-,BGF World Gold Fund,5.23,0.19,6.19,CHF,20.17,-58.57
-229954,-,BGF World Gold Fund,5.1,0.2,6.36,EUR,21.05,-44.8
-243795,-,BGF World Gold Fund,18.47,0.22,6.43,GBP,23.64,-43.24
-243794,-,BGF World Gold Fund,5.34,0.38,6.65,SGD,21.73,-44.78
-243796,-,BGF World Gold Fund,28.35,-0.18,6.32,EUR,27.61,-29.86
-229337,-,BGF World Healthscience Fund,33.63,-0.06,8.51,EUR,15.5,199.19
-229338,-,BGF World Healthscience Fund,35.63,0.31,9.09,USD,12.41,254.1
-260718,-,BGF World Healthscience Fund,12.52,0.32,9.22,AUD,13.4,24.4
-276187,-,BGF World Healthscience Fund,97.28,0.34,10.18,China OffShore Renminbi,15.45,-3.39
-264284,-,BGF World Healthscience Fund,125.82,0.3,9.03,HKD,11.92,25.08
-264124,-,BGF World Healthscience Fund,12.62,0.32,9.04,SGD,12.25,25.5
-244017,-,BGF World Healthscience Fund,36.1,-0.06,8.64,EUR,16.36,138.3
-229958,-,BGF World Healthscience Fund,38.25,0.31,9.26,USD,13.26,133.05
-229342,-,BGF World Mining Fund,30.31,-2.45,8.06,EUR,53.94,180.65
-229981,-,BGF World Mining Fund,32.11,-2.07,8.63,USD,49.87,240.75
-260715,-,BGF World Mining Fund,6.92,-2.12,8.75,AUD,48.68,-26.7
-229991,-,BGF World Mining Fund,4.78,-2.25,8.1,CHF,46.53,-49.3
-229345,-,BGF World Mining Fund,2.88,-2.04,8.54,EUR,48.06,-71.42
-230131,-,BGF World Mining Fund,5.78,-2.03,8.51,HKD,49.27,-38.8
-229992,-,BGF World Mining Fund,5.03,-2.14,8.55,PLN,50.14,-46.7
-229993,-,BGF World Mining Fund,3.06,-2.24,8.72,SGD,48.62,-70.22
-229982,-,BGF World Mining Fund,29.62,-2.44,8.04,EUR,53.98,32.76
-229343,-,BGF World Mining Fund,25.07,-2.15,8.11,GBP,67.5,85.3
-229988,-,BGF World Mining Fund,32.94,-2.43,8.17,EUR,55.1,-9.91
-229989,-,BGF World Mining Fund,34.9,-2.08,8.78,USD,50.98,-25.15
-243802,-,BGF World Mining Fund,4.95,-2.17,8.47,CHF,47.89,-43.97
-229347,-,BGF World Mining Fund,3.07,-2.23,8.33,EUR,49.08,-67.5
-243804,-,BGF World Mining Fund,20.34,-2.12,8.66,GBP,50.73,-40.53
-243803,-,BGF World Mining Fund,5.2,-2.07,8.7,PLN,51.1,-38.06
-243812,-,BGF World Mining Fund,4.59,-2.13,8.72,SGD,49.54,7.05
-243813,-,BGF World Mining Fund,25.18,-2.14,8.26,GBP,68.76,-22.15
-249760,-,BGF World Real Estate Securities Fund,12.62,-0.32,3.58,USD,10.42,30.3
-285321,-,BGF World Real Estate Securities Fund,9.84,-0.3,-,USD,-,-
-285322,-,BGF World Real Estate Securities Fund,99.77,-0.34,-,CNY,-,-
-272578,-,BGF World Real Estate Securities Fund,10.07,-0.3,3.69,USD,11.36,3.9
-230009,-,BGF World Technology Fund,20.37,-0.24,10.2,EUR,35.3,-
-229352,-,BGF World Technology Fund,17.72,0.06,10.31,GBP,47.26,161.85
-230010,-,BGF World Technology Fund,21.58,0.14,10.86,USD,31.71,120.81
-230011,-,BGF World Technology Fund,21.63,-0.23,10.34,EUR,36.28,211.32
-244018,-,BGF World Technology Fund,18.82,0.11,10.45,GBP,48.34,137.84
-230012,-,BGF World Technology Fund,22.91,0.13,10.98,USD,32.73,95.45
-286831,-,BSF Emerging Markets Flexi Dynamic Bond Fund,99.62,-0.5,-,USD,-,-
+237595,-,BGF ASEAN Leaders Fund,11.14,0.09,9.39,USD,8.32,10.70
+237593,-,BGF ASEAN Leaders Fund,10.61,-1.49,8.17,EUR,16.40,32.35
+237596,-,BGF ASEAN Leaders Fund,11.53,0.09,9.57,USD,9.05,14.50
+244083,-,BGF Asia Pacific Equity Income Fund,16.24,0.62,10.01,GBP,37.22,65.90
+229019,-,BGF Asia Pacific Equity Income Fund,17.08,0.53,10.81,USD,19.10,70.20
+260981,-,BGF Asia Pacific Equity Income Fund,10.48,0.48,10.34,EUR,17.53,13.47
+229020,-,BGF Asia Pacific Equity Income Fund,105.24,0.55,11.05,HKD,19.35,72.70
+229021,-,BGF Asia Pacific Equity Income Fund,13.53,0.52,10.86,USD,19.11,70.45
+228311, ,BGF Asia Pacific Equity Income Fund,12.84,0.47,10.70,SGD,18.82,63.16
+229022,-,BGF Asia Pacific Equity Income Fund,14.21,0.50,10.75,USD,19.09,37.22
+230090,-,BGF Asia Pacific Equity Income Fund,110.72,0.52,10.68,HKD,18.56,35.84
+251626,-,BGF Asia Pacific Equity Income Fund,13.86,0.51,10.88,AUD,19.97,18.16
+270026,-,BGF Asia Pacific Equity Income Fund,99.76,0.50,12.32,ZAR,25.85,21.34
+283032,-,BGF Asia Pacific Equity Income Fund,13.60,0.59,10.24,GBP,38.25,41.43
+228313, ,BGF Asia Pacific Equity Income Fund,17.87,0.51,11.03,USD,20.01,34.21
+241421,-,BGF Asia Pacific Equity Income Fund,14.14,0.50,11.07,USD,20.07,46.58
+241420,-,BGF Asia Pacific Equity Income Fund,13.41,0.52,10.96,SGD,19.69,44.87
+229028,-,BGF Asian Dragon Fund,34.55,-1.34,10.09,EUR,27.43,257.36
+229399,-,BGF Asian Dragon Fund,29.38,0.31,10.72,GBP,37.56,247.84
+229029,-,BGF Asian Dragon Fund,37.54,0.24,11.52,USD,19.38,98.83
+260723,-,BGF Asian Dragon Fund,12.93,0.23,11.54,AUD,20.26,27.60
+285325,-,BGF Asian Dragon Fund,106.95,0.23,-,PLN,-,-
+262692,-,BGF Asian Dragon Fund,12.06,0.25,11.40,SGD,18.96,19.20
+229030,-,BGF Asian Dragon Fund,28.28,0.32,10.75,GBP,37.57,260.03
+229031,-,BGF Asian Dragon Fund,37.03,-1.33,10.30,EUR,28.39,108.59
+241437,-,BGF Asian Dragon Fund,31.49,0.32,10.97,GBP,38.64,101.14
+229404,-,BGF Asian Dragon Fund,40.24,0.27,11.73,USD,20.26,199.47
+241436,-,BGF Asian Dragon Fund,28.57,0.32,10.94,GBP,38.64,101.11
+244060,-,BGF Asian Growth Leaders Fund,17.55,0.29,12.69,USD,21.08,72.30
+270819,-,BGF Asian Growth Leaders Fund,12.79,0.39,12.76,AUD,21.84,25.50
+262691,-,BGF Asian Growth Leaders Fund,13.31,0.38,12.48,SGD,20.57,30.70
+287051,-,BGF Asian Growth Leaders Fund,16.45,-1.20,-,EUR,-,-
+268967,-,BGF Asian Growth Leaders Fund,13.98,0.43,12.12,GBP,40.60,74.01
+244938,-,BGF Asian Growth Leaders Fund,17.87,0.34,12.94,USD,22.06,75.40
+229037,-,BGF Asian Local Bond Fund,10.18,0.10,4.86,USD,-0.88,1.40
+229038,-,BGF Asian Local Bond Fund,8.96,0.11,4.95,USD,-0.87,1.26
+229039,-,BGF Asian Local Bond Fund,8.27,0.12,4.89,USD,-0.91,1.39
+237592,-,BGF Asian Local Bond Fund,10.27,0.10,5.03,USD,-0.39,2.30
+280950,-,BGF Asian Multi-Asset Growth Fund,11.80,0.34,9.02,USD,8.72,17.20
+229042,-,BGF Asian Tiger Bond Fund,12.75,-0.08,3.15,USD,5.49,292.21
+229407,-,BGF Asian Tiger Bond Fund,39.51,-0.08,3.15,USD,5.48,292.70
+275884,-,BGF Asian Tiger Bond Fund,10.54,-0.09,2.64,EUR,3.66,4.90
+229412,-,BGF Asian Tiger Bond Fund,13.11,-0.08,3.00,SGD,5.16,30.40
+228418, ,BGF Asian Tiger Bond Fund,12.79,0.00,3.15,USD,5.49,113.02
+243968,-,BGF Asian Tiger Bond Fund,10.99,-0.09,3.25,AUD,6.34,27.23
+243967,-,BGF Asian Tiger Bond Fund,9.83,-0.10,2.70,EUR,3.70,13.90
+228417, ,BGF Asian Tiger Bond Fund,11.28,-0.09,3.01,HKD,4.99,43.12
+241417,-,BGF Asian Tiger Bond Fund,11.51,0.00,3.33,NZD,6.76,33.77
+242994,-,BGF Asian Tiger Bond Fund,10.22,-0.10,3.04,SGD,5.12,18.57
+228329, ,BGF Asian Tiger Bond Fund,11.76,0.00,3.22,USD,5.56,25.74
+272929,-,BGF Asian Tiger Bond Fund,10.82,-0.09,2.63,EUR,3.63,5.43
+272930,-,BGF Asian Tiger Bond Fund,7.79,-0.13,2.80,GBP,4.72,7.30
+230092,-,BGF Asian Tiger Bond Fund,90.49,-0.06,3.02,HKD,4.97,24.75
+271372,-,BGF Asian Tiger Bond Fund,9.90,-0.10,2.97,SGD,5.19,10.67
+246706,-,BGF Asian Tiger Bond Fund,11.68,-0.09,3.29,AUD,6.44,24.96
+272932,-,BGF Asian Tiger Bond Fund,11.25,0.00,2.93,CAD,5.11,7.60
+272931,-,BGF Asian Tiger Bond Fund,12.25,-0.08,3.42,NZD,6.80,12.44
+260724,-,BGF Asian Tiger Bond Fund,106.63,-0.07,4.79,ZAR,12.68,42.11
+229043,-,BGF Asian Tiger Bond Fund,12.98,-0.08,3.28,USD,6.09,29.00
+257466,-,BGF Asian Tiger Bond Fund,12.08,-0.08,2.82,EUR,4.25,20.20
+257467,-,BGF Asian Tiger Bond Fund,12.48,-0.08,3.16,SGD,5.71,24.10
+243810,-,BGF Asian Tiger Bond Fund,12.80,-0.08,3.27,USD,6.01,20.42
+243809,-,BGF Asian Tiger Bond Fund,11.29,-0.09,3.13,HKD,5.51,19.12
+275885,-,BGF Asian Tiger Bond Fund,10.36,-0.10,3.00,GBP,5.20,7.57
+243811,-,BGF Asian Tiger Bond Fund,12.11,-0.08,3.24,USD,6.00,20.45
+273330,-,BGF China Fund,15.59,-1.39,9.85,EUR,29.47,-8.71
+229546,-,BGF China Fund,17.26,0.17,11.47,HKD,21.52,71.10
+229547,-,BGF China Fund,16.94,0.18,11.25,USD,21.28,68.10
+260707,-,BGF China Fund,14.37,0.14,11.32,AUD,22.09,42.60
+275888,-,BGF China Fund,110.25,0.16,12.19,China OffShore Renminbi,23.88,-2.19
+229550,-,BGF China Fund,15.39,0.13,10.80,EUR,19.45,52.90
+229551,-,BGF China Fund,15.58,0.19,11.14,SGD,20.86,54.70
+229552,-,BGF China Fund,15.28,0.13,10.96,GBP,20.21,61.65
+241750,-,BGF China Fund,139.41,0.21,11.68,HKD,22.44,67.85
+229115,-,BGF China Fund,17.93,0.17,11.47,USD,22.18,63.81
+241426,-,BGF China Fund,15.93,0.13,10.94,EUR,20.30,64.11
+241424,-,BGF China Fund,10.81,0.09,11.19,GBP,21.11,66.36
+241423,-,BGF China Fund,16.13,0.19,11.34,SGD,21.67,65.80
+241425,-,BGF China Fund,15.41,0.20,11.12,GBP,21.13,66.52
+229558,-,BGF Continental European Flexible Fund,23.01,2.31,7.97,EUR,12.71,"1,602.63"
+228513, ,BGF Continental European Flexible Fund,25.00,3.95,9.39,USD,5.62,55.27
+272568,-,BGF Continental European Flexible Fund,11.38,2.34,8.44,USD,14.04,10.50
+229116,-,BGF Continental European Flexible Fund,22.57,2.36,7.98,EUR,12.76,81.30
+228352, ,BGF Continental European Flexible Fund,19.05,3.98,8.61,GBP,21.74,318.04
+229561,-,BGF Continental European Flexible Fund,21.19,2.32,8.14,GBP,12.47,107.07
+228340, ,BGF Continental European Flexible Fund,24.51,2.34,8.23,EUR,13.60,278.92
+241429,-,BGF Continental European Flexible Fund,21.99,2.28,8.32,GBP,13.26,84.21
+241428,-,BGF Continental European Flexible Fund,30.67,2.40,8.62,USD,14.91,84.03
+272984,-,BGF Continental European Flexible Fund,22.56,2.31,8.20,EUR,13.61,7.15
+241427,-,BGF Continental European Flexible Fund,19.19,4.07,8.81,GBP,22.63,97.27
+241430,-,BGF Continental European Flexible Fund,21.36,2.30,8.30,GBP,13.27,84.36
+230101,-,BGF Continental European Flexible Fund,33.41,2.39,8.65,USD,14.88,5.47
+229564,-,BGF Emerging Europe Fund,99.43,1.14,2.20,EUR,24.04,"1,033.36"
+229565,-,BGF Emerging Europe Fund,108.05,2.76,3.52,USD,16.20,441.36
+229573,-,BGF Emerging Europe Fund,9.16,1.10,2.50,SGD,24.93,-9.80
+229566,-,BGF Emerging Europe Fund,95.12,1.14,2.19,EUR,24.04,148.48
+229118,-,BGF Emerging Europe Fund,81.14,2.83,2.79,GBP,33.91,"1,008.04"
+229570,-,BGF Emerging Europe Fund,108.92,1.15,2.40,EUR,24.97,14.93
+241438,-,BGF Emerging Europe Fund,118.35,2.76,3.72,USD,17.08,-9.86
+241678,-,BGF Emerging Europe Fund,82.01,1.15,2.38,GBP,24.84,10.51
+241439,-,BGF Emerging Europe Fund,81.31,2.82,2.99,GBP,34.97,16.35
+229123,-,BGF Emerging Markets Bond Fund,9.35,-1.48,2.42,EUR,19.10,172.76
+229577,-,BGF Emerging Markets Bond Fund,10.16,0.10,3.78,USD,11.53,144.17
+229124,-,BGF Emerging Markets Bond Fund,16.38,-1.44,2.48,EUR,19.16,183.22
+228473, ,BGF Emerging Markets Bond Fund,17.80,0.17,3.76,USD,11.62,139.11
+229584,-,BGF Emerging Markets Bond Fund,16.93,0.12,3.25,EUR,9.86,93.33
+264123,-,BGF Emerging Markets Bond Fund,11.72,0.17,3.47,GBP,10.96,16.40
+229125,-,BGF Emerging Markets Bond Fund,9.68,-1.53,2.49,EUR,19.10,65.97
+229578,-,BGF Emerging Markets Bond Fund,10.52,0.10,3.71,USD,11.51,80.42
+264649,-,BGF Emerging Markets Bond Fund,13.52,-1.46,2.40,EUR,19.09,46.16
+228326, ,BGF Emerging Markets Bond Fund,9.62,0.10,3.77,USD,11.57,26.29
+283769,-,BGF Emerging Markets Bond Fund,10.56,0.09,3.62,CAD,-,8.93
+283746,-,BGF Emerging Markets Bond Fund,10.45,0.10,3.47,GBP,-,8.01
+228327, ,BGF Emerging Markets Bond Fund,73.55,0.14,3.61,HKD,11.02,24.60
+246708,-,BGF Emerging Markets Bond Fund,9.52,0.11,4.00,AUD,12.50,23.87
+283770,-,BGF Emerging Markets Bond Fund,10.58,0.19,3.95,NZD,-,10.04
+270028,-,BGF Emerging Markets Bond Fund,104.28,0.15,5.33,ZAR,18.62,31.60
+241432,-,BGF Emerging Markets Bond Fund,17.36,-1.42,2.58,EUR,19.84,46.61
+229582,-,BGF Emerging Markets Bond Fund,18.86,0.11,3.89,USD,12.24,91.90
+241435,-,BGF Emerging Markets Bond Fund,17.39,0.12,3.47,EUR,10.56,17.63
+241433,-,BGF Emerging Markets Bond Fund,9.71,-1.42,2.54,EUR,19.65,46.59
+241434,-,BGF Emerging Markets Bond Fund,10.55,0.19,3.96,USD,12.26,21.36
+246606,-,BGF Emerging Markets Corporate Bond Fund,11.50,0.17,3.26,USD,8.99,14.00
+246607,-,BGF Emerging Markets Corporate Bond Fund,11.19,0.18,2.78,EUR,7.25,11.00
+246648,-,BGF Emerging Markets Corporate Bond Fund,11.89,0.08,3.42,USD,9.89,17.80
+258853,-,BGF Emerging Markets Corporate Bond Fund,10.54,0.19,3.13,GBP,9.14,19.19
+229589,-,BGF Emerging Markets Equity Income Fund,13.20,1.15,13.37,USD,21.03,28.90
+229590,-,BGF Emerging Markets Equity Income Fund,10.93,1.20,13.29,USD,21.02,29.56
+262190,-,BGF Emerging Markets Equity Income Fund,11.82,1.20,13.32,USD,20.80,5.66
+286078,-,BGF Emerging Markets Equity Income Fund,11.75,1.21,-,CAD,-,-
+286068,-,BGF Emerging Markets Equity Income Fund,11.38,1.07,-,EUR,-,-
+286076,-,BGF Emerging Markets Equity Income Fund,11.71,1.12,-,GBP,-,-
+262735,-,BGF Emerging Markets Equity Income Fund,91.29,1.15,13.20,HKD,20.40,4.94
+285746,-,BGF Emerging Markets Equity Income Fund,11.64,1.13,-,SGD,-,-
+285747,-,BGF Emerging Markets Equity Income Fund,11.64,1.13,-,AUD,-,-
+285962,-,BGF Emerging Markets Equity Income Fund,116.79,1.16,-,CNY,-,-
+286077,-,BGF Emerging Markets Equity Income Fund,11.74,1.12,-,NZD,-,-
+229591,-,BGF Emerging Markets Equity Income Fund,13.75,1.18,13.54,USD,21.89,34.87
+229130,-,BGF Emerging Markets Fund,27.26,-0.40,12.62,EUR,27.15,176.88
+229131,-,BGF Emerging Markets Fund,29.62,1.20,14.08,USD,19.07,191.60
+229596,-,BGF Emerging Markets Fund,29.63,-0.40,12.86,EUR,28.07,77.39
+229132,-,BGF Emerging Markets Fund,32.20,1.23,14.32,USD,19.99,48.50
+229843,-,BGF Emerging Markets Local Currency Bond Fund,4.05,-0.98,4.85,EUR,14.27,28.19
+229293,-,BGF Emerging Markets Local Currency Bond Fund,4.41,0.92,6.12,USD,7.25,148.78
+253851,-,BGF Emerging Markets Local Currency Bond Fund,24.08,0.33,4.56,CHF,11.97,-7.81
+229844,-,BGF Emerging Markets Local Currency Bond Fund,22.30,-0.76,4.89,EUR,14.41,30.93
+229845,-,BGF Emerging Markets Local Currency Bond Fund,24.23,0.83,6.24,USD,7.24,8.41
+229869,-,BGF Emerging Markets Local Currency Bond Fund,8.17,0.86,5.64,CHF,4.95,-19.50
+229296,-,BGF Emerging Markets Local Currency Bond Fund,8.29,0.73,5.69,EUR,5.28,-18.30
+229866,-,BGF Emerging Markets Local Currency Bond Fund,10.31,0.78,6.18,PLN,7.30,1.40
+229297,-,BGF Emerging Markets Local Currency Bond Fund,8.69,0.81,6.08,SGD,6.61,-14.50
+229846,-,BGF Emerging Markets Local Currency Bond Fund,4.09,-0.97,5.07,EUR,14.49,22.70
+229847,-,BGF Emerging Markets Local Currency Bond Fund,34.61,0.87,6.46,HKD,7.42,-8.83
+229848,-,BGF Emerging Markets Local Currency Bond Fund,4.45,0.91,6.33,USD,7.23,1.22
+229867,-,BGF Emerging Markets Local Currency Bond Fund,7.58,0.80,6.35,AUD,7.90,-1.36
+229849,-,BGF Emerging Markets Local Currency Bond Fund,16.85,-0.77,4.92,EUR,14.45,22.40
+229850,-,BGF Emerging Markets Local Currency Bond Fund,18.31,0.83,6.31,USD,7.23,-13.53
+283748,-,BGF Emerging Markets Local Currency Bond Fund,10.37,0.88,6.23,USD,-,7.10
+283773,-,BGF Emerging Markets Local Currency Bond Fund,10.59,0.86,6.02,CAD,-,9.16
+283747,-,BGF Emerging Markets Local Currency Bond Fund,10.27,0.79,5.86,GBP,-,-
+283767,-,BGF Emerging Markets Local Currency Bond Fund,105.95,0.83,6.10,HKD,-,9.23
+271040,-,BGF Emerging Markets Local Currency Bond Fund,8.53,0.83,6.26,AUD,7.81,-0.11
+283771,-,BGF Emerging Markets Local Currency Bond Fund,10.61,0.86,6.33,NZD,-,-
+271041,-,BGF Emerging Markets Local Currency Bond Fund,86.97,0.79,7.74,ZAR,13.24,9.83
+264333,-,BGF Emerging Markets Local Currency Bond Fund,25.25,0.40,4.69,CHF,12.51,9.08
+229858,-,BGF Emerging Markets Local Currency Bond Fund,23.37,-0.76,5.03,EUR,15.00,38.18
+229295,-,BGF Emerging Markets Local Currency Bond Fund,25.40,0.83,6.39,USD,7.72,15.97
+229842,-,BGF Emerging Markets Local Currency Bond Fund,8.36,0.72,5.91,EUR,5.91,-17.60
+241761,-,BGF Emerging Markets Local Currency Bond Fund,15.22,0.79,6.02,GBP,6.85,-9.05
+241765,-,BGF Emerging Markets Local Currency Bond Fund,10.55,0.86,6.46,PLN,7.90,-3.44
+241766,-,BGF Emerging Markets Local Currency Bond Fund,8.90,0.91,6.19,SGD,7.10,-9.51
+241763,-,BGF Emerging Markets Local Currency Bond Fund,16.94,-0.76,5.06,EUR,15.01,11.44
+241764,-,BGF Emerging Markets Local Currency Bond Fund,143.21,0.87,6.60,HKD,7.98,-8.07
+229859,-,BGF Emerging Markets Local Currency Bond Fund,18.41,0.82,6.39,USD,7.75,-5.74
+241762,-,BGF Emerging Markets Local Currency Bond Fund,7.58,0.80,6.33,AUD,8.28,-2.51
+258851,-,BGF Emerging Markets Local Currency Bond Fund,8.26,0.85,6.03,GBP,6.99,-3.20
+241767,-,BGF Emerging Markets Local Currency Bond Fund,16.93,-0.76,5.09,EUR,15.01,11.41
+241768,-,BGF Emerging Markets Local Currency Bond Fund,18.40,0.82,6.41,USD,7.72,-8.27
+228369, ,BGF Euro Bond Fund,19.22,0.10,-0.80,EUR,-0.11,106.45
+228677, ,BGF Euro Bond Fund,20.88,1.66,0.48,USD,-6.44,156.36
+228379, ,BGF Euro Bond Fund,28.31,0.07,-0.81,EUR,-0.11,228.78
+228676, ,BGF Euro Bond Fund,30.77,1.69,0.47,USD,-6.43,150.33
+285320,-,BGF Euro Bond Fund,99.24,0.08,-,PLN,-,-
+246713,-,BGF Euro Bond Fund,12.10,0.08,-0.41,USD,1.18,20.40
+228383, ,BGF Euro Bond Fund,19.21,0.05,-0.85,EUR,-0.11,78.17
+228678, ,BGF Euro Bond Fund,20.88,1.70,0.47,USD,-6.44,68.42
+228378, ,BGF Euro Bond Fund,25.78,0.08,-0.81,EUR,-0.13,35.69
+228675, ,BGF Euro Bond Fund,22.00,1.76,-0.23,GBP,7.87,39.04
+228375, ,BGF Euro Bond Fund,29.34,0.07,-0.75,EUR,0.21,71.98
+241480,-,BGF Euro Bond Fund,31.88,1.66,0.55,USD,-6.13,2.13
+276344,-,BGF Euro Bond Fund,11.48,0.00,-0.87,CHF,-0.35,2.33
+246712,-,BGF Euro Bond Fund,12.29,0.16,-0.33,USD,1.58,22.30
+241481,-,BGF Euro Bond Fund,19.25,0.10,-0.71,EUR,0.23,24.10
+241482,-,BGF Euro Bond Fund,20.91,1.65,0.56,USD,-6.11,2.06
+253916,-,BGF Euro Bond Fund,11.43,0.09,-0.78,EUR,0.20,18.22
+241483,-,BGF Euro Bond Fund,22.08,1.75,-0.18,GBP,8.21,32.95
+283030,-,BGF Euro Bond Fund,10.18,0.00,-0.69,GBP,1.10,1.40
+228242, ,BGF Euro Corporate Bond Fund,13.34,-0.07,0.24,EUR,3.11,58.12
+229601,-,BGF Euro Corporate Bond Fund,16.24,-0.06,0.19,EUR,3.05,50.65
+284350,-,BGF Euro Corporate Bond Fund,9.95,-0.10,0.00,CHF,-,-
+284345,-,BGF Euro Corporate Bond Fund,10.05,-0.10,0.30,GBP,-,-
+284344,-,BGF Euro Corporate Bond Fund,10.11,0.00,0.60,USD,-,-
+229134,-,BGF Euro Corporate Bond Fund,13.10,-0.08,0.17,EUR,3.08,60.47
+229135,-,BGF Euro Corporate Bond Fund,16.81,-0.06,0.30,EUR,3.52,58.30
+284349,-,BGF Euro Corporate Bond Fund,9.98,-0.10,0.20,CHF,-,-
+284347,-,BGF Euro Corporate Bond Fund,10.07,-0.10,0.40,GBP,-,-
+284346,-,BGF Euro Corporate Bond Fund,10.14,-0.10,0.70,USD,-,-
+241479,-,BGF Euro Corporate Bond Fund,13.11,-0.08,0.26,EUR,3.40,21.42
+229607,-,BGF Euro Reserve Fund,73.57,0.00,-0.11,EUR,-0.38,0.30
+229610,-,BGF Euro Reserve Fund,74.07,0.00,-0.12,EUR,-0.38,0.90
+228429, ,BGF Euro Short Duration Bond Fund,12.27,0.08,0.02,EUR,0.61,54.92
+228419, ,BGF Euro Short Duration Bond Fund,15.95,0.06,0.00,EUR,0.57,59.88
+228427, ,BGF Euro Short Duration Bond Fund,10.90,0.09,-0.18,CHF,0.00,8.90
+228425, ,BGF Euro Short Duration Bond Fund,11.69,0.17,0.43,USD,2.01,16.70
+228435, ,BGF Euro Short Duration Bond Fund,12.28,0.08,0.10,EUR,0.60,36.14
+228422, ,BGF Euro Short Duration Bond Fund,14.98,0.07,0.00,EUR,0.59,13.72
+228423, ,BGF Euro Short Duration Bond Fund,10.94,0.00,0.18,GBP,1.39,18.16
+228426, ,BGF Euro Short Duration Bond Fund,10.97,0.09,0.37,USD,1.95,15.69
+228421, ,BGF Euro Short Duration Bond Fund,16.48,0.06,0.12,EUR,0.98,36.79
+241493,-,BGF Euro Short Duration Bond Fund,11.07,0.09,0.00,CHF,0.36,5.93
+272985,-,BGF Euro Short Duration Bond Fund,10.32,0.10,0.49,USD,2.28,3.00
+241751,-,BGF Euro Short Duration Bond Fund,12.30,0.08,0.11,EUR,0.96,8.50
+241495,-,BGF Euro Short Duration Bond Fund,10.04,0.10,0.20,GBP,1.79,10.60
+241752,-,BGF Euro Short Duration Bond Fund,15.03,0.07,0.13,EUR,0.93,8.57
+228428, ,BGF Euro Short Duration Bond Fund,11.03,0.09,0.27,GBP,1.83,18.54
+250680,-,BGF Euro Short Duration Bond Fund,10.57,0.09,0.57,USD,2.37,8.87
+229611,-,BGF Euro-Markets Fund,28.73,3.46,6.20,EUR,13.30,179.40
+229136,-,BGF Euro-Markets Fund,31.22,5.12,7.57,USD,6.11,-
+229617,-,BGF Euro-Markets Fund,17.35,3.46,6.03,CHF,12.69,68.70
+258499,-,BGF Euro-Markets Fund,13.12,3.39,6.42,GBP,13.12,27.60
+277129,-,BGF Euro-Markets Fund,19.15,3.51,6.53,SGD,14.39,5.74
+257477,-,BGF Euro-Markets Fund,13.57,3.59,6.55,USD,14.52,31.70
+229612,-,BGF Euro-Markets Fund,25.37,3.42,6.20,EUR,13.26,240.18
+229613,-,BGF Euro-Markets Fund,23.23,5.16,6.80,GBP,22.28,84.86
+228693, ,BGF Euro-Markets Fund,31.26,3.44,6.41,EUR,14.12,100.33
+243805,-,BGF Euro-Markets Fund,33.97,5.11,7.73,USD,6.88,39.31
+250730,-,BGF Euro-Markets Fund,14.86,3.48,6.25,CHF,13.52,44.40
+272305,-,BGF Euro-Markets Fund,12.15,3.58,6.79,USD,15.36,17.90
+243807,-,BGF Euro-Markets Fund,25.49,3.45,6.40,EUR,14.11,68.73
+243799,-,BGF Euro-Markets Fund,21.68,5.14,7.00,GBP,23.17,79.34
+229638,-,BGF European Equity Income Fund,19.05,1.98,5.97,EUR,7.31,86.50
+271486,-,BGF European Equity Income Fund,12.11,2.02,6.38,USD,8.52,18.40
+229636,-,BGF European Equity Income Fund,15.59,1.96,5.90,EUR,7.28,79.94
+229639,-,BGF European Equity Income Fund,14.63,1.95,5.93,EUR,7.26,86.61
+259265,-,BGF European Equity Income Fund,20.25,2.02,6.38,USD,8.59,32.83
+262188,-,BGF European Equity Income Fund,10.95,1.96,6.00,EUR,7.29,21.35
+262734,-,BGF European Equity Income Fund,13.71,1.93,6.04,GBP,6.91,23.96
+262732,-,BGF European Equity Income Fund,179.90,2.02,6.28,HKD,8.10,24.20
+260610,-,BGF European Equity Income Fund,11.41,2.06,6.29,SGD,8.42,27.50
+260611,-,BGF European Equity Income Fund,11.36,2.07,6.41,USD,8.56,26.99
+260612,-,BGF European Equity Income Fund,11.51,2.04,6.53,AUD,9.82,33.49
+273472,-,BGF European Equity Income Fund,9.25,1.98,6.20,CAD,8.28,-3.04
+275801,-,BGF European Equity Income Fund,97.48,2.03,8.04,China OffShore Renminbi,11.75,7.02
+273473,-,BGF European Equity Income Fund,9.29,1.98,6.48,NZD,10.38,1.70
+229640,-,BGF European Equity Income Fund,19.82,2.01,6.13,EUR,8.08,87.89
+272438,-,BGF European Equity Income Fund,10.47,2.05,6.67,USD,9.40,2.40
+247323,-,BGF European Equity Income Fund,14.18,2.01,6.12,EUR,8.06,61.67
+246660,-,BGF European Equity Income Fund,14.00,2.04,6.17,EUR,8.13,61.26
+256031,-,BGF European Equity Income Fund,12.71,1.92,6.20,GBP,7.64,41.99
+272927,-,BGF European Equity Income Fund,9.28,2.09,6.60,USD,9.47,-1.58
+229642,-,BGF European Focus Fund,23.76,1.93,4.04,EUR,6.00,131.60
+229141,-,BGF European Focus Fund,25.82,3.57,5.41,USD,-0.68,105.05
+277130,-,BGF European Focus Fund,17.51,1.98,4.35,SGD,6.96,-5.80
+257476,-,BGF European Focus Fund,12.41,1.97,4.49,USD,7.28,20.90
+229644,-,BGF European Focus Fund,25.38,1.93,4.26,EUR,6.78,94.57
+243806,-,BGF European Focus Fund,27.58,3.57,5.64,USD,0.04,23.68
+229648,-,BGF European Fund,113.70,2.11,4.88,EUR,7.71,380.10
+229649,-,BGF European Fund,123.55,3.74,6.24,USD,0.91,350.15
+260719,-,BGF European Fund,11.74,2.18,5.43,AUD,9.99,14.50
+260708,-,BGF European Fund,11.25,2.18,5.17,CAD,8.70,9.90
+273333,-,BGF European Fund,97.91,2.18,6.94,China OffShore Renminbi,12.12,-4.60
+260729,-,BGF European Fund,11.11,2.11,5.03,GBP,7.21,8.60
+230105,-,BGF European Fund,16.12,2.15,5.14,HKD,8.47,57.50
+260709,-,BGF European Fund,12.09,2.11,5.55,NZD,10.69,18.00
+257101,-,BGF European Fund,12.64,2.10,5.20,SGD,8.71,23.50
+229656,-,BGF European Fund,16.26,2.14,5.31,USD,8.99,58.80
+229650,-,BGF European Fund,108.39,2.10,4.87,EUR,7.70,141.76
+229651,-,BGF European Fund,92.60,3.80,5.49,GBP,16.29,64.61
+229653,-,BGF European Fund,123.74,2.10,5.07,EUR,8.52,78.32
+229654,-,BGF European Fund,134.46,3.74,6.42,USD,1.66,130.83
+244372,-,BGF European Fund,14.83,2.21,5.47,USD,9.79,44.70
+243800,-,BGF European Fund,93.02,3.82,5.68,GBP,17.17,55.06
+276251,-,BGF European High Yield Bond Fund,10.70,0.38,2.02,EUR,8.82,6.10
+276250,-,BGF European High Yield Bond Fund,10.58,0.47,1.94,CHF,8.26,4.90
+276249,-,BGF European High Yield Bond Fund,106.31,0.43,1.94,SEK,8.51,5.41
+276252,-,BGF European High Yield Bond Fund,10.82,0.46,2.19,EUR,9.50,7.20
+276253,-,BGF European High Yield Bond Fund,10.32,0.39,2.20,EUR,9.46,7.17
+276254,-,BGF European High Yield Bond Fund,10.42,0.39,2.38,GBP,10.37,8.30
+229661,-,BGF European Special Situations Fund,40.15,1.57,7.89,EUR,9.25,289.90
+229662,-,BGF European Special Situations Fund,43.63,3.19,9.29,USD,2.36,321.23
+260716,-,BGF European Special Situations Fund,14.03,1.59,8.45,AUD,11.74,36.10
+260727,-,BGF European Special Situations Fund,13.44,1.59,8.13,CAD,10.32,30.40
+275889,-,BGF European Special Situations Fund,296.18,1.63,10.00,China OffShore Renminbi,13.80,6.77
+260717,-,BGF European Special Situations Fund,13.17,1.54,8.02,GBP,8.76,27.90
+257475,-,BGF European Special Situations Fund,14.73,1.66,8.34,USD,10.60,42.90
+229665,-,BGF European Special Situations Fund,43.68,1.56,8.11,EUR,10.10,148.01
+243801,-,BGF European Special Situations Fund,47.47,3.20,9.50,USD,3.14,43.39
+268588,-,BGF European Special Situations Fund,13.59,1.57,8.57,USD,11.41,31.80
+229673,-,BGF European Value Fund,69.83,2.84,5.53,EUR,13.36,339.34
+229674,-,BGF European Value Fund,59.38,4.56,6.14,GBP,22.38,236.21
+229158,-,BGF European Value Fund,75.88,4.47,6.89,USD,6.18,277.07
+260730,-,BGF European Value Fund,12.82,2.89,6.12,AUD,15.77,24.80
+260720,-,BGF European Value Fund,121.43,2.92,5.77,HKD,13.96,18.35
+260710,-,BGF European Value Fund,12.25,2.94,5.94,USD,14.70,19.40
+229159,-,BGF European Value Fund,55.45,2.84,5.54,EUR,13.34,171.29
+229160,-,BGF European Value Fund,50.38,4.57,6.13,GBP,22.37,170.48
+229677,-,BGF European Value Fund,74.95,2.84,5.73,EUR,14.20,60.87
+243856,-,BGF European Value Fund,63.73,4.54,6.35,GBP,23.30,83.67
+243870,-,BGF European Value Fund,81.44,4.48,7.09,USD,6.99,41.87
+271610,-,BGF European Value Fund,12.74,2.91,6.07,USD,15.56,24.00
+243857,-,BGF European Value Fund,50.62,4.57,6.35,GBP,23.31,83.66
+259391,-,BGF Fixed Income Global Opportunities Fund,9.24,-1.39,-0.01,EUR,11.65,35.77
+259260,-,BGF Fixed Income Global Opportunities Fund,10.04,0.20,1.23,USD,4.58,6.99
+259394,-,BGF Fixed Income Global Opportunities Fund,12.55,-1.34,-0.08,EUR,11.66,37.88
+228362, ,BGF Fixed Income Global Opportunities Fund,13.64,0.22,1.26,USD,4.69,36.20
+270554,-,BGF Fixed Income Global Opportunities Fund,10.04,0.30,0.60,CHF,2.56,0.30
+228366, ,BGF Fixed Income Global Opportunities Fund,9.94,0.20,0.81,EUR,3.01,28.46
+272437,-,BGF Fixed Income Global Opportunities Fund,10.17,0.20,0.99,GBP,3.99,1.60
+259488,-,BGF Fixed Income Global Opportunities Fund,"1,036.00",0.19,0.88,JPY,3.09,3.50
+228367, ,BGF Fixed Income Global Opportunities Fund,15.07,0.20,1.42,PLN,5.32,50.50
+270555,-,BGF Fixed Income Global Opportunities Fund,101.15,0.22,0.79,SEK,2.91,1.11
+228356, ,BGF Fixed Income Global Opportunities Fund,19.97,0.25,1.17,SGD,4.45,29.73
+259388,-,BGF Fixed Income Global Opportunities Fund,9.24,-1.39,-0.01,EUR,11.66,35.80
+259261,-,BGF Fixed Income Global Opportunities Fund,10.04,0.20,1.23,USD,4.69,6.90
+271487,-,BGF Fixed Income Global Opportunities Fund,10.02,0.20,1.21,USD,4.57,3.22
+257611,-,BGF Fixed Income Global Opportunities Fund,10.06,0.20,0.80,EUR,3.11,6.28
+228357, ,BGF Fixed Income Global Opportunities Fund,10.05,0.30,1.22,USD,4.68,36.09
+228360, ,BGF Fixed Income Global Opportunities Fund,7.29,0.28,0.93,EUR,3.11,28.52
+228361, ,BGF Fixed Income Global Opportunities Fund,14.68,0.20,1.20,SGD,4.53,28.50
+262189,-,BGF Fixed Income Global Opportunities Fund,12.37,0.24,1.30,USD,4.64,4.11
+262733,-,BGF Fixed Income Global Opportunities Fund,95.60,0.22,1.10,HKD,4.13,3.83
+271738,-,BGF Fixed Income Global Opportunities Fund,9.62,0.21,1.47,AUD,5.71,6.28
+272435,-,BGF Fixed Income Global Opportunities Fund,99.02,0.25,2.83,China OffShore Renminbi,7.75,9.77
+259393,-,BGF Fixed Income Global Opportunities Fund,12.82,-1.31,0.08,EUR,12.25,40.19
+243879,-,BGF Fixed Income Global Opportunities Fund,13.93,0.22,1.31,USD,5.14,12.64
+257613,-,BGF Fixed Income Global Opportunities Fund,10.64,0.19,0.85,CHF,3.10,6.40
+228354, ,BGF Fixed Income Global Opportunities Fund,10.41,0.19,0.87,EUR,3.59,34.54
+250931,-,BGF Fixed Income Global Opportunities Fund,10.87,0.18,1.21,GBP,4.52,8.60
+243858,-,BGF Fixed Income Global Opportunities Fund,15.42,0.26,1.52,PLN,5.85,21.18
+243894,-,BGF Fixed Income Global Opportunities Fund,20.42,0.25,1.34,SGD,5.05,13.34
+268964,-,BGF Fixed Income Global Opportunities Fund,12.52,-1.42,0.08,EUR,12.19,33.60
+277139,-,BGF Fixed Income Global Opportunities Fund,10.07,0.20,1.21,CAD,4.91,3.29
+279364,-,BGF Fixed Income Global Opportunities Fund,4.96,0.40,1.23,GBP,5.49,3.55
+228368, ,BGF Fixed Income Global Opportunities Fund,10.56,0.28,1.41,USD,5.18,19.27
+243878,-,BGF Fixed Income Global Opportunities Fund,7.31,0.27,0.92,EUR,3.62,9.71
+229682,-,BGF Flexible Multi-Asset Fund,14.43,0.07,3.08,EUR,8.68,41.45
+229685,-,BGF Flexible Multi-Asset Fund,34.70,0.06,3.47,USD,9.88,33.04
+229684,-,BGF Flexible Multi-Asset Fund,15.24,0.07,3.33,EUR,9.51,54.94
+243859,-,BGF Flexible Multi-Asset Fund,35.87,0.06,3.68,USD,10.72,28.84
+228272, ,BGF Global Allocation Fund,48.84,-0.91,2.71,EUR,15.47,153.62
+228299, ,BGF Global Allocation Fund,"15,211.32",-1.74,2.33,HUF,13.12,76.18
+228333, ,BGF Global Allocation Fund,53.07,0.66,4.03,USD,8.15,280.94
+228294, ,BGF Global Allocation Fund,16.02,0.69,4.19,AUD,9.20,62.41
+228289, ,BGF Global Allocation Fund,11.78,0.60,3.53,CHF,6.26,17.55
+264292,-,BGF Global Allocation Fund,117.30,0.69,5.64,China OffShore Renminbi,11.39,16.29
+228273, ,BGF Global Allocation Fund,35.71,0.65,3.59,EUR,6.67,63.44
+228274, ,BGF Global Allocation Fund,28.57,0.63,3.76,GBP,7.21,60.49
+230109,-,BGF Global Allocation Fund,12.98,0.70,3.87,HKD,7.60,28.90
+228295, ,BGF Global Allocation Fund,15.60,0.65,4.10,PLN,8.47,54.90
+228280, ,BGF Global Allocation Fund,12.78,0.71,3.93,SGD,7.91,26.90
+228291, ,BGF Global Allocation Fund,47.88,-0.91,2.70,EUR,15.45,109.74
+228310, ,BGF Global Allocation Fund,52.03,0.66,4.03,USD,8.17,31.26
+228275, ,BGF Global Allocation Fund,33.47,0.66,3.58,EUR,6.66,42.85
+228296, ,BGF Global Allocation Fund,52.43,-0.91,2.90,EUR,16.31,76.52
+228283, ,BGF Global Allocation Fund,56.97,0.67,4.22,USD,8.96,39.61
+241486,-,BGF Global Allocation Fund,16.58,0.67,4.38,AUD,9.96,36.40
+241487,-,BGF Global Allocation Fund,12.21,0.66,3.68,CHF,6.97,20.34
+228282, ,BGF Global Allocation Fund,38.33,0.66,3.79,EUR,7.45,28.29
+241488,-,BGF Global Allocation Fund,29.55,0.65,3.97,GBP,8.02,25.05
+241489,-,BGF Global Allocation Fund,16.15,0.69,4.36,PLN,9.35,34.71
+241490,-,BGF Global Allocation Fund,13.22,0.69,4.12,SGD,8.78,25.89
+241491,-,BGF Global Allocation Fund,48.13,-0.91,2.90,EUR,16.32,52.68
+241492,-,BGF Global Allocation Fund,33.64,0.66,3.76,EUR,7.44,22.63
+228652, ,BGF Global Corporate Bond Fund,13.19,0.00,1.16,USD,2.75,30.80
+228651, ,BGF Global Corporate Bond Fund,12.65,0.00,0.80,EUR,1.13,25.22
+271741,-,BGF Global Corporate Bond Fund,100.51,0.00,0.68,SEK,0.88,-0.20
+283768,-,BGF Global Corporate Bond Fund,10.24,0.00,1.09,SGD,-,1.60
+241456,-,BGF Global Corporate Bond Fund,11.50,0.00,1.34,AUD,3.64,26.61
+241457,-,BGF Global Corporate Bond Fund,10.67,0.09,1.03,CAD,2.40,17.50
+241458,-,BGF Global Corporate Bond Fund,10.47,0.00,0.94,GBP,2.10,15.40
+241415,-,BGF Global Corporate Bond Fund,11.59,0.00,1.42,NZD,3.99,28.42
+228653, ,BGF Global Corporate Bond Fund,9.28,0.00,0.66,EUR,1.12,25.71
+241416,-,BGF Global Corporate Bond Fund,10.47,0.00,1.22,USD,2.81,14.56
+230111,-,BGF Global Corporate Bond Fund,10.89,0.00,1.22,USD,2.76,20.63
+230112,-,BGF Global Corporate Bond Fund,83.32,0.01,1.03,HKD,2.25,19.18
+284106,-,BGF Global Corporate Bond Fund,9.87,0.00,1.02,SGD,-,0.30
+246686,-,BGF Global Corporate Bond Fund,11.00,0.09,1.30,AUD,3.66,21.46
+273474,-,BGF Global Corporate Bond Fund,99.28,0.03,2.73,China OffShore Renminbi,5.75,9.13
+271373,-,BGF Global Corporate Bond Fund,9.68,0.10,1.39,NZD,4.06,9.43
+228655, ,BGF Global Corporate Bond Fund,13.70,0.00,1.27,USD,3.19,63.61
+228657, ,BGF Global Corporate Bond Fund,13.12,0.00,0.85,EUR,1.56,57.63
+273475,-,BGF Global Corporate Bond Fund,9.58,0.00,1.06,GBP,2.70,2.81
+229693,-,BGF Global Dynamic Equity Fund,16.69,-0.36,4.18,EUR,23.31,101.07
+229698,-,BGF Global Dynamic Equity Fund,18.13,1.17,5.48,USD,15.45,80.80
+276186,-,BGF Global Dynamic Equity Fund,109.71,1.19,-,China OffShore Renminbi,-,-
+229694,-,BGF Global Dynamic Equity Fund,12.50,1.13,5.05,EUR,14.18,22.23
+229690,-,BGF Global Dynamic Equity Fund,16.68,-0.42,4.19,EUR,23.27,176.52
+241484,-,BGF Global Dynamic Equity Fund,17.84,-0.39,4.33,EUR,24.16,76.83
+229692,-,BGF Global Dynamic Equity Fund,19.39,1.20,5.69,USD,16.38,52.32
+241485,-,BGF Global Dynamic Equity Fund,12.94,1.17,5.22,EUR,15.06,43.44
+253848,-,BGF Global Dynamic Equity Fund,15.10,-0.40,4.29,EUR,24.12,56.00
+229706,-,BGF Global Enhanced Equity Yield Fund,12.61,0.64,4.04,USD,12.16,23.60
+229703,-,BGF Global Enhanced Equity Yield Fund,8.36,0.60,4.42,EUR,5.22,3.50
+229171,-,BGF Global Enhanced Equity Yield Fund,10.58,0.67,4.70,SGD,6.30,1.06
+229707,-,BGF Global Enhanced Equity Yield Fund,5.32,0.76,4.13,USD,12.26,22.93
+229704,-,BGF Global Enhanced Equity Yield Fund,4.10,0.74,4.27,EUR,5.20,5.18
+270404,-,BGF Global Enhanced Equity Yield Fund,9.10,0.66,4.19,USD,12.25,7.03
+270402,-,BGF Global Enhanced Equity Yield Fund,9.02,0.67,4.68,GBP,5.73,7.00
+270403,-,BGF Global Enhanced Equity Yield Fund,90.32,0.68,4.80,HKD,6.19,7.09
+270405,-,BGF Global Enhanced Equity Yield Fund,9.02,0.78,5.13,AUD,7.73,10.83
+270406,-,BGF Global Enhanced Equity Yield Fund,8.97,0.67,4.72,CAD,6.23,6.86
+271612,-,BGF Global Enhanced Equity Yield Fund,92.68,0.70,6.53,China OffShore Renminbi,9.83,15.41
+270407,-,BGF Global Enhanced Equity Yield Fund,9.02,0.67,5.25,NZD,8.06,12.73
+229712,-,BGF Global Enhanced Equity Yield Fund,13.49,0.67,4.26,USD,13.10,28.63
+241498,-,BGF Global Enhanced Equity Yield Fund,8.64,0.58,4.65,EUR,6.08,20.76
+241497,-,BGF Global Enhanced Equity Yield Fund,5.61,0.72,5.08,USD,7.52,24.11
+249552,-,BGF Global Equity Income Fund,14.55,-0.34,4.93,EUR,15.94,60.02
+229725,-,BGF Global Equity Income Fund,15.81,1.22,6.30,USD,8.65,57.00
+270121,-,BGF Global Equity Income Fund,10.75,1.22,5.74,CHF,6.69,6.90
+229731,-,BGF Global Equity Income Fund,14.10,1.22,5.81,EUR,7.10,40.20
+229724,-,BGF Global Equity Income Fund,16.74,1.21,6.47,PLN,8.91,66.30
+229732,-,BGF Global Equity Income Fund,14.67,1.17,6.19,SGD,8.40,45.80
+229726,-,BGF Global Equity Income Fund,12.13,-0.41,4.88,EUR,15.96,78.86
+286067,-,BGF Global Equity Income Fund,10.89,1.21,-,EUR,-,-
+229175,-,BGF Global Equity Income Fund,10.13,1.30,5.62,GBP,25.27,101.93
+228639, ,BGF Global Equity Income Fund,12.95,1.25,6.28,USD,8.66,56.93
+229733,-,BGF Global Equity Income Fund,11.82,1.20,5.77,EUR,7.13,38.66
+229734,-,BGF Global Equity Income Fund,12.48,1.30,6.13,SGD,8.34,45.73
+229727,-,BGF Global Equity Income Fund,13.35,1.21,6.37,USD,8.69,44.61
+259500,-,BGF Global Equity Income Fund,104.33,1.23,6.15,HKD,8.11,14.69
+256059,-,BGF Global Equity Income Fund,10.78,1.22,6.13,SGD,8.31,20.47
+256057,-,BGF Global Equity Income Fund,10.76,1.32,6.52,AUD,9.76,27.64
+273396,-,BGF Global Equity Income Fund,104.91,1.24,7.90,China OffShore Renminbi,11.82,15.41
+260711,-,BGF Global Equity Income Fund,108.18,1.19,7.85,ZAR,15.55,35.66
+229728,-,BGF Global Equity Income Fund,16.59,1.28,6.47,USD,9.44,68.55
+245707,-,BGF Global Equity Income Fund,13.11,1.16,5.85,CHF,7.42,30.30
+241665,-,BGF Global Equity Income Fund,14.59,1.25,6.07,EUR,7.97,35.01
+241666,-,BGF Global Equity Income Fund,17.32,1.17,6.57,PLN,9.63,47.93
+241667,-,BGF Global Equity Income Fund,15.18,1.27,6.43,SGD,9.20,38.38
+253850,-,BGF Global Equity Income Fund,13.54,-0.37,5.15,EUR,16.81,50.62
+241670,-,BGF Global Equity Income Fund,10.50,1.35,5.76,GBP,26.19,81.06
+241671,-,BGF Global Equity Income Fund,13.40,1.21,6.51,USD,9.41,38.97
+241753,-,BGF Global Equity Income Fund,12.24,1.24,6.06,EUR,7.90,35.17
+241669,-,BGF Global Equity Income Fund,8.19,1.24,6.28,GBP,8.39,37.87
+229738,-,BGF Global Government Bond Fund,20.29,-0.10,0.26,USD,-0.07,80.90
+229181,-,BGF Global Government Bond Fund,18.93,-0.11,-0.15,EUR,-1.67,68.69
+229178,-,BGF Global Government Bond Fund,28.18,-0.07,0.25,USD,-0.07,348.92
+229744,-,BGF Global Government Bond Fund,25.86,-0.12,-0.16,EUR,-1.64,-
+229179,-,BGF Global Government Bond Fund,20.33,-0.10,0.27,USD,-0.07,59.06
+229182,-,BGF Global Government Bond Fund,18.77,-0.16,-0.16,EUR,-1.69,43.48
+284719,-,BGF Global Government Bond Fund,9.77,-0.10,0.04,GBP,-,-
+284720,-,BGF Global Government Bond Fund,97.94,-0.10,0.14,HKD,-,-
+229742,-,BGF Global Government Bond Fund,28.86,-0.10,0.35,USD,0.28,24.16
+229747,-,BGF Global Government Bond Fund,26.83,-0.11,-0.07,EUR,-1.33,38.00
+243860,-,BGF Global Government Bond Fund,20.35,-0.10,0.40,USD,0.32,15.68
+243880,-,BGF Global Government Bond Fund,18.80,-0.11,-0.07,EUR,-1.35,12.33
+229185,-,BGF Global High Yield Bond Fund,7.96,0.13,2.58,USD,13.37,66.08
+229190,-,BGF Global High Yield Bond Fund,5.56,0.00,2.26,EUR,11.76,119.46
+229755,-,BGF Global High Yield Bond Fund,23.43,0.17,2.65,USD,13.40,67.97
+229191,-,BGF Global High Yield Bond Fund,16.33,0.18,2.20,EUR,11.77,118.28
+229758,-,BGF Global High Yield Bond Fund,17.42,0.23,2.36,GBP,12.61,42.90
+244124,-,BGF Global High Yield Bond Fund,13.18,0.15,2.75,PLN,13.93,30.90
+230114,-,BGF Global High Yield Bond Fund,12.92,0.16,2.15,SEK,11.45,28.50
+229756,-,BGF Global High Yield Bond Fund,8.02,0.12,2.70,USD,13.46,66.00
+229759,-,BGF Global High Yield Bond Fund,5.52,0.18,2.08,EUR,11.80,94.67
+270728,-,BGF Global High Yield Bond Fund,11.39,-1.39,1.31,EUR,21.02,28.61
+228328, ,BGF Global High Yield Bond Fund,7.26,0.28,2.64,USD,13.34,30.02
+230113,-,BGF Global High Yield Bond Fund,55.96,0.20,2.50,HKD,12.85,33.00
+246684,-,BGF Global High Yield Bond Fund,7.17,0.28,2.80,AUD,14.46,27.38
+260725,-,BGF Global High Yield Bond Fund,93.91,0.19,4.33,ZAR,21.10,31.65
+229189,-,BGF Global High Yield Bond Fund,24.57,0.20,2.82,USD,14.07,106.43
+229194,-,BGF Global High Yield Bond Fund,17.06,0.18,2.35,EUR,12.47,99.76
+229762,-,BGF Global High Yield Bond Fund,18.07,0.22,2.57,GBP,13.31,79.60
+241677,-,BGF Global High Yield Bond Fund,8.07,0.25,2.84,USD,14.08,27.94
+241675,-,BGF Global High Yield Bond Fund,5.56,0.18,2.22,EUR,12.43,23.85
+264650,-,BGF Global High Yield Bond Fund,9.47,0.21,2.49,GBP,13.20,8.80
+228341, ,BGF Global Inflation Linked Bond Fund,14.39,-0.35,0.71,USD,6.18,42.70
+228342, ,BGF Global Inflation Linked Bond Fund,13.73,-0.44,0.29,EUR,4.52,36.40
+228343, ,BGF Global Inflation Linked Bond Fund,13.97,-0.36,0.80,USD,6.21,41.17
+228348, ,BGF Global Inflation Linked Bond Fund,14.78,-0.40,0.89,USD,6.61,34.59
+228347, ,BGF Global Inflation Linked Bond Fund,14.11,-0.35,0.36,EUR,4.87,36.02
+241681,-,BGF Global Inflation Linked Bond Fund,13.98,-0.36,0.86,USD,6.62,13.68
+271614,-,BGF Global Multi-Asset Income Fund,11.70,-1.02,4.03,EUR,3.93,11.32
+230304,-,BGF Global Multi-Asset Income Fund,12.71,0.55,2.78,USD,8.26,25.80
+283038,-,BGF Global Multi-Asset Income Fund,10.81,0.56,2.29,CHF,6.24,7.20
+264288,-,BGF Global Multi-Asset Income Fund,10.49,0.58,2.36,EUR,6.56,3.90
+275467,-,BGF Global Multi-Asset Income Fund,9.55,-1.04,4.05,EUR,3.83,-0.62
+279636,-,BGF Global Multi-Asset Income Fund,10.38,0.58,2.70,USD,8.17,7.62
+283039,-,BGF Global Multi-Asset Income Fund,10.53,0.57,2.15,CHF,6.03,6.99
+261608,-,BGF Global Multi-Asset Income Fund,9.41,0.64,2.31,EUR,6.70,6.13
+284105,-,BGF Global Multi-Asset Income Fund,10.35,0.58,2.74,USD,-,6.30
+256060,-,BGF Global Multi-Asset Income Fund,10.16,0.59,2.97,AUD,9.33,21.65
+251179,-,BGF Global Multi-Asset Income Fund,9.24,0.65,2.58,SGD,8.03,12.50
+230305,-,BGF Global Multi-Asset Income Fund,9.78,0.51,2.77,USD,8.27,25.79
+271076,-,BGF Global Multi-Asset Income Fund,9.12,0.55,2.31,EUR,6.65,3.37
+230306,-,BGF Global Multi-Asset Income Fund,96.73,0.57,2.62,HKD,7.72,24.32
+256058,-,BGF Global Multi-Asset Income Fund,9.40,0.53,2.72,SGD,8.03,15.03
+246685,-,BGF Global Multi-Asset Income Fund,9.86,0.61,2.88,AUD,9.29,21.46
+259502,-,BGF Global Multi-Asset Income Fund,9.19,0.55,2.63,CAD,7.95,10.55
+259501,-,BGF Global Multi-Asset Income Fund,9.22,0.55,2.49,GBP,7.45,9.71
+256061,-,BGF Global Multi-Asset Income Fund,9.43,0.53,3.05,NZD,9.77,24.35
+237604,-,BGF Global Multi-Asset Income Fund,12.75,0.55,3.02,USD,9.08,26.20
+283036,-,BGF Global Multi-Asset Income Fund,10.89,0.55,2.37,CHF,6.94,7.90
+264285,-,BGF Global Multi-Asset Income Fund,10.73,0.56,2.12,EUR,10.20,5.90
+283031,-,BGF Global Multi-Asset Income Fund,10.62,0.57,2.43,CHF,6.94,7.90
+255662,-,BGF Global Multi-Asset Income Fund,10.01,0.50,2.59,EUR,7.47,17.08
+259503,-,BGF Global Multi-Asset Income Fund,10.09,0.60,2.93,USD,9.07,13.03
+229197,-,BGF Global Opportunities Fund,43.09,-0.25,6.23,EUR,22.74,76.36
+229769,-,BGF Global Opportunities Fund,46.83,1.34,7.59,USD,15.00,357.95
+271618,-,BGF Global Opportunities Fund,11.49,1.32,7.51,SGD,14.82,13.10
+271620,-,BGF Global Opportunities Fund,13.53,1.42,6.81,GBP,32.43,36.40
+271619,-,BGF Global Opportunities Fund,11.46,1.33,7.63,USD,14.98,12.80
+243869,-,BGF Global Opportunities Fund,44.81,-0.24,6.41,EUR,23.65,72.81
+229199,-,BGF Global Opportunities Fund,48.69,1.35,7.79,USD,15.85,65.39
+271621,-,BGF Global Opportunities Fund,13.62,1.41,7.01,GBP,33.58,38.76
+229772,-,BGF Global SmallCap Fund,85.18,-0.32,2.12,EUR,23.50,253.74
+229773,-,BGF Global SmallCap Fund,92.57,1.29,3.45,USD,15.72,839.42
+260712,-,BGF Global SmallCap Fund,10.66,1.33,3.54,AUD,16.72,5.40
+229777,-,BGF Global SmallCap Fund,90.96,-0.30,2.32,EUR,24.45,141.24
+229202,-,BGF India Fund,31.65,-0.41,16.92,EUR,31.91,312.81
+229782,-,BGF India Fund,34.39,1.21,18.39,USD,23.59,84.78
+229203,-,BGF India Fund,27.06,1.27,17.58,GBP,42.44,167.12
+228323, ,BGF India Fund,34.17,-0.41,17.11,EUR,32.92,130.27
+229783,-,BGF India Fund,37.13,1.20,18.67,USD,24.56,99.13
+243861,-,BGF India Fund,27.96,1.27,17.76,GBP,43.49,114.42
+229280,-,BGF Japan Flexible Equity Fund,11.09,-1.51,4.38,EUR,22.25,48.67
+229814,-,BGF Japan Flexible Equity Fund,"1,327.00",0.99,1.98,JPY,13.88,28.31
+229815,-,BGF Japan Flexible Equity Fund,12.05,0.08,6.49,USD,14.44,19.70
+229283,-,BGF Japan Flexible Equity Fund,8.30,0.97,1.70,EUR,12.65,-20.06
+254578,-,BGF Japan Flexible Equity Fund,12.70,1.03,1.99,USD,13.79,27.90
+229281,-,BGF Japan Flexible Equity Fund,9.32,0.22,4.52,GBP,31.81,84.11
+241686,-,BGF Japan Flexible Equity Fund,11.93,-1.49,4.51,EUR,23.08,80.68
+229821,-,BGF Japan Flexible Equity Fund,"1,427.00",0.99,2.20,JPY,14.76,2.71
+241687,-,BGF Japan Flexible Equity Fund,12.96,0.08,6.72,USD,15.32,48.94
+241688,-,BGF Japan Flexible Equity Fund,8.59,0.94,1.88,EUR,13.35,103.76
+241689,-,BGF Japan Flexible Equity Fund,9.46,0.11,4.78,GBP,32.92,94.54
+229802,-,BGF Japan Small & MidCap Opportunities Fund,52.15,-1.66,3.88,EUR,21.53,86.17
+229803,-,BGF Japan Small & MidCap Opportunities Fund,"6,242.00",0.86,1.53,JPY,13.28,349.14
+229277,-,BGF Japan Small & MidCap Opportunities Fund,56.66,-0.11,6.14,USD,13.85,463.90
+229800,-,BGF Japan Small & MidCap Opportunities Fund,40.63,0.82,1.31,EUR,12.10,-11.13
+253389,-,BGF Japan Small & MidCap Opportunities Fund,11.73,0.86,1.55,USD,13.53,18.30
+229804,-,BGF Japan Small & MidCap Opportunities Fund,44.28,-0.02,4.13,GBP,31.19,655.24
+229279,-,BGF Japan Small & MidCap Opportunities Fund,55.95,-1.65,4.08,EUR,22.43,39.41
+229808,-,BGF Japan Small & MidCap Opportunities Fund,"6,697.00",0.86,1.72,JPY,14.11,109.95
+241684,-,BGF Japan Small & MidCap Opportunities Fund,60.79,-0.10,6.33,USD,14.70,67.32
+241683,-,BGF Japan Small & MidCap Opportunities Fund,42.03,0.84,1.48,EUR,12.94,130.41
+241685,-,BGF Japan Small & MidCap Opportunities Fund,45.21,-0.04,4.32,GBP,32.23,118.62
+229826,-,BGF Latin American Fund,57.96,0.14,11.30,EUR,29.00,358.13
+229285,-,BGF Latin American Fund,49.28,1.80,11.94,GBP,39.26,591.29
+229286,-,BGF Latin American Fund,62.98,1.74,12.74,USD,20.83,351.19
+260713,-,BGF Latin American Fund,9.77,1.77,12.57,AUD,21.03,-3.30
+229834,-,BGF Latin American Fund,6.22,1.80,12.00,CHF,18.46,-38.40
+230117,-,BGF Latin American Fund,8.63,1.77,12.52,HKD,20.28,-14.60
+229835,-,BGF Latin American Fund,8.38,1.70,12.62,PLN,20.29,-17.00
+229836,-,BGF Latin American Fund,6.18,1.81,12.71,SGD,20.24,-38.80
+229827,-,BGF Latin American Fund,55.44,0.13,11.29,EUR,28.99,95.18
+229829,-,BGF Latin American Fund,46.40,1.80,11.94,GBP,39.27,245.27
+229289,-,BGF Latin American Fund,62.67,0.13,11.52,EUR,29.95,37.34
+241759,-,BGF Latin American Fund,53.29,1.80,12.14,GBP,40.28,6.89
+229832,-,BGF Latin American Fund,68.11,1.75,12.95,USD,21.75,35.11
+241755,-,BGF Latin American Fund,6.42,1.74,12.17,CHF,19.32,-22.25
+241754,-,BGF Latin American Fund,51.27,1.69,12.42,EUR,20.94,-19.18
+241758,-,BGF Latin American Fund,41.71,1.68,12.48,GBP,20.87,-18.30
+241756,-,BGF Latin American Fund,8.68,1.76,12.88,PLN,21.16,-14.27
+242995,-,BGF Latin American Fund,6.39,1.75,12.66,SGD,21.07,-19.49
+241760,-,BGF Latin American Fund,55.66,0.14,11.47,EUR,29.94,0.42
+241757,-,BGF Latin American Fund,46.57,1.79,12.14,GBP,40.31,6.89
+230004,-,BGF Natural Resources Growth & Income Fund,7.89,0.90,-0.62,USD,19.91,-19.90
+284015,-,BGF Natural Resources Growth & Income Fund,10.63,0.85,-0.55,USD,-,9.74
+230002,-,BGF Natural Resources Growth & Income Fund,6.61,0.92,-0.59,USD,20.02,-16.92
+271262,-,BGF Natural Resources Growth & Income Fund,5.85,-0.68,-1.81,EUR,28.11,8.44
+230003,-,BGF Natural Resources Growth & Income Fund,6.36,0.95,-0.45,USD,20.11,-20.68
+229298,-,BGF New Energy Fund,7.85,1.03,6.46,EUR,15.01,-30.65
+229299,-,BGF New Energy Fund,8.53,2.65,7.82,USD,7.68,-27.07
+229871,-,BGF New Energy Fund,7.83,1.03,6.48,EUR,14.88,43.46
+229300,-,BGF New Energy Fund,6.68,2.77,7.10,GBP,24.11,15.49
+229877,-,BGF New Energy Fund,8.56,1.06,6.71,EUR,15.80,9.77
+229878,-,BGF New Energy Fund,9.30,2.65,8.03,USD,8.55,-8.15
+243863,-,BGF New Energy Fund,7.98,1.14,6.79,EUR,15.77,65.06
+229879,-,BGF New Energy Fund,6.89,2.84,7.21,GBP,25.11,42.70
+228493, ,BGF North American Equity Income Fund,15.82,1.22,2.79,USD,17.10,58.20
+228490, ,BGF North American Equity Income Fund,14.32,1.20,2.83,USD,17.04,57.39
+228492, ,BGF North American Equity Income Fund,16.45,1.23,3.01,USD,17.93,64.40
+246661,-,BGF North American Equity Income Fund,17.74,1.31,2.28,GBP,35.96,96.68
+244013,-,BGF North American Equity Income Fund,9.15,1.22,2.78,GBP,16.87,55.99
+229883,-,BGF Pacific Equity Fund,32.59,-1.33,8.12,EUR,24.72,-
+229303,-,BGF Pacific Equity Fund,27.71,0.29,8.77,GBP,34.64,190.79
+229884,-,BGF Pacific Equity Fund,35.41,0.23,9.52,USD,16.82,254.20
+229306,-,BGF Pacific Equity Fund,35.37,-1.34,8.34,EUR,25.64,74.19
+229307,-,BGF Pacific Equity Fund,38.44,0.23,9.74,USD,17.70,45.79
+257308,-,BGF Renminbi Bond Fund,11.82,-0.34,2.16,CHF,4.41,12.64
+228558, ,BGF Renminbi Bond Fund,-,-,2.52,China OffShore Renminbi,6.44,28.14
+228559, ,BGF Renminbi Bond Fund,11.89,0.08,3.86,USD,-0.08,18.40
+250691,-,BGF Renminbi Bond Fund,-,-,2.50,China OffShore Renminbi,6.42,17.26
+250692,-,BGF Renminbi Bond Fund,76.98,0.18,4.05,HKD,0.18,5.85
+228560, ,BGF Renminbi Bond Fund,9.90,0.20,3.85,USD,0.07,18.50
+243867,-,BGF Renminbi Bond Fund,80.94,0.05,2.59,China OffShore Renminbi,6.80,23.59
+228438, ,BGF Renminbi Bond Fund,11.76,0.17,4.00,USD,0.34,17.10
+228315, ,BGF Renminbi Bond Fund,9.94,0.10,3.93,USD,0.35,20.76
+228528, ,BGF Swiss Small & MidCap Opportunities Fund,409.26,1.20,11.99,CHF,27.79,168.47
+228529, ,BGF Swiss Small & MidCap Opportunities Fund,436.86,1.21,12.19,CHF,28.74,186.44
+277132,-,BGF Swiss Small & MidCap Opportunities Fund,13.90,1.24,12.25,CHF,28.78,33.80
+228530, ,BGF United Kingdom Fund,116.00,0.24,2.93,EUR,8.84,83.26
+228539, ,BGF United Kingdom Fund,98.64,1.91,3.53,GBP,17.50,"1,319.14"
+228540, ,BGF United Kingdom Fund,126.05,1.85,4.25,USD,1.96,130.78
+228532, ,BGF United Kingdom Fund,84.75,1.92,3.53,GBP,17.52,"1,314.91"
+228538, ,BGF United Kingdom Fund,124.48,0.25,3.12,EUR,9.67,79.39
+228534, ,BGF United Kingdom Fund,105.85,1.93,3.73,GBP,18.40,77.59
+241769,-,BGF United Kingdom Fund,102.06,1.93,3.72,GBP,18.39,54.65
+241783,-,BGF United Kingdom Fund,135.27,1.86,4.46,USD,2.74,19.56
+241770,-,BGF United Kingdom Fund,85.26,1.92,3.72,GBP,18.39,54.64
+228550, ,BGF US Basic Value Fund,73.49,-0.43,-1.37,EUR,23.80,129.95
+228566, ,BGF US Basic Value Fund,62.49,1.21,-0.80,GBP,33.66,150.31
+228551, ,BGF US Basic Value Fund,79.86,1.15,-0.10,USD,15.98,256.28
+228576, ,BGF US Basic Value Fund,55.24,1.12,-0.45,EUR,14.83,71.18
+228581, ,BGF US Basic Value Fund,15.70,1.09,-0.19,SGD,15.85,58.60
+228640, ,BGF US Basic Value Fund,73.09,-0.44,-1.38,EUR,23.80,126.95
+228552, ,BGF US Basic Value Fund,62.06,1.22,-0.80,GBP,33.65,187.39
+229309,-,BGF US Basic Value Fund,79.42,1.16,-0.10,USD,15.99,162.95
+243881,-,BGF US Basic Value Fund,79.70,-0.42,-1.20,EUR,24.72,93.82
+243882,-,BGF US Basic Value Fund,67.77,1.24,-0.62,GBP,34.65,104.49
+228578, ,BGF US Basic Value Fund,86.60,1.16,0.08,USD,16.85,67.61
+243866,-,BGF US Basic Value Fund,57.13,1.12,-0.26,EUR,15.71,55.56
+243864,-,BGF US Basic Value Fund,73.92,-0.43,-1.17,EUR,24.74,93.84
+243865,-,BGF US Basic Value Fund,62.74,1.23,-0.61,GBP,34.67,104.46
+243889,-,BGF US Basic Value Fund,80.33,1.17,0.10,USD,16.85,58.02
+228565, ,BGF US Dollar Core Bond Fund,16.87,-0.12,1.04,USD,0.93,57.57
+228548, ,BGF US Dollar Core Bond Fund,31.43,-0.06,1.07,USD,0.94,287.61
+228571, ,BGF US Dollar Core Bond Fund,16.90,-0.06,1.04,USD,0.92,60.25
+284725,-,BGF US Dollar Core Bond Fund,9.66,-0.10,0.87,GBP,-,-
+284726,-,BGF US Dollar Core Bond Fund,97.74,-0.06,0.89,HKD,-,-
+228557, ,BGF US Dollar Core Bond Fund,32.30,-0.06,1.17,USD,1.36,22.73
+228401, ,BGF US Dollar Core Bond Fund,16.91,-0.06,1.14,USD,1.33,21.59
+228563, ,BGF US Dollar High Yield Bond Fund,5.82,0.17,2.48,USD,13.99,144.62
+228564, ,BGF US Dollar High Yield Bond Fund,31.01,0.13,2.42,USD,13.87,208.60
+228400, ,BGF US Dollar High Yield Bond Fund,15.70,0.13,2.56,AUD,14.94,56.20
+269096,-,BGF US Dollar High Yield Bond Fund,10.48,0.10,1.85,CHF,11.78,4.40
+228556, ,BGF US Dollar High Yield Bond Fund,202.12,0.11,2.00,EUR,12.38,66.11
+228399, ,BGF US Dollar High Yield Bond Fund,13.64,0.15,2.34,SGD,13.74,35.80
+228409, ,BGF US Dollar High Yield Bond Fund,5.89,0.17,2.47,USD,13.89,109.23
+228398, ,BGF US Dollar High Yield Bond Fund,11.58,0.17,2.65,AUD,15.05,55.50
+235473,-,BGF US Dollar High Yield Bond Fund,10.37,0.10,2.23,CAD,13.43,28.81
+230310,-,BGF US Dollar High Yield Bond Fund,9.98,0.10,1.96,EUR,12.34,23.96
+230311,-,BGF US Dollar High Yield Bond Fund,10.22,0.20,2.24,GBP,13.19,27.31
+241418,-,BGF US Dollar High Yield Bond Fund,11.27,0.09,2.70,NZD,15.31,39.10
+228397, ,BGF US Dollar High Yield Bond Fund,10.06,0.20,2.26,SGD,13.72,35.06
+228404, ,BGF US Dollar High Yield Bond Fund,11.40,0.09,2.16,GBP,13.16,43.42
+228393, ,BGF US Dollar High Yield Bond Fund,5.32,0.19,2.42,USD,13.78,33.07
+228410, ,BGF US Dollar High Yield Bond Fund,40.85,0.12,2.28,HKD,13.36,27.25
+280499,-,BGF US Dollar High Yield Bond Fund,10.07,0.10,2.33,SGD,13.80,10.20
+246709,-,BGF US Dollar High Yield Bond Fund,9.90,0.10,2.59,AUD,14.96,27.62
+260726,-,BGF US Dollar High Yield Bond Fund,94.31,0.14,4.14,ZAR,21.68,32.04
+228396, ,BGF US Dollar High Yield Bond Fund,32.24,0.12,2.59,USD,14.61,46.82
+244007,-,BGF US Dollar High Yield Bond Fund,16.17,0.12,2.75,AUD,15.68,36.97
+269097,-,BGF US Dollar High Yield Bond Fund,10.64,0.09,2.02,CHF,12.41,6.00
+228395, ,BGF US Dollar High Yield Bond Fund,210.21,0.12,2.15,EUR,13.02,51.79
+244029,-,BGF US Dollar High Yield Bond Fund,14.00,0.14,2.50,SGD,14.37,26.18
+228402, ,BGF US Dollar High Yield Bond Fund,10.09,0.10,2.63,USD,14.60,39.76
+244030,-,BGF US Dollar High Yield Bond Fund,10.09,0.10,2.50,SGD,14.49,26.24
+228403, ,BGF US Dollar High Yield Bond Fund,11.40,0.18,2.34,GBP,13.82,48.20
+228335, ,BGF US Dollar Reserve Fund,151.37,0.01,0.12,USD,0.29,61.99
+228334, ,BGF US Dollar Reserve Fund,189.81,0.00,-0.11,GBP,-0.35,89.83
+244026,-,BGF US Dollar Reserve Fund,190.23,0.01,-0.07,GBP,-0.17,0.29
+228579, ,BGF US Dollar Short Duration Bond Fund,8.57,0.12,0.54,USD,1.39,30.38
+228575, ,BGF US Dollar Short Duration Bond Fund,13.10,0.08,0.62,USD,1.48,30.60
+244102,-,BGF US Dollar Short Duration Bond Fund,10.18,0.10,0.10,EUR,-0.10,1.60
+228589, ,BGF US Dollar Short Duration Bond Fund,7.88,-1.50,-0.82,EUR,8.25,22.09
+228337, ,BGF US Dollar Short Duration Bond Fund,8.57,0.12,0.55,USD,1.39,10.70
+264287,-,BGF US Dollar Short Duration Bond Fund,9.85,0.10,0.54,SGD,1.34,2.74
+244014,-,BGF US Dollar Short Duration Bond Fund,13.30,0.08,0.61,USD,1.77,6.17
+283924,-,BGF US Dollar Short Duration Bond Fund,10.03,0.00,0.20,EUR,-,0.10
+229892,-,BGF US Dollar Short Duration Bond Fund,9.84,0.10,0.63,USD,1.79,11.57
+228607, ,BGF US Flexible Equity Fund,27.11,-0.29,4.67,EUR,25.44,170.19
+228610, ,BGF US Flexible Equity Fund,29.46,1.31,6.02,USD,17.48,192.40
+228608, ,BGF US Flexible Equity Fund,20.26,1.30,5.67,EUR,16.35,85.28
+228613, ,BGF US Flexible Equity Fund,27.12,-0.29,4.66,EUR,25.37,204.90
+228609, ,BGF US Flexible Equity Fund,23.04,1.41,5.25,GBP,35.41,206.14
+228614, ,BGF US Flexible Equity Fund,20.33,1.30,5.65,EUR,16.35,133.91
+228620, ,BGF US Flexible Equity Fund,29.49,-0.27,4.86,EUR,26.37,124.60
+228619, ,BGF US Flexible Equity Fund,32.04,1.30,6.21,USD,18.35,88.00
+228621, ,BGF US Flexible Equity Fund,22.03,1.29,5.85,EUR,17.19,65.01
+244023,-,BGF US Flexible Equity Fund,27.87,-0.29,4.85,EUR,26.33,109.45
+244024,-,BGF US Flexible Equity Fund,23.68,1.37,5.48,GBP,36.41,123.31
+228597, ,BGF US Government Mortgage Fund,9.53,0.11,0.21,USD,-0.53,423.20
+228598, ,BGF US Government Mortgage Fund,18.79,0.16,0.27,USD,-0.48,428.74
+228603, ,BGF US Government Mortgage Fund,9.55,0.10,0.21,USD,-0.53,53.59
+228596, ,BGF US Government Mortgage Fund,19.30,0.10,0.37,USD,-0.10,23.58
+229896,-,BGF US Government Mortgage Fund,9.57,0.21,0.41,USD,-0.17,15.60
+228606, ,BGF US Growth Fund,15.09,-0.53,8.06,EUR,22.97,146.34
+228593, ,BGF US Growth Fund,16.40,1.05,9.40,USD,15.16,61.80
+255011,-,BGF US Growth Fund,15.20,1.06,9.01,EUR,13.63,50.10
+249678,-,BGF US Growth Fund,18.89,-0.53,8.04,EUR,22.89,93.81
+244008,-,BGF US Growth Fund,16.18,-0.55,8.27,EUR,23.80,108.08
+228595, ,BGF US Growth Fund,17.59,1.09,9.61,USD,15.99,74.10
+253849,-,BGF US Growth Fund,18.24,-0.49,8.22,EUR,23.83,82.90
+228543, ,BGF US Small & MidCap Opportunities Fund,190.23,-0.78,4.28,EUR,24.10,116.24
+228531, ,BGF US Small & MidCap Opportunities Fund,206.71,0.80,5.63,USD,16.27,"1,990.94"
+260714,-,BGF US Small & MidCap Opportunities Fund,12.39,0.81,5.75,AUD,17.43,23.30
+244015,-,BGF US Small & MidCap Opportunities Fund,204.00,-0.78,4.48,EUR,25.04,115.77
+228536, ,BGF US Small & MidCap Opportunities Fund,221.68,0.81,5.83,USD,17.14,106.07
+229903,-,BGF World Agriculture Fund,12.52,0.81,0.08,HKD,7.67,24.90
+229904,-,BGF World Agriculture Fund,12.51,0.89,-0.08,USD,7.58,24.90
+228321, ,BGF World Agriculture Fund,11.66,0.78,-0.51,EUR,6.39,16.60
+229910,-,BGF World Agriculture Fund,10.30,0.78,0.00,PLN,7.87,2.80
+229911,-,BGF World Agriculture Fund,12.03,0.84,-0.17,SGD,7.51,20.20
+229912,-,BGF World Agriculture Fund,11.56,0.78,-0.52,EUR,6.35,10.23
+229913,-,BGF World Agriculture Fund,11.48,0.79,-0.26,GBP,6.40,15.60
+229906,-,BGF World Agriculture Fund,12.13,-0.82,-1.12,EUR,15.68,57.14
+243783,-,BGF World Agriculture Fund,102.56,0.88,0.27,HKD,8.55,10.36
+229907,-,BGF World Agriculture Fund,13.19,0.84,0.08,USD,8.31,5.79
+229914,-,BGF World Agriculture Fund,12.23,0.82,-0.33,EUR,7.19,-10.17
+241773,-,BGF World Agriculture Fund,7.95,0.89,-0.13,GBP,7.16,9.08
+241772,-,BGF World Agriculture Fund,12.44,0.81,0.00,SGD,8.28,9.72
+241774,-,BGF World Agriculture Fund,11.76,0.86,-0.34,EUR,7.16,7.25
+241784,-,BGF World Agriculture Fund,11.67,0.86,-0.17,GBP,7.23,9.09
+228498, ,BGF World Bond Fund,55.74,-0.09,0.59,USD,0.61,52.42
+228497, ,BGF World Bond Fund,73.96,-0.07,0.59,USD,0.60,729.31
+228502, ,BGF World Bond Fund,188.71,-0.08,0.15,EUR,-1.00,38.83
+240293,-,BGF World Bond Fund,11.40,-0.09,0.35,GBP,0.00,13.50
+228499, ,BGF World Bond Fund,55.65,-0.07,0.59,USD,0.63,51.41
+284724,-,BGF World Bond Fund,9.64,0.00,0.39,GBP,-,-
+284723,-,BGF World Bond Fund,97.53,-0.07,0.45,HKD,-,-
+286066,-,BGF World Bond Fund,102.19,-0.05,-,CNY,-,-
+228501, ,BGF World Bond Fund,76.97,-0.08,0.70,USD,1.02,49.74
+250981,-,BGF World Bond Fund,10.24,-0.10,0.10,CHF,-1.07,1.90
+244025,-,BGF World Bond Fund,191.96,-0.08,0.25,EUR,-0.60,10.74
+246653,-,BGF World Bond Fund,11.33,0.00,0.54,GBP,0.45,12.70
+244009,-,BGF World Bond Fund,55.72,-0.07,0.69,USD,1.02,14.31
+229319,-,BGF World Energy Fund,15.68,-0.70,-7.80,EUR,20.10,47.22
+229918,-,BGF World Energy Fund,17.04,0.95,-6.55,USD,12.56,75.60
+260721,-,BGF World Energy Fund,7.11,0.99,-6.51,AUD,13.31,-26.80
+229925,-,BGF World Energy Fund,5.32,0.76,-7.11,CHF,10.69,-45.10
+229926,-,BGF World Energy Fund,4.99,0.81,-7.04,EUR,11.23,-48.50
+230129,-,BGF World Energy Fund,8.19,0.99,-6.74,HKD,11.94,-15.60
+229927,-,BGF World Energy Fund,4.97,1.02,-6.74,SGD,12.28,-48.80
+228339, ,BGF World Energy Fund,15.56,-0.64,-7.81,EUR,20.09,32.37
+229320,-,BGF World Energy Fund,13.18,1.00,-7.20,GBP,29.74,95.33
+229321,-,BGF World Energy Fund,17.05,-0.70,-7.55,EUR,21.07,0.90
+229924,-,BGF World Energy Fund,18.53,0.93,-6.38,USD,13.43,-15.53
+244011,-,BGF World Energy Fund,5.50,0.92,-6.90,CHF,11.39,-21.79
+229325,-,BGF World Energy Fund,5.33,0.76,-6.78,EUR,12.24,-51.54
+244010,-,BGF World Energy Fund,5.14,0.98,-6.53,SGD,13.25,-18.34
+244019,-,BGF World Energy Fund,15.68,-0.63,-7.60,EUR,21.03,0.25
+229322,-,BGF World Energy Fund,13.38,1.06,-7.04,GBP,30.62,-14.81
+244031,-,BGF World Energy Fund,17.04,0.95,-6.40,USD,13.41,-17.38
+229935,-,BGF World Financials Fund,21.93,2.05,6.85,EUR,39.00,92.55
+229936,-,BGF World Financials Fund,23.82,3.61,8.27,USD,30.26,131.60
+244016,-,BGF World Financials Fund,23.57,1.99,7.08,EUR,40.05,78.74
+229939,-,BGF World Financials Fund,25.61,3.64,8.46,USD,31.22,-5.83
+229332,-,BGF World Gold Fund,29.12,-3.09,3.75,EUR,21.25,333.43
+229941,-,BGF World Gold Fund,31.65,-1.52,5.08,USD,13.58,210.20
+260722,-,BGF World Gold Fund,10.04,-1.57,4.90,AUD,12.97,-1.60
+229949,-,BGF World Gold Fund,5.43,-1.45,4.10,CHF,9.90,-46.70
+229950,-,BGF World Gold Fund,5.14,-1.53,4.13,EUR,10.53,-49.60
+230130,-,BGF World Gold Fund,6.29,-1.41,4.93,HKD,12.80,-38.30
+285323,-,BGF World Gold Fund,94.44,-1.50,-,PLN,-,-
+229951,-,BGF World Gold Fund,5.60,-1.58,4.76,SGD,11.79,-45.00
+228338, ,BGF World Gold Fund,29.12,-3.06,3.72,EUR,21.21,22.33
+229942,-,BGF World Gold Fund,31.64,-1.53,5.08,USD,13.58,-43.98
+229947,-,BGF World Gold Fund,31.67,-3.09,3.92,EUR,22.14,12.15
+229333,-,BGF World Gold Fund,34.42,-1.52,5.28,USD,14.42,-6.12
+229953,-,BGF World Gold Fund,5.66,-1.57,4.13,CHF,10.56,-59.37
+229954,-,BGF World Gold Fund,5.53,-1.43,4.43,EUR,11.52,-45.80
+243795,-,BGF World Gold Fund,20.05,-1.52,4.41,GBP,13.65,-44.32
+243794,-,BGF World Gold Fund,5.79,-1.53,4.99,SGD,12.48,-45.65
+243796,-,BGF World Gold Fund,30.06,-3.06,3.96,EUR,22.19,-31.41
+229337,-,BGF World Healthscience Fund,33.02,-0.42,8.09,EUR,18.66,198.03
+229338,-,BGF World Healthscience Fund,35.88,1.18,9.49,USD,11.20,255.40
+260718,-,BGF World Healthscience Fund,12.62,1.20,9.75,AUD,12.21,25.00
+276187,-,BGF World Healthscience Fund,98.57,1.18,11.17,China OffShore Renminbi,14.47,-2.53
+264284,-,BGF World Healthscience Fund,126.59,1.17,9.36,HKD,10.67,25.46
+264124,-,BGF World Healthscience Fund,12.71,1.19,9.38,SGD,10.93,25.90
+244017,-,BGF World Healthscience Fund,35.48,-0.42,8.28,EUR,19.54,137.50
+229958,-,BGF World Healthscience Fund,38.55,1.15,9.72,USD,12.03,134.03
+229342,-,BGF World Mining Fund,30.63,-1.03,4.82,EUR,41.90,172.24
+229981,-,BGF World Mining Fund,33.28,0.54,6.17,USD,32.93,233.03
+260715,-,BGF World Mining Fund,7.17,0.56,6.23,AUD,32.35,-28.40
+229991,-,BGF World Mining Fund,4.94,0.61,5.33,CHF,30.00,-50.60
+229345,-,BGF World Mining Fund,2.97,0.34,5.69,EUR,30.84,-72.16
+230131,-,BGF World Mining Fund,5.98,0.50,5.85,HKD,32.08,-40.30
+229992,-,BGF World Mining Fund,5.21,0.58,5.91,PLN,32.99,-48.00
+229993,-,BGF World Mining Fund,3.17,0.63,6.38,SGD,32.08,-70.86
+229982,-,BGF World Mining Fund,29.93,-1.03,4.79,EUR,41.90,28.77
+229343,-,BGF World Mining Fund,24.76,0.61,5.41,GBP,53.24,80.66
+229988,-,BGF World Mining Fund,33.32,-1.01,5.00,EUR,42.98,-12.55
+229989,-,BGF World Mining Fund,36.20,0.56,6.39,USD,33.93,-26.79
+243802,-,BGF World Mining Fund,5.12,0.59,5.58,CHF,31.03,-45.46
+229347,-,BGF World Mining Fund,3.18,0.63,5.67,EUR,32.08,-68.30
+243804,-,BGF World Mining Fund,21.08,0.52,5.99,GBP,33.42,-41.99
+243803,-,BGF World Mining Fund,5.39,0.56,6.32,PLN,34.16,-39.41
+243812,-,BGF World Mining Fund,4.76,0.63,6.26,SGD,33.05,4.63
+243813,-,BGF World Mining Fund,24.89,0.61,5.60,GBP,54.29,-24.06
+249760,-,BGF World Real Estate Securities Fund,12.98,-0.69,1.03,USD,-1.24,27.10
+285321,-,BGF World Real Estate Securities Fund,10.09,-0.79,-,USD,-,-
+285322,-,BGF World Real Estate Securities Fund,102.94,-0.69,-,CNY,-,-
+272578,-,BGF World Real Estate Securities Fund,10.36,-0.77,1.30,USD,-0.39,1.50
+230009,-,BGF World Technology Fund,20.84,-0.71,13.64,EUR,36.23,-
+229352,-,BGF World Technology Fund,17.72,0.91,14.34,GBP,47.12,171.43
+230010,-,BGF World Technology Fund,22.64,0.85,15.16,USD,27.64,129.37
+230011,-,BGF World Technology Fund,22.15,-0.72,13.84,EUR,37.28,221.19
+244018,-,BGF World Technology Fund,18.83,0.91,14.55,GBP,48.20,146.68
+230012,-,BGF World Technology Fund,24.07,0.88,15.37,USD,28.60,103.18
